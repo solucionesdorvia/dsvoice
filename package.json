@@ -17,7 +17,8 @@
     "db:studio": "prisma studio",
     "seed": "tsx prisma/seed.ts",
     "seed:scrape": "tsx prisma/seed-from-scrape.ts",
-    "seed:safety-catalog": "tsx prisma/seed-safety-catalog.ts"
+    "seed:safety-catalog": "tsx prisma/seed-safety-catalog.ts",
+    "db:target": "tsx scripts/db-target.ts"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
