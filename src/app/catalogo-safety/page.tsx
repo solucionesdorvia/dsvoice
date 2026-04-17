@@ -57,12 +57,6 @@ export default async function CatalogoSafetyPage() {
           <p className="mt-2 font-medium text-muted-foreground">
             Catálogo pendiente de subida.
           </p>
-          <p className="mt-3 text-muted-foreground">
-            Ejecutá primero la carga de productos y luego:{" "}
-            <code className="rounded bg-muted px-1.5 py-0.5 text-xs text-foreground">
-              npx tsx prisma/seed-safety-catalog.ts
-            </code>
-          </p>
         </div>
       ) : (
         <CatalogSafetyClient initialCount={total} />
