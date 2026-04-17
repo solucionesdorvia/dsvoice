@@ -1,0 +1,390 @@
+{
+  "id": 1508,
+  "url": "https://www.draeger.com/es_csa/Substances/1508",
+  "name": "Tiosulfato de magnesio (hexahidrato)",
+  "formula": "H12MgO9S2",
+  "casNumber": "13446-30-5",
+  "unNumber": null,
+  "ecNumber": "629-478-4",
+  "hazardIdNumber": null,
+  "ghsPictograms": [
+    "GHS07"
+  ],
+  "hazardStatements": [
+    {
+      "code": "H315",
+      "text": "Causes skin irritation"
+    },
+    {
+      "code": "H319",
+      "text": "Causes serious eye irritation"
+    },
+    {
+      "code": "H335",
+      "text": "May cause respiratory irritation"
+    }
+  ],
+  "chemical": {
+    "raw": {
+      "Punto de fusión:": "170 °C",
+      "Densidad (a 20 °C, si no se indica lo contrario):": "1.818 g/cm3"
+    },
+    "meltingPointC": 170,
+    "boilingPointC": null,
+    "densityGCm3": 1.818,
+    "ionizationEv": null,
+    "flashPointC": null,
+    "ignitionTempC": null,
+    "vaporPressureHPa": null,
+    "lelVolPct": null,
+    "uelVolPct": null,
+    "decompositionTempC": null,
+    "molarMassGMol": null
+  },
+  "productCategories": [
+    {
+      "categoryGroup": "",
+      "category": "Máscaras & Filtros",
+      "products": [
+        {
+          "name": "Dräger X-plore® Rd40",
+          "tagline": null,
+          "features": [
+            "Serie de filtros con conexión de rosca estándar Rd40 según EN 148-1",
+            "Carcasa de aluminio robusta de larga vida útil",
+            "Apta para máscaras faciales completas y semicaretas con rosca Rd40"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-rd40-respiratory-filters-4-3-D-2261-2024.jpg",
+          "href": "/es_csa/Products/X-plore-Rd40#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® bayoneta",
+          "tagline": null,
+          "features": [
+            "Innovadora serie de filtros con conexión de bayoneta específica de Dräger",
+            "Cierre de bayoneta rápido y seguro para un fácil manejo",
+            "Apto para usar con semicaretas Dräger X-plore® 3000"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-bayonet-respiratory-filters-4-3-D-4441-2024.jpg",
+          "href": "/es_csa/Products/X-plore-Bayonet#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 4700",
+          "tagline": null,
+          "features": [
+            "Semicareta de filtro único con conexión de rosca estándar Rd40 según EN 148-1",
+            "Apta para su uso en diferentes industrias",
+            "Amplia gama de filtros Dräger X-plore Rd40 para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-4700-half-masks-4-3-D-11621-2025.jpg",
+          "href": "/es_csa/Products/X-plore-4700#Specifications"
+        },
+        {
+          "name": "Dräger Panorama Nova®",
+          "tagline": null,
+          "features": [
+            "Máscara completa que protege las vías respiratorias y los ojos",
+            "Diferentes conexiones de rosca: Conexión enchufable Dräger RA (Rd40), PE (M45x3), ESA o P",
+            "Cuerpo de máscara de EPDM o silicona, visor triplex o PC"
+          ],
+          "image": "/Media/Content/Products/Default/panorama-nova-full-face-masks-4-3-D-1120-2025.jpg",
+          "href": "/es_csa/Products/Panorama-Nova#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 6530",
+          "tagline": null,
+          "features": [
+            "Máscara facial completa de alta calidad, con filtro único y conexión de rosca estándar Rd40",
+            "Protege las vías respiratorias y los ojos",
+            "Amplia gama de filtros Dräger X-plore Rd40 para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-6530-full-face-masks-4-3-D-3778-2025.jpg",
+          "href": "/es_csa/Products/X-plore-6530#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 6300",
+          "tagline": null,
+          "features": [
+            "Máscara completa económica, filtro único y conexión de rosca estándar Rd40",
+            "Apta para entornos que requieren mayor protección respiratoria y ocular",
+            "Amplia gama de filtros X-plore Rd40 para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-6300-full-face-masks-4-3-D-3412-2024.jpg",
+          "href": "/es_csa/Products/X-plore-6300#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 6570",
+          "tagline": null,
+          "features": [
+            "Cómoda máscara completa de filtro único con conexión de rosca estándar Rd40",
+            "Protege las vías respiratorias y los ojos",
+            "Amplia gama de filtros Dräger X-plore Rd40 para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-6570-full-face-masks-4-3-D-3811-2025.jpg",
+          "href": "/es_csa/Products/X-plore-6570#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 5500",
+          "tagline": null,
+          "features": [
+            "Máscara completa con doble filtro con conexión de bayoneta Dräger",
+            "Para entornos que requieren mayor protección respiratoria y ocular",
+            "Amplia gama de filtros de bayoneta Dräger X-plore para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/draeger-x-plore-5500-full-face-masks-4-3-D-2219-2024.jpg",
+          "href": "/es_csa/Products/X-plore-5500#Specifications"
+        },
+        {
+          "name": "Dräger X-plore 3300/3500",
+          "tagline": null,
+          "features": [
+            "Semicareta de doble filtro con conexión de bayoneta específica de Dräger",
+            "Cómodo material Soft-TPE o DrägerFlex hipoalergénico",
+            "Amplia gama de filtros de bayoneta Dräger X-plore para diferentes aplicaciones"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-3000-half-masks-4-3-D-2288-2021.jpg",
+          "href": "/es_csa/Products/X-plore-3000#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 1900",
+          "tagline": null,
+          "features": [
+            "FFP plegable en 3 partes para aumentar el espacio para respirar",
+            "Protección eficaz contra polvo fino y partículas sólidas y líquidas",
+            "Disponible en 2 tamaños para un ajuste óptimo, protección EN FFP1, FFP2, FFP3"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-1900-ffp-dust-masks-4-3-D-46117-2021.jpg",
+          "href": "/es_csa/Products/X-plore-1900#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 1700",
+          "tagline": null,
+          "features": [
+            "FFP plegada para ahorrar espacio de almacenamiento y facilitar el transporte",
+            "Protección eficaz contra polvo fino y partículas sólidas y líquidas",
+            "Disponible en las tres clases de protección EN FFP1, FFP2, FFP3"
+          ],
+          "image": "/Media/Content/Products/Default/x-plore-1700-ffp-dust-masks-4-3-D-40578-2021.jpg",
+          "href": "/es_csa/Products/X-plore-1700#Specifications"
+        },
+        {
+          "name": "Dräger X-plore® 1300",
+          "tagline": null,
+          "features": [
+            "FFP con cuerpo de máscara preformado para uso cómodo y comunicación más sencilla",
+            "Protección eficaz contra polvo fino y partículas sólidas y líquidas",
+            "Disponible en las tres clases de protección EN FFP1, FFP2, FFP3"
+          ],
+          "image": "/Media/Content/Products/Default/D-11089-2024.jpg",
+          "href": "/es_csa/Products/X-plore-1300#Specifications"
+        }
+      ]
+    },
+    {
+      "categoryGroup": "",
+      "category": "Equipos de evacuación con filtro",
+      "products": [
+        {
+          "name": "Capuchas de evacuación filtrantes Dräger PARAT®",
+          "tagline": null,
+          "features": [
+            "Capucha de evacuación en 3 versiones: Evacuación industrial, contra incendios, o ambas",
+            "Proporciona al menos 15 minutos de tiempo de evacuación según EN 403:2004 y/o DIN 58647-7",
+            "4 opciones de embalaje diferentes"
+          ],
+          "image": "/Media/Content/Products/Default/parat-4700-7500-4-3-D-85039-2013.jpg",
+          "href": "/es_csa/Products/PARAT-Escape-Hoods#Specifications"
+        },
+        {
+          "name": "Dräger PARAT® 5550",
+          "tagline": null,
+          "features": [
+            "Capucha de evacuación de incendios en funda ignífuga",
+            "Desarrollada para equipos de rescate de incendios para rescate de víctimas",
+            "Sistema homologado con equipo respiratorio Dräger según norma EN 137:2006, Tipo 2."
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-PARAT-5550-1-D-42474-2015.jpg",
+          "href": "/es_csa/Products/PARAT-5550#Specifications"
+        }
+      ]
+    },
+    {
+      "categoryGroup": "",
+      "category": "Trajes",
+      "products": [
+        {
+          "name": "Dräger CPS 5800",
+          "tagline": null,
+          "features": [
+            "Traje de protección de uso limitado para aplicaciones industriales",
+            "Protección contra sustancias peligrosas gaseosas, líquidas o sólidas",
+            "Equipo de respiración autónomo (ERA) para uso sobre el traje de protección"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-5800-1-D-13088-2010.jpg",
+          "href": "/es_csa/Products/CPS-5800#Specifications"
+        },
+        {
+          "name": "Dräger CPS 7900",
+          "tagline": null,
+          "features": [
+            "Traje reutilizable hermético a gases",
+            "Contra productos químicos industriales, agentes biológicos y otros",
+            "Para áreas explosivas y manipulación de sustancias criogénicas",
+            "ERA para uso dentro del traje"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-7900-1-D-4598-2010.jpg",
+          "href": "/es_csa/Products/CPS-7900#Specifications"
+        },
+        {
+          "name": "Dräger CPS 7800",
+          "tagline": null,
+          "features": [
+            "Traje reutilizable y hermético a gases",
+            "Protección contra sustancias peligrosas gaseosas, líquidas, en aerosol y sólidas, incluso en áreas explosivas",
+            "ERA para uso sobre el traje de protección"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-7800-1-D-44231-2012.jpg",
+          "href": "/es_csa/Products/CPS-7800#Specifications"
+        },
+        {
+          "name": "Dräger CPS 6900",
+          "tagline": null,
+          "features": [
+            "Traje reutilizable hermético a gases",
+            "Protección contra sustancias criogénicas peligrosas y baja concentración de ácidos y álcalis - ideal para trabajar en entornos fríos",
+            "ERA para uso dentro del traje de protección"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-6900-1-D-90414-2013.jpg",
+          "href": "/es_csa/Products/CPS-6900#Specifications"
+        },
+        {
+          "name": "Dräger CPS 6800",
+          "tagline": null,
+          "features": [
+            "Traje reutilizable hermético a gases",
+            "Protección contra sustancias criogénicas peligrosas y bajas concentraciones de ácidos y álcalis, como en espacios reducidos",
+            "ERA para uso sobre el traje de protección"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-6800-1-D-90754-2013.jpg",
+          "href": "/es_csa/Products/CPS-6800#Specifications"
+        },
+        {
+          "name": "Dräger CPS 5900",
+          "tagline": null,
+          "features": [
+            "Traje desechable hermético a gases",
+            "Protección contra gran variedad de productos químicos industriales y amenazas biológicas de uso bélico",
+            "Equipo de respiración autónomo (ERA) dentro del traje de protección"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-CPS-5900-Gas-Tight-Suits-4-3-D-22732-2009.jpg",
+          "href": "/es_csa/Products/CPS-5900#Specifications"
+        },
+        {
+          "name": "SPC 4700 con CVA 0700",
+          "tagline": null,
+          "features": [
+            "Traje ventilado de protección contra salpicaduras, uso limitado",
+            "Suministro continuo de aire respirable y flujo de aire de enfriamiento (tipo 3) y protección contra productos químicos",
+            "Para uso en áreas explosivas"
+          ],
+          "image": "/Media/Content/Products/Default/draeger-spc-4700-and-cva-0700-accessories-for-suits-4-3-D-1723-2018.jpg",
+          "href": "/es_csa/Products/SPC-4700-and-CVA-0700#Specifications"
+        }
+      ]
+    },
+    {
+      "categoryGroup": "",
+      "category": "Independiente del aire ambiente",
+      "products": [
+        {
+          "name": "Dräger X-plore 9x00 y PAS X-plore",
+          "tagline": null,
+          "features": [
+            "Diseñada para aplicaciones industriales ligeras",
+            "Ofrece una protección respiratoria cómoda y fiable sin resistencia a la respiración",
+            "Compatible con una gran variedad de elementos de protección de la cabeza de la serie X-plo…"
+          ],
+          "image": "/Media/Content/Products/Default/draeger-x-plore-9000-and-pas-x-plore-4-3-D-2321-2024.png",
+          "href": "/es_csa/Products/X-plore-9000-and-PAS-X-plore#Specifications"
+        },
+        {
+          "name": "Dräger PAS Colt",
+          "tagline": null,
+          "features": [
+            "Unidad de evacuación de emergencia y de corta duración",
+            "Montaje en la cadera para una mayor libertad de movimiento",
+            "Ideal para entrar a espacios reducidos"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-PAS-Colt-1-ST-3557-2003.jpg",
+          "href": "/es_csa/Products/PAS-Colt#Specifications"
+        },
+        {
+          "name": "Dräger PAS® Micro",
+          "tagline": null,
+          "features": [
+            "Unidad de evacuación de emergencia y de corta duración",
+            "Ajuste ergonómico al contorno de la espalda",
+            "Resistente al calor y al fuego según EN 137"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-PAS-Micro-1-ST-3559-2003.jpg",
+          "href": "/es_csa/Products/PAS-Micro#Specifications"
+        },
+        {
+          "name": "Dräger PAS Lite",
+          "tagline": null,
+          "features": [
+            "ERA sencillo y robusto para aplicaciones industriales",
+            "Se puede adaptar a otras aplicaciones industriales específicas.",
+            "Es compatible también con las máscaras Dräger Panorama Nova y FPS 7000"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-PAS-Lite-1-D-17037-2010.jpg",
+          "href": "/es_csa/Products/PAS-Lite#Specifications"
+        },
+        {
+          "name": "Dräger PSS® 3000",
+          "tagline": null,
+          "features": [
+            "Equipo de respiración autónoma para aplicaciones básicas en la industria y servicios contra incendios",
+            "Combina comodidad con un rendimiento neumático excepcional"
+          ],
+          "image": "/Media/Content/Products/Default/draeger-self-contained-breathing-apparatus-PSS3000-4-3-D-1633-2021.jpg",
+          "href": "/es_csa/Products/PSS-3000#Specifications"
+        },
+        {
+          "name": "Dräger PSS AirBoss",
+          "tagline": null,
+          "features": [
+            "Equipo de respiración autónomo de alto rendimiento para extinción de incendios",
+            "Ofrece la mejor ergonomía de su categoría y es uno de los equipos respiratorios más ligeros",
+            "Compatible con Dräger FireGround"
+          ],
+          "image": "/Media/Content/Products/Default/draeger-pss-airboss-self-contained-breathing-apparatus-4-3-D-35388-2021.jpg",
+          "href": "/es_csa/Products/PSS-AirBoss#Specifications"
+        },
+        {
+          "name": "Dräger Saver PP",
+          "tagline": null,
+          "features": [
+            "Equipo respiratorio con presión positiva para evacuación con máscara integrada",
+            "Funcionamiento automático con curva de aprendizaje mínima",
+            "Hasta 15 minutos de aire salvavidas para escapar de entornos peligrosos"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-Saver-PP-1-D-33943-2011.jpg",
+          "href": "/es_csa/Products/Saver-PP#Specifications"
+        },
+        {
+          "name": "Dräger Saver CF",
+          "tagline": null,
+          "features": [
+            "Equipo respiratorio de flujo constante con capucha para evacuación",
+            "Funcionamiento automático con curva de aprendizaje mínima",
+            "Hasta 15 minutos de aire salvavidas para escapar de entornos peligrosos"
+          ],
+          "image": "/Media/Content/Products/Default/Draeger-Saver-CF-1-D-33944-2011.jpg",
+          "href": "/es_csa/Products/Saver-CF#Specifications"
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2026-04-17T06:23:29.966Z"
+}

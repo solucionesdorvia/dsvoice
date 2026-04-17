@@ -2,26 +2,113 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* Paleta inspirada en Dräger VOICE — azul corporativo #0B2748 */
+    --background: 0 0% 100%;
+    --foreground: 213 74% 16%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 213 74% 16%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 213 74% 16%;
+
+    --primary: 213 74% 16%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 33% 96%;
+    --secondary-foreground: 213 74% 16%;
+
+    --muted: 210 33% 96%;
+    --muted-foreground: 213 20% 45%;
+
+    --accent: 210 33% 94%;
+    --accent-foreground: 213 74% 16%;
+
+    --destructive: 356 95% 46%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 213 20% 88%;
+    --input: 213 20% 88%;
+    --ring: 213 74% 16%;
+
+    --brand: 213 74% 16%;
+    --brand-foreground: 0 0% 100%;
+    --brand-accent: 356 95% 46%;
+
+    --radius: 0.25rem;
+  }
+
+  .dark {
+    --background: 213 50% 8%;
+    --foreground: 0 0% 98%;
+
+    --card: 213 50% 10%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 213 50% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 213 70% 55%;
+    --primary-foreground: 213 50% 8%;
+
+    --secondary: 213 33% 17%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 213 33% 17%;
+    --muted-foreground: 213 15% 65%;
+
+    --accent: 213 33% 17%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 356 70% 50%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 213 33% 17%;
+    --input: 213 33% 17%;
+    --ring: 213 70% 60%;
+
+    --brand: 213 70% 55%;
+    --brand-foreground: 213 50% 8%;
+    --brand-accent: 356 95% 55%;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  /* Cerca de la tipografía Dräger: títulos de sustancia más compactos */
+  h1.substance-heading {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: hsl(var(--brand));
+  }
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+@layer components {
+  /* Separador tipo "dotted leader" usado en la lista de identificadores */
+  .kv-row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: baseline;
+    gap: 1rem;
+    padding-block: 0.4rem;
+  }
+  .kv-row dt {
+    font-weight: 700;
+    color: hsl(var(--brand));
+  }
+  .kv-row dd {
+    font-weight: 500;
+    color: hsl(var(--brand));
+    font-variant-numeric: tabular-nums;
+    font-family: var(--font-geist-mono), ui-monospace, monospace;
   }
 }

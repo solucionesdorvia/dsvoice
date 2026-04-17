@@ -1,0 +1,42 @@
+{
+  "id": 1687,
+  "url": "https://www.draeger.com/es_csa/Substances/1687",
+  "name": "Amianto",
+  "formula": null,
+  "casNumber": "1332-21-4",
+  "unNumber": null,
+  "ecNumber": "603-721-4",
+  "hazardIdNumber": null,
+  "ghsPictograms": [
+    "GHS08"
+  ],
+  "hazardStatements": [
+    {
+      "code": "H350",
+      "text": "May cause cancer."
+    },
+    {
+      "code": "H372",
+      "text": "Causes damage to organs (state all organs affected, if known) through prolonged or repeated exposure (state route of exposure if it is conclusively"
+    }
+  ],
+  "chemical": {
+    "raw": {
+      "Densidad (a 20 °C, si no se indica lo contrario):": "2,36 ... 3,40 g/cm3",
+      "Efectos peligrosos:": "C"
+    },
+    "meltingPointC": null,
+    "boilingPointC": null,
+    "densityGCm3": 2.36,
+    "ionizationEv": null,
+    "flashPointC": null,
+    "ignitionTempC": null,
+    "vaporPressureHPa": null,
+    "lelVolPct": null,
+    "uelVolPct": null,
+    "decompositionTempC": null,
+    "molarMassGMol": null
+  },
+  "productCategories": [],
+  "scrapedAt": "2026-04-17T06:31:52.961Z"
+}

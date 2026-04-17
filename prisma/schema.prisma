@@ -1,0 +1,177 @@
+// Prisma schema for the hazardous substances finder app
+// Mirrors the Dräger VOICE data model: substances, GHS classification,
+// exposure limits, H/P statements, physical properties, synonyms.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Substance {
+  id             Int     @id @default(autoincrement())
+  draegerId      Int?    @unique
+  name           String
+  formula        String?
+  casNumber      String? @unique
+  unNumber       String?
+  ecNumber       String?
+  hazardIdNumber String?
+  pubchemCid     Int?    @unique
+
+  ghsPictograms  SubstanceGHS[]
+  exposureLimits ExposureLimit[]
+  hStatements    SubstanceHStatement[]
+  pStatements    SubstancePStatement[]
+  physicalProps  PhysicalProperties?
+  synonyms       SubstanceSynonym[]
+  ppeCategories  String[]
+  products       ProductRecommendation[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([name])
+  @@index([casNumber])
+  @@index([formula])
+  @@index([draegerId])
+}
+
+model SubstanceGHS {
+  id            Int       @id @default(autoincrement())
+  substance     Substance @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId   Int
+  pictogramCode String
+
+  @@unique([substanceId, pictogramCode])
+}
+
+model ExposureLimit {
+  id          Int       @id @default(autoincrement())
+  substance   Substance @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId Int
+  countryCode String
+  authority   String
+  limitType   String
+  valuePpm    Float?
+  valueMgM3   Float?
+  notes       String?
+
+  @@index([substanceId])
+}
+
+model HStatement {
+  code       String                @id
+  textEn     String
+  textEs     String?
+  substances SubstanceHStatement[]
+}
+
+model SubstanceHStatement {
+  substance   Substance  @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId Int
+  hStatement  HStatement @relation(fields: [hCode], references: [code])
+  hCode       String
+
+  @@id([substanceId, hCode])
+}
+
+model PStatement {
+  code       String                @id
+  textEn     String
+  textEs     String?
+  substances SubstancePStatement[]
+}
+
+model SubstancePStatement {
+  substance   Substance  @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId Int
+  pStatement  PStatement @relation(fields: [pCode], references: [code])
+  pCode       String
+
+  @@id([substanceId, pCode])
+}
+
+model PhysicalProperties {
+  substanceId        Int       @id
+  substance          Substance @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  decompositionTempC Float?
+  meltingPointC      Float?
+  boilingPointC      Float?
+  densityGCm3        Float?
+  ionizationEv       Float?
+  flashPointC        Float?
+  ignitionTempC      Float?
+  lelVolPct          Float?
+  uelVolPct          Float?
+  vaporPressureHPa   Float?
+  molarMassGMol      Float?
+  hazardousEffects   String?
+  rawLabels          Json?
+}
+
+model Product {
+  id                  Int                     @id @default(autoincrement())
+  slug                String                  @unique
+  name                String
+  tagline             String?
+  features            String[]
+  imageSrc            String?
+  imageLocal          String?
+  href                String?
+  createdAt           DateTime                @default(now())
+  updatedAt           DateTime                @updatedAt
+  recommendations     ProductRecommendation[]
+  safetyCatalogItem   SafetyCatalogItem?
+
+  @@index([name])
+}
+
+/// Índice del catálogo DS SAFETY (búsqueda por producto, categoría, texto).
+/// Se puede poblar desde productos Dräger agregados y, en el futuro, desde OCR del PDF.
+model SafetyCatalogItem {
+  id          Int      @id @default(autoincrement())
+  productId   Int?     @unique
+  product     Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+  slug        String   @unique
+  name        String
+  category    String
+  description String?  @db.Text
+  searchText  String   @db.Text
+  imageSrc    String?
+  href        String?
+  keywords    String[] @default([])
+  createdAt   DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([category])
+  @@index([name])
+}
+
+model ProductRecommendation {
+  id            Int       @id @default(autoincrement())
+  substance     Substance @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId   Int
+  product       Product   @relation(fields: [productId], references: [id], onDelete: Cascade)
+  productId     Int
+  categoryGroup String?
+  category      String
+  position      Int       @default(0)
+
+  @@unique([substanceId, productId])
+  @@index([substanceId])
+  @@index([productId])
+}
+
+model SubstanceSynonym {
+  id          Int       @id @default(autoincrement())
+  substance   Substance @relation(fields: [substanceId], references: [id], onDelete: Cascade)
+  substanceId Int
+  synonym     String
+
+  @@index([synonym])
+  @@index([substanceId])
+}

@@ -1,0 +1,17 @@
+{
+  "name": "VOICE — Hazardous Substances Finder",
+  "short_name": "VOICE",
+  "description": "Search hazardous substances: GHS, H/P statements, exposure limits, PPE.",
+  "start_url": "/substances",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0059a5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
