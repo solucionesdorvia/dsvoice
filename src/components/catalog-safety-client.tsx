@@ -66,7 +66,7 @@ export function CatalogSafetyClient({
         <Input
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Buscar por nombre, categoría o palabra clave…"
+          placeholder="Buscá por nombre o palabra clave…"
           className="h-12 pl-10 text-base"
           aria-label="Buscar en el catálogo DS SAFETY"
         />

@@ -99,9 +99,15 @@ export default function RootLayout({
               ) : null}
             </p>
             <p>
-              <strong className="font-medium text-foreground/80">
-                Desarrollado por Dorvia.
-              </strong>
+              <a
+                href={partner.developerUrl}
+                className="font-medium text-foreground/80 underline-offset-2 hover:text-brand hover:underline"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Desarrollado por Dorvia
+              </a>
+              .
             </p>
             <p className="text-[11px] text-muted-foreground/90">
               © {new Date().getFullYear()} {partner.name} · Muestra de

@@ -23,6 +23,10 @@ export const partner = {
     "/catalogo-drager-ds-safety.pdf",
   /** Sitio web del implementador (opcional). */
   websiteUrl: process.env.NEXT_PUBLIC_PARTNER_WEBSITE_URL?.trim() ?? "",
+  /** Sitio del desarrollador de la plataforma (pie: «Desarrollado por Dorvia»). */
+  developerUrl:
+    process.env.NEXT_PUBLIC_DEVELOPER_URL?.trim() ??
+    "https://www.dorvia.com.ar/",
 } as const;
 
 export function hasCatalogLink(): boolean {

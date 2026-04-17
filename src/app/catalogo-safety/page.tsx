@@ -47,16 +47,19 @@ export default async function CatalogoSafetyPage() {
             catálogo digital PDF
           </a>
           ). Las fichas enlazan a la web pública de Dräger cuando hay URL
-          disponible.
+          disponible (posibilidad de exportar a WhatsApp de DS SAFETY).
         </p>
       </header>
 
       {total === 0 ? (
         <div className="rounded-lg border border-dashed border-amber-500/40 bg-amber-500/5 p-6 text-sm text-amber-900 dark:text-amber-100">
           <p className="font-medium">El índice del catálogo está vacío.</p>
-          <p className="mt-2 text-muted-foreground">
+          <p className="mt-2 font-medium text-muted-foreground">
+            Catálogo pendiente de subida.
+          </p>
+          <p className="mt-3 text-muted-foreground">
             Ejecutá primero la carga de productos y luego:{" "}
-            <code className="rounded bg-muted px-1.5 py-0.5 text-xs">
+            <code className="rounded bg-muted px-1.5 py-0.5 text-xs text-foreground">
               npx tsx prisma/seed-safety-catalog.ts
             </code>
           </p>
