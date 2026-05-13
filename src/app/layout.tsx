@@ -5,6 +5,7 @@ import Link from "next/link";
 
 import { partner } from "@/lib/partner";
 
+import EmbedMode from "./EmbedMode";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -43,6 +44,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} min-h-screen bg-background font-sans text-[15px] text-foreground antialiased`}
       >
+        <EmbedMode />
         <header className="border-b border-border/60 bg-background">
           <div className="container flex min-h-14 items-center justify-between py-2">
             <Link
