@@ -22,9 +22,19 @@ export const config = {
   matcher: "/api/:path*",
 };
 
+// Acepta localhost / 127.0.0.1 en cualquier puerto para development local.
+const LOCALHOST_RE = /^https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?$/;
+
+function isAllowed(origin: string | null): origin is string {
+  if (!origin) return false;
+  if (ALLOWED_ORIGINS.has(origin)) return true;
+  if (LOCALHOST_RE.test(origin)) return true;
+  return false;
+}
+
 export function middleware(request: NextRequest) {
   const origin = request.headers.get("origin");
-  const allowed = origin && ALLOWED_ORIGINS.has(origin) ? origin : null;
+  const allowed = isAllowed(origin) ? origin : null;
 
   // Preflight
   if (request.method === "OPTIONS") {
