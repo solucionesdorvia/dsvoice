@@ -92,19 +92,6 @@
   }
 }
 
-/* Modo embed: oculta header/footer cuando el buscador se carga desde un iframe
-   (WordPress de Drager). Activado por <body class="embed-mode"> via ?embed=1. */
-body.embed-mode > header,
-body.embed-mode > footer {
-  display: none !important;
-}
-body.embed-mode {
-  min-height: 0 !important;
-}
-body.embed-mode main {
-  margin: 0 !important;
-}
-
 @layer components {
   /* Separador tipo "dotted leader" usado en la lista de identificadores */
   .kv-row {
