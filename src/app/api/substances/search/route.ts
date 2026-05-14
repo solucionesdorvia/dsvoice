@@ -10,7 +10,20 @@ export async function GET(request: Request) {
   const q = (searchParams.get("q") ?? "").trim();
   const limit = Math.min(Number(searchParams.get("limit") ?? 10), 25);
 
-  if (!q) return NextResponse.json([]);
+  // Sin query: devolver las primeras sustancias (alfabéticas) para que el
+  // usuario vea contenido al abrir el buscador, en vez de estado vacío.
+  if (!q) {
+    const results = await prisma.substance.findMany({
+      select: { id: true, name: true, formula: true, casNumber: true },
+      orderBy: { name: "asc" },
+      take: limit,
+    });
+    const localized = results.map((r) => ({
+      ...r,
+      name: translateSubstanceName(r.name),
+    }));
+    return NextResponse.json(localized);
+  }
 
   // Busca también la traducción al inglés (la BD guarda nombres en inglés de PubChem).
   const terms = searchTerms(q);

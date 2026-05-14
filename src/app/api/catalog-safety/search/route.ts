@@ -4,7 +4,20 @@ import { prisma } from "@/lib/prisma";
 
 export const dynamic = "force-dynamic";
 
-const MAX = 60;
+const MAX = 200;
+
+// Las imágenes y URLs de productos vienen como paths relativos al sitio de
+// Dräger (ej: "/Media/Content/Products/..."). Las prefijamos para que
+// carguen desde el CDN cuando el frontend está embebido en otro dominio.
+const DRAEGER_CDN = "https://www.draeger.com";
+
+function absolutize<T extends { imageSrc: string | null; href: string | null }>(item: T): T {
+  return {
+    ...item,
+    imageSrc: item.imageSrc && item.imageSrc.startsWith("/") ? DRAEGER_CDN + item.imageSrc : item.imageSrc,
+    href: item.href && item.href.startsWith("/") ? DRAEGER_CDN + item.href : item.href,
+  };
+}
 
 /**
  * GET /api/catalog-safety/search?q=...
@@ -29,7 +42,7 @@ export async function GET(request: Request) {
         href: true,
       },
     });
-    return NextResponse.json(items);
+    return NextResponse.json(items.map(absolutize));
   }
 
   const terms = q.split(/\s+/).filter((t) => t.length > 0);
@@ -56,5 +69,5 @@ export async function GET(request: Request) {
     },
   });
 
-  return NextResponse.json(items);
+  return NextResponse.json(items.map(absolutize));
 }
