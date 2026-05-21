@@ -46,11 +46,13 @@ async function ensureDir(dir: string) {
 }
 
 async function scrapeOne(page: Page, url: string): Promise<Omit<ScrapedDetail, "slug" | "url" | "scrapedAt">> {
-  await page.goto(url, { waitUntil: "networkidle", timeout: 45_000 });
+  await page.goto(url, { waitUntil: "domcontentloaded", timeout: 45_000 });
   // Esperar a que carguen las secciones críticas (BenefitSection es Vista general).
   await page
     .waitForSelector("#BenefitSection, #DownloadSection, table", { timeout: 25_000 })
     .catch(() => {});
+  // Espera adicional para que se hidrate todo (Drager usa SSR + hydration).
+  await page.waitForTimeout(1500);
   // Scroll forzado para gatillar lazy-load de las secciones (desde Node,
   // no en page.evaluate, para evitar conflictos con la transformación tsx).
   let lastH = 0;
@@ -75,17 +77,37 @@ async function scrapeOne(page: Page, url: string): Promise<Omit<ScrapedDetail, "
 const SCRAPER_DOM_FN = `(() => {
   var clean = function (s) { return (s || "").replace(/\\s+/g, " ").trim(); };
 
-  // Vista general
+  // Vista general — Drager trunca los párrafos visualmente y guarda el resto
+  // en un <span class="hidden"> sibling. El "… Más información" es un toggle.
+  // Concatenamos <p> + <span hidden> y limpiamos el sufijo del toggle.
+  function expandedText(p) {
+    var t = clean(p.textContent || "");
+    // Quitar el "… Más información" del final del párrafo.
+    t = t.replace(/\\s*\\u2026?\\s*M[aá]s informaci[oó]n\\s*$/i, "");
+    // Si hay un sibling oculto, sumarle su texto (es la continuación).
+    var sib = p.nextElementSibling;
+    while (sib && (sib.tagName === "SPAN" || sib.tagName === "DIV")) {
+      var sibCls = (sib.className || "").toString();
+      if (/hidden/.test(sibCls) || sib.getAttribute("aria-hidden") === "true") {
+        var more = clean(sib.textContent || "");
+        if (more && more.length > 5) t += " " + more;
+      } else if (!/Más informaci/i.test(sib.textContent || "")) {
+        break;
+      }
+      sib = sib.nextElementSibling;
+    }
+    return clean(t);
+  }
   var overviewSection = document.querySelector("#BenefitSection");
   var overviewText = overviewSection ? clean(overviewSection.innerText).slice(0, 4000) : null;
   var overviewParas = null;
   if (overviewSection) {
     var paras = [];
     overviewSection.querySelectorAll("p").forEach(function (p) {
-      var t = clean(p.innerText);
+      var t = expandedText(p);
       if (t.length > 30) paras.push(t);
     });
-    overviewParas = paras.slice(0, 6).join("\\n\\n");
+    overviewParas = paras.slice(0, 10).join("\\n\\n");
   }
 
   // Especificaciones: estrategia simple — agarrar TODAS las tablas de la
