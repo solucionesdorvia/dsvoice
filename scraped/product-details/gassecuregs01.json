@@ -1,0 +1,233 @@
+{
+  "slug": "gassecuregs01",
+  "url": "https://www.draeger.com/es_csa/Products/GasSecureGS01",
+  "scrapedAt": "2026-05-21T04:28:08.813Z",
+  "overview": {
+    "text": "El GS01 es un transmisor de gas infrarrojo inalámbrico para la monitorización continua de gases y vapores de hidrocarburos inflamables en el sector del petróleo y gas. La seguridad intrínseca con clasificación SIL del transmisor ofrece una transmisión de señal y suministro eléctrico totalmente inalámbricos. Esto hace del GS01 una solución flexible y rentable para expansiones y actualizaciones de planta, así como para nuevos proyectos sobre terrenos sin edificar.\n\nEn plataformas marinas o FPSO, en parques de depósitos y refinerías, los puntos de medición relacionados con la seguridad están en todas partes en la industria del petróleo y del gas. Es extremadamente difícil, si no imposible, monitorizar algunos de … Más información\n\nEl coste del proyecto con el GS01 puede ser significativamente menor que el de las instalaciones con cableado. A modo de ejemplo, el coste de una instalación suele disminuir entre un 60 y un 80 %. Las comunicaciones inalámbricas y el consumo de bater … Más información\n\nLa tecnología de sensores por infrarrojos se lleva al siguiente nivel por medio de los exclusivos filtros ópticos MEMS (sistema microelectromecánico). La tecnología MEMS es muy estable a largo plazo y elimina la necesidad de repetir la calibración, l … Más información\n\nEl GS01 compatible con SIL2 utiliza el estándar inalámbrico ISA100.11a para las comunicaciones inalámbricas. La gran ventaja de este estándar es la posibilidad de incorporar protocolos externos, como el protocolo de seguridad PROFIsafe, con certifica … Más información",
+    "htmlSummary": "Características destacadas El GS01 es un transmisor de gas infrarrojo inalámbrico para la monitorización continua de gases y vapores de hidrocarburos inflamables en el sector del petróleo y gas. La seguridad intrínseca con clasificación SIL del transmisor ofrece una transmisión de señal y suministro eléctrico totalmente inalámbricos. Esto hace del GS01 una solución flexible y rentable para expansiones y actualizaciones de planta, así como para nuevos proyectos sobre terrenos sin edificar. Instalaciones en condiciones exigentes En plataformas marinas o FPSO, en parques de depósitos y refinerías, los puntos de medición relacionados con la seguridad están en todas partes en la industria del petróleo y del gas. Es extremadamente difícil, si no imposible, monitorizar algunos de … Más información Ahorro de tiempo y dinero a lo largo del proyecto El coste del proyecto con el GS01 puede ser significativamente menor que el de las instalaciones con cableado. A modo de ejemplo, el coste de una instalación suele disminuir entre un 60 y un 80 %. Las comunicaciones inalámbricas y el consumo de bater … Más información Ahorro de tiempo y dinero de funcionamiento La tecnología de sensores por infrarrojos se lleva al siguiente nivel por medio de los exclusivos filtros ópticos MEMS (sistema microelectromecánico). La tecnología MEMS es muy estable a largo plazo y elimina la necesidad de repetir la calibración, l … Más información Comunicación inalámbrica segura El GS01 compatible con SIL2 utiliza el estándar inalámbrico ISA100.11a para las comunicaciones inalámbricas. La gran ventaja de este estándar es la posibilidad de incorporar protocolos externos, como el protocolo de seguridad PROFIsafe, con certifica … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor inalámbrico"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Infrarrojos"
+        },
+        {
+          "key": "Tiempo de respuesta",
+          "value": "<= 5 segundos"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": ""
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-1-3)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "Batería de cloruro de litio-tionilo"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-30°C - 55°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % de h.r."
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "11x30x17 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "6.17 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": ""
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina",
+          "value": ""
+        },
+        {
+          "key": "FM",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GS01 Product Information, en",
+      "href": "/Content/Documents/Products/gs01-pi-9104347-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GS01 Case study offshore platform EQUINOR (ex-Statoil),es",
+      "href": "/Content/Documents/Products/statoil-gullfaks-c-offshore-platform-norway-cs-9103859-es-es-1707-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GS01 Case study refinery EQUINOR (ex-Statoil), es",
+      "href": "/Content/Documents/Products/gassecure-statoil-kalundborg-refinery-cs-9105941-es-es-1808-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU GasSecure-GS01 and GS01-EA - Manual for FW-3 R18 - 9301106 es",
+      "href": "/Content/Documents/Products/gassecure-ifu-9301106-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GS01 Product Information, en",
+      "href": "/Content/Documents/Products/gs01-pi-9104347-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "FTDI Virtual COM Port Setup (V2-12.00)",
+      "href": "/Content/Documents/Products/G01-FTDI-virtual-COM-port.zip",
+      "type": null
+    },
+    {
+      "label": "GS01 Capability Files Yokogawa Gateway (V2.1)",
+      "href": "/Content/Documents/Products/GS01-capability-files-yokogawa-gateway.zip",
+      "type": null
+    },
+    {
+      "label": "GS01 Configurator (V5.1)",
+      "href": "/Content/Documents/Products/GS01-configurator.zip",
+      "type": null
+    },
+    {
+      "label": "Limited Manufacturer Guarantee_Garantiekarte GS01 9300720 (ed 01), en, de",
+      "href": "/Content/Documents/Products/Garantiekarte-GS01-9300720-de-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Serie inalámbrica de Dräger: Extreme la seguridad y la flexibilidad",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "GS01 (inalámbrico): Sustancias peligrosas medibles",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

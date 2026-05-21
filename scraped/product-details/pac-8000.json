@@ -1,0 +1,246 @@
+{
+  "slug": "pac-8000",
+  "url": "https://www.draeger.com/es_csa/Products/Pac-8000",
+  "scrapedAt": "2026-05-21T04:28:26.954Z",
+  "overview": {
+    "text": "Con el robusto diseño del Dräger Pac® 8000, estará bien equipado para afrontar las condiciones más adversas: este dispositivo personal no desechable de detección monogás es un instrumento fiable y preciso que detecta concentraciones peligrosas de 29 gases diferentes, incluso gases especiales como el NO2, el O3 o el COCl2. Los datos medidos se pueden transmitir fácilmente al sistema Dräger Gas Detection Connect a través de Bluetooth®.\n\nPuede confiar en que el Dräger Pac 8000 le proporcionará una lectura fiable y precisa en cualquier situación, incluso en condiciones extremas. Los potentes sensores, con un tiempo de respuesta T90 muy bajo, garantizan una rápida reacción. Además de l … Más información\n\nEl Pac® 8000 puede incorporar sensores de dióxido de carbono (CO2), cloro gas (Cl2), ácido cianhídrico (HCN), amoniaco (NH3), dióxido de nitrógeno (NO2), fosfina (PH3) y vapores orgánicos (OV u OV-A).\n\nEl Dräger Pac 8000 resulta especialmente eficaz en … Más información\n\nEl Pac 8000 puede afrontar fácilmente las condiciones más extremas. Los sensores son capaces de tolerar presiones atmosféricas de entre 700 y 1300 mbar. Un filtro de membrana impide la entrada de elementos extraños, como polvo y líquidos en el sensor … Más información\n\nLa luz D indica si se ha comprobado el funcionamiento del dispositivo y si está listo para su uso. La carcasa también se ha diseñado poniendo énfasis en la seguridad: cada tipo de sensor del Dräger Pac® 8000 emplea un código de colores claramente vis … Más información",
+    "htmlSummary": "Características destacadas Con el robusto diseño del Dräger Pac® 8000, estará bien equipado para afrontar las condiciones más adversas: este dispositivo personal no desechable de detección monogás es un instrumento fiable y preciso que detecta concentraciones peligrosas de 29 gases diferentes, incluso gases especiales como el NO2, el O3 o el COCl2. Los datos medidos se pueden transmitir fácilmente al sistema Dräger Gas Detection Connect a través de Bluetooth®. Gran rendimiento para una máxima seguridad Puede confiar en que el Dräger Pac 8000 le proporcionará una lectura fiable y precisa en cualquier situación, incluso en condiciones extremas. Los potentes sensores, con un tiempo de respuesta T90 muy bajo, garantizan una rápida reacción. Además de l … Más información Sensores para gases especiales El Pac® 8000 puede incorporar sensores de dióxido de carbono (CO2), cloro gas (Cl2), ácido cianhídrico (HCN), amoniaco (NH3), dióxido de nitrógeno (NO2), fosfina (PH3) y vapores orgánicos (OV u OV-A). El Dräger Pac 8000 resulta especialmente eficaz en … Más información Diseño robusto, incluso para las condiciones más exigentes El Pac 8000 puede afrontar fácilmente las condiciones más extremas. Los sensores son capaces de tolerar presiones atmosféricas de entre 700 y 1300 mbar. Un filtro de membrana impide la entrada de elementos extraños, como polvo y líquidos en el sensor … Más información Fácil manejo gracias a una guía clara para el usuario La luz D indica si se ha comprobado el funcionamiento del dispositivo y si está listo para su uso. La carcasa también se ha diseñado poniendo énfasis en la seguridad: cada tipo de sensor del Dräger Pac® 8000 emplea un código de colores claramente vis … Más información Pantalla fácil de usar con toda la información importante La pantalla, de gran tamaño y sin texto, indica claramente la concentración del gas respectivo. También se muestran otros datos importantes, como la unidad de concentración y la capacidad de la batería. Su excelente retroiluminación permite una lectu … Más información Alarma 360° con varias funciones Si el Dräger Pac 8000 mide concentraciones de gas peligrosas, emite una alarma acústica, visual y vibratoria claramente perceptibles. Los dos LED intermitentes y luminosos de la parte superior e inferior del dispositivo garantizan que la alarma sea f … Más información Registrador de datos y de eventos para análisis e informes El Pac 8000 registra las concentraciones y los eventos junto con la fecha y la hora. Los datos pueden descargarse en un ordenador a través de una interfaz para su posterior procesamiento. Con el nuevo sistema Gas Detection Connect (y las estaciones X … Más información Comunicación mediante Bluetooth® Gracias al nuevo Pac con Bluetooth® se pueden transmitir de forma inalámbrica los valores de medición en tiempo real al sistema Dräger Gas Detection Connect. Puede rastrear fácilmente la ubicación del trabajador y su Pac conectando el dispositivo a l … Más información Bajo coste operativo Todas las versiones del Dräger Pac® 8000 incorporan sensores Dräger Sensors® de máxima durabilidad, además de una potente batería. El Pac 8000 es resistente al agua, al polvo y a otros elementos extraños gracias a su filtro de membrana especial. Cuand … Más información La rápida prueba de funcionamiento ahorra tiempo y dinero ​Las pruebas de funcionamiento y las calibraciones son especialmente eficientes si se emplea la estación de calibración Dräger X-dock®. Las pruebas automáticas de funcionamiento de la estación X-dock constituyen una solución práctica y rentable graci … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Detector de un solo gas"
+        },
+        {
+          "key": "Gases medibles",
+          "value": "NO, CO2, Cl2, HCN, NH3, PH3, OV, OV-A, NO2 LC, Ozono, Fosgeno"
+        },
+        {
+          "key": "Número de gases",
+          "value": "1"
+        },
+        {
+          "key": "Vida útil",
+          "value": "sin límite"
+        }
+      ]
+    },
+    {
+      "group": "Aplicación",
+      "rows": [
+        {
+          "key": "Monitorización personal del aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Rango de temperaturas (dispositivo)",
+          "value": "-40°C - 55°C"
+        },
+        {
+          "key": "Vida útil de la batería",
+          "value": "2 años (24/7)"
+        },
+        {
+          "key": "Humedad del aire (humedad relativa)",
+          "value": "10% a 90%"
+        },
+        {
+          "key": "Presión del aire (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP 68"
+        },
+        {
+          "key": "Peso",
+          "value": "3.74 oz"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Filtro recambiable",
+          "value": "fácil de cambiar desde el exterior/conexión mecánica"
+        },
+        {
+          "key": "D-Luz",
+          "value": ""
+        },
+        {
+          "key": "VLA-ED/VLA-EC",
+          "value": ""
+        },
+        {
+          "key": "Pico",
+          "value": ""
+        },
+        {
+          "key": "Sensor dual",
+          "value": ""
+        },
+        {
+          "key": "Retención de alarma",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": "I M1 Ex ia I Ma II 1G Ex ia IIC T4 Ga (Zone 0)"
+        },
+        {
+          "key": "IECEx",
+          "value": "Ex ia I Ma Ex ia IIC T4 Ga"
+        },
+        {
+          "key": "c CSA us",
+          "value": "Clase I, Zona 0, AEx ia IIC T4 Ga, Clase II, División 1, Grupo E, F, G"
+        },
+        {
+          "key": "CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de rendimiento de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación para Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger Pac® 8000",
+      "href": "/Content/Documents/Products/pac-8000-pi-9103923-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU Pac 6x00 / 8x00 - MOG 00** - 9033739 de-me",
+      "href": "/Content/Documents/Products/pac-ifu-9033739-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Pac 6x00 / 8x00 - Technical manual - 9033742 es",
+      "href": "/Content/Documents/Products/pac-6x00-8x00-technical-manual-9033742-ifu-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Pac 6000/6500/8000/8500 - Limited Manufacturer Guarantee - 9300255 de-me",
+      "href": "/Content/Documents/Products/pac-ifusp-9300255-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Pac 6x00 / 8x00 - Quick User Guide - 9301042 de-me",
+      "href": "/Content/Documents/Products/pac-ifusp-9301042-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Pac 6x00 / 8x00 - Safety information - 9301041 de-me",
+      "href": "/Content/Documents/Products/pac-ifusp-9301041-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Animated Video: Dräger Pac® Series",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Dräger-Swissphone cooperation brochure",
+      "href": "/Content/Documents/Products/draeger-swissphone-screen-br-dmc-107551-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Pac® 8000",
+      "href": "/Content/Documents/Products/pac-8000-pi-9103923-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Driver for DIRA and MILO Interface",
+      "href": "/Content/Documents/Products/Driver-DIRA-MILO-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision Software History, en",
+      "href": "/Content/Documents/Products/GasVision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Pac® 6000 / 6500 / 8000 / 8500 - Operation",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Aplicación",
+      "Características técnicas",
+      "Características",
+      "Homologaciones",
+      "Dräger Pac® 8000: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

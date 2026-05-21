@@ -1,0 +1,195 @@
+{
+  "slug": "polytron-3000",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-3000",
+  "scrapedAt": "2026-05-21T04:29:56.768Z",
+  "overview": {
+    "text": "El Dräger Polytron® 3000 es un detector de gas intrínsecamente seguro, diseñado para el control continuo de gases tóxicos y oxígeno en el aire ambiente. Forma parte de una nueva generación de detectores de gas desarrollados en una plataforma modular. La comunicación con el sistema de control central se efectúa mediante una señal de 4 a 20 mA.\n\nEl Polytron 3000 consta de dos componentes, la estación de acoplamiento para la instalación mecánica y eléctrica, y el transmisor Polytron 3000. La estación de acoplamiento puede montarse y cablearse anticipadamente, y protegerse de la lluvia y el po … Más información\n\nCon su excepcional compatibilidad electromagnética y variadas opciones de montaje, el Polytron 3000 con marcado CE es adecuado para muchas áreas de aplicación diferentes como, por ejemplo, en la industria química o de semiconductores.\n\nEl funcionamiento y mantenimiento del Polytron 3000 resultan sencillos. El DrägerSensor ofrece resultados contrastados y está equipado con una memoria de datos integrada que contiene toda la información de calibración. Esto permite al Polytron 3000 a … Más información\n\nEl Polytron 3000 puede usarse en todo el mundo, ya que está homologado según ATEX, IECEx, UL y CSA.",
+    "htmlSummary": "Características destacadas El Dräger Polytron® 3000 es un detector de gas intrínsecamente seguro, diseñado para el control continuo de gases tóxicos y oxígeno en el aire ambiente. Forma parte de una nueva generación de detectores de gas desarrollados en una plataforma modular. La comunicación con el sistema de control central se efectúa mediante una señal de 4 a 20 mA. Instalación sencilla y rápida El Polytron 3000 consta de dos componentes, la estación de acoplamiento para la instalación mecánica y eléctrica, y el transmisor Polytron 3000. La estación de acoplamiento puede montarse y cablearse anticipadamente, y protegerse de la lluvia y el po … Más información Amplio abanico de aplicaciones Con su excepcional compatibilidad electromagnética y variadas opciones de montaje, el Polytron 3000 con marcado CE es adecuado para muchas áreas de aplicación diferentes como, por ejemplo, en la industria química o de semiconductores. Fácil de utilizar y con un mantenimiento sencillo El funcionamiento y mantenimiento del Polytron 3000 resultan sencillos. El DrägerSensor ofrece resultados contrastados y está equipado con una memoria de datos integrada que contiene toda la información de calibración. Esto permite al Polytron 3000 a … Más información Protección contra explosiones El Polytron 3000 puede usarse en todo el mundo, ya que está homologado según ATEX, IECEx, UL y CSA."
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Electroquímico"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 1 (IEC 61508-2)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "12 a 30 V CC, 2 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 65°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "16.6x13.5x12.9 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "1.98 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Poliéster reforzado con fibra de vidrio (GFRP)"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP66"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger Polytron® 3000 (PDF)",
+      "href": "/Content/Documents/Products/polytron-3000-pi-9100233-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IfU Polytron 3000 / Polytron C 9033021",
+      "href": "/Content/Documents/Products/IfU_Polytron_3000___Polytron_C_9033021.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Polytron® 3000 (PDF)",
+      "href": "/Content/Documents/Products/polytron-3000-pi-9100233-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "La seguridad en primer plano: Detección de gases tóxicos y oxígeno con precisión",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron® 3000: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

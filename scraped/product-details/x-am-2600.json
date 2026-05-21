@@ -1,0 +1,112 @@
+{
+  "slug": "x-am-2600",
+  "url": "https://www.draeger.com/es_csa/Products/X-am-2600",
+  "scrapedAt": "2026-05-21T04:31:44.293Z",
+  "overview": {
+    "text": "El detector multigás X-am 2600 mide gases inflamables, oxígeno, monóxido de carbono y ácido sulfhídrico. El software Dräger Gas Detection Connect ofrece transmisión de datos en tiempo real y una potente gestión de flotas. El instrumento se ha optimizado para la monitorización personal en modo de difusión y garantiza un alto nivel de seguridad con unos costes de funcionamiento extremadamente bajos. El dispositivo incluye un periodo de servicio inicial de tres años, que puede ampliarse según sea necesario con licencias adicionales.\n\nSeguridad y eficacia gracias a su capacidad de conexión en red: Transfiera los datos registrados de manera directa a través de Bluetooth® a un teléfono inteligente o al Dräger ConHub (pasarela) y, desde allí, al backend del software Gas Detection Con … Más información\n\nCon el X-am 2600, podrá gestionar su flota de equipos de forma cómoda y eficiente en el uso diario. Ahorre costes de funcionamiento y tiempo gracias a las pruebas rápidas utilizando la estación de prueba automática X-dock con bajo consumo de gas, o u … Más información\n\nPequeño y ligero: El X-am 2600 es cómodo de llevar y fácil de usar incluso con guantes gracias a sus botones de grandes dimensiones. La pantalla ofrece una representación rápida de información importante, como las lecturas de gas, las alarmas y el ti … Más información\n\nEl sensor Ex recién desarrollado combina muchas ventajas: Está disponible para la calibración en cuestión de segundos y ofrece una resistencia máxima frente a impactos. El sensor Ex es resistente a la toxicidad de la silicona y de otras sustancias no … Más información\n\nEl dispositivo se ha diseñado teniendo en cuenta la sostenibilidad. Los duraderos sensores Dräger y la fuente de alimentación recargable (que se puede sustituir fácilmente con un solo tornillo) dotan al dispositivo de una larga vida útil. Casi todas … Más información",
+    "htmlSummary": "Características destacadas El detector multigás X-am 2600 mide gases inflamables, oxígeno, monóxido de carbono y ácido sulfhídrico. El software Dräger Gas Detection Connect ofrece transmisión de datos en tiempo real y una potente gestión de flotas. El instrumento se ha optimizado para la monitorización personal en modo de difusión y garantiza un alto nivel de seguridad con unos costes de funcionamiento extremadamente bajos. El dispositivo incluye un periodo de servicio inicial de tres años, que puede ampliarse según sea necesario con licencias adicionales. Potente análisis de datos en la nube Seguridad y eficacia gracias a su capacidad de conexión en red: Transfiera los datos registrados de manera directa a través de Bluetooth® a un teléfono inteligente o al Dräger ConHub (pasarela) y, desde allí, al backend del software Gas Detection Con … Más información Gestión cómoda de activos Con el X-am 2600, podrá gestionar su flota de equipos de forma cómoda y eficiente en el uso diario. Ahorre costes de funcionamiento y tiempo gracias a las pruebas rápidas utilizando la estación de prueba automática X-dock con bajo consumo de gas, o u … Más información Monitorización de gases a medida Pequeño y ligero: El X-am 2600 es cómodo de llevar y fácil de usar incluso con guantes gracias a sus botones de grandes dimensiones. La pantalla ofrece una representación rápida de información importante, como las lecturas de gas, las alarmas y el ti … Más información Sensores: duraderos y potentes El sensor Ex recién desarrollado combina muchas ventajas: Está disponible para la calibración en cuestión de segundos y ofrece una resistencia máxima frente a impactos. El sensor Ex es resistente a la toxicidad de la silicona y de otras sustancias no … Más información La sostenibilidad como elemento prioritario El dispositivo se ha diseñado teniendo en cuenta la sostenibilidad. Los duraderos sensores Dräger y la fuente de alimentación recargable (que se puede sustituir fácilmente con un solo tornillo) dotan al dispositivo de una larga vida útil. Casi todas … Más información"
+  },
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "X-am 2600 Product information, es",
+      "href": "/Content/Documents/Products/X-am-2600-pi-102743-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU Bump Test Station - Short instruction - 9033465 bg-me",
+      "href": "/Content/Documents/Products/bump-ifu-9033465-bg-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2500/2600/2800/3500/5000/5100/5600/5800/8000 - Limited Manufacturer Guarantee - 9033743 af-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9033743-af-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800 /5800 - Quick User Guide - 9300311 de-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9300311-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800 /5800 - Safety Notes - 9300430 de-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9300430-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800/5800 - Notes on approval - 9300308 en",
+      "href": "/Content/Documents/Products/xam-ifusp-9300308-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 2600/2800 /5800 - 9300307 de-me",
+      "href": "/Content/Documents/Products/xam-ifu-9300307-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 2600/2800 /5800 - Technical Manual - 9300310 es",
+      "href": "/Content/Documents/Products/xam-ifu-9300310-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger-Swissphone cooperation brochure",
+      "href": "/Content/Documents/Products/draeger-swissphone-screen-br-dmc-107551-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 2600 Product information, es",
+      "href": "/Content/Documents/Products/X-am-2600-pi-102743-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Vista de 360° del producto",
+      "Especificaciones",
+      "Dräger X-am 2600: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Software",
+      "¿Necesita actualizaciones de software?",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

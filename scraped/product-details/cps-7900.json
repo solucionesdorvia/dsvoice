@@ -1,0 +1,262 @@
+{
+  "slug": "cps-7900",
+  "url": "https://www.draeger.com/es_csa/Products/CPS-7900",
+  "scrapedAt": "2026-05-21T04:27:38.905Z",
+  "overview": {
+    "text": "Hecho a medida para uso en condiciones extremas. El traje estanco a los gases Dräger CPS 7900 proporciona una excelente protección frente a productos químicos industriales, agentes biológicos y otras sustancias tóxicas. Gracias a su innovador material, el CPS 7900 es igualmente apto para trabajar en zonas explosivas y para manipular sustancias criogénicas.\n\nEl traje de protección química Dräger CPS 7900 se ha desarrollado para proteger al usuario cuando manipula materiales tóxicos o peligrosos y para proporcionar el apoyo que necesita cuando se enfrenta a una variedad de tareas peligrosas. El material D … Más información\n\nEl traje está confeccionado con D-mex™, un innovador y exclusivo material que consta de cinco capas. Tanto en el exterior como en el interior existe una capa especialmente robusta de elastómero y una capa barrera resistente a las sustancias químicas. … Más información\n\nEl traje de protección química reduce el estrés durante el ya de por sí difícil trabajo en zonas de riesgo y de peligro. El nuevo diseño ergonómico del traje y las cinco tallas disponibles permiten ofrecer a los usuarios con alturas de 1,50 m a 2,10 … Más información\n\nLos materiales innovadores y los nuevos conceptos de servicio permiten reducir significativamente el tiempo y los costes de las comprobaciones rutinarias. Además, el traje se puede limpiar y desinfectar con facilidad. De esta manera, el coste y el ti … Más información\n\nEl aire respirable es un bien escaso cuando hay que afrontar desplazamientos con materiales tóxicos o atmósferas peligrosas. El camino hasta llegar al lugar de la intervención, y después al lugar de la descontaminación. Hay que realizar todas las tar … Más información",
+    "htmlSummary": "Características destacadas Hecho a medida para uso en condiciones extremas. El traje estanco a los gases Dräger CPS 7900 proporciona una excelente protección frente a productos químicos industriales, agentes biológicos y otras sustancias tóxicas. Gracias a su innovador material, el CPS 7900 es igualmente apto para trabajar en zonas explosivas y para manipular sustancias criogénicas. Protección de la más alta calidad El traje de protección química Dräger CPS 7900 se ha desarrollado para proteger al usuario cuando manipula materiales tóxicos o peligrosos y para proporcionar el apoyo que necesita cuando se enfrenta a una variedad de tareas peligrosas. El material D … Más información D-mex™: Seguridad de cinco capas El traje está confeccionado con D-mex™, un innovador y exclusivo material que consta de cinco capas. Tanto en el exterior como en el interior existe una capa especialmente robusta de elastómero y una capa barrera resistente a las sustancias químicas. … Más información Extraordinaria comodidad de uso El traje de protección química reduce el estrés durante el ya de por sí difícil trabajo en zonas de riesgo y de peligro. El nuevo diseño ergonómico del traje y las cinco tallas disponibles permiten ofrecer a los usuarios con alturas de 1,50 m a 2,10 … Más información Listo en cualquier momento Los materiales innovadores y los nuevos conceptos de servicio permiten reducir significativamente el tiempo y los costes de las comprobaciones rutinarias. Además, el traje se puede limpiar y desinfectar con facilidad. De esta manera, el coste y el ti … Más información Ya no volverá a respirar con dificultad El aire respirable es un bien escaso cuando hay que afrontar desplazamientos con materiales tóxicos o atmósferas peligrosas. El camino hasta llegar al lugar de la intervención, y después al lugar de la descontaminación. Hay que realizar todas las tar … Más información Detalles inteligentes de los pies a la cabeza El diseño de la visor, en combinación con la máscara facial completa Dräger FPS 7000, ofrece un campo de visión prácticamente natural. Pueden acoplarse tres combinaciones diferentes de guantes de forma rápida y sin herramientas. El traje puede equipa … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Traje estanco a gases prueba de gases"
+        },
+        {
+          "key": "Clase de reutilización",
+          "value": "Reutilizable"
+        },
+        {
+          "key": "Clase del tipo de traje",
+          "value": "1"
+        },
+        {
+          "key": "Clase de rendimiento",
+          "value": "+++"
+        },
+        {
+          "key": "Vida útil (años)",
+          "value": "15"
+        },
+        {
+          "key": "Material",
+          "value": "D-mex™"
+        },
+        {
+          "key": "Colores disponibles",
+          "value": "Azul, Naranja"
+        }
+      ]
+    },
+    {
+      "group": "Opciones de protección respiratoria",
+      "rows": [
+        {
+          "key": "Flujo constante",
+          "value": ""
+        },
+        {
+          "key": "SCBA por dentro",
+          "value": ""
+        },
+        {
+          "key": "SCBA por fuera",
+          "value": ""
+        },
+        {
+          "key": "Respirador purificador de aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia",
+      "rows": [
+        {
+          "key": "Resistencia mecánica",
+          "value": "++"
+        },
+        {
+          "key": "Resistencia química",
+          "value": "++"
+        },
+        {
+          "key": "Resistencia a la temperatura",
+          "value": "++"
+        }
+      ]
+    },
+    {
+      "group": "Resistencia frente a",
+      "rows": [
+        {
+          "key": "Partículas",
+          "value": ""
+        },
+        {
+          "key": "Líquidos",
+          "value": ""
+        },
+        {
+          "key": "Gases conocidos",
+          "value": ""
+        },
+        {
+          "key": "Gases desconocidos",
+          "value": ""
+        },
+        {
+          "key": "Tensión mecánica",
+          "value": ""
+        },
+        {
+          "key": "Sustancias muy frías",
+          "value": ""
+        },
+        {
+          "key": "Zonas con riesgo de explosión",
+          "value": ""
+        },
+        {
+          "key": "Incendios con deflagraciones",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 943",
+          "value": ""
+        },
+        {
+          "key": "EN 14605",
+          "value": ""
+        },
+        {
+          "key": "EN ISO 13982-1",
+          "value": ""
+        },
+        {
+          "key": "EN 13034",
+          "value": ""
+        },
+        {
+          "key": "EN 1073-1 / EN 1073-2",
+          "value": ""
+        },
+        {
+          "key": "EN 14126",
+          "value": ""
+        },
+        {
+          "key": "EN 1149",
+          "value": ""
+        },
+        {
+          "key": "EN 14593",
+          "value": ""
+        },
+        {
+          "key": "EN 14594",
+          "value": ""
+        },
+        {
+          "key": "SOLAS",
+          "value": ""
+        },
+        {
+          "key": "ISO 16602",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger CPS 7900 (PDF)",
+      "href": "/Content/Documents/Products/cps-7900-pi-9045014-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU CPS 6900/7900 Training 9021937 ME",
+      "href": "/Content/Documents/Products/cps-6900-7900-training-ifu-9021937-deen-us.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU CPS 7900 9021840 ME",
+      "href": "/Content/Documents/Products/cps-7900-ifu-9021840-deen-us.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger Fall-Connect 9021893 ME",
+      "href": "/Content/Documents/Products/dr-ger-fall-connect-ifu-9021893-dade.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Rescue Connect - 9301177 fr-me",
+      "href": "/Content/Documents/Products/rescue-ifu-9301177-fr-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Agents and Applications for Cleaning and Drying - 9100081 en-me",
+      "href": "/Content/Documents/Products/cleaning-ifusp-9100081-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Technical Manual Decontamination of CPS 9031345 es",
+      "href": "/Content/Documents/Products/ifu-9031345-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Safety You Can Count On Dräger Chemical Protective Suits (PDF)",
+      "href": "/Content/Documents/Products/cps-family-br-9046873-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Chemical Protection Suits portfolio brochure, es",
+      "href": "/Content/Documents/Products/cps-family-br-dmc-107726-es-es-2311-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Production Site for chemical protective suits",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Cómo ponerse un traje químico",
+      "href": "/Content/Documents/Products/cps-7900-donning-poster-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger CPS 7900 (PDF)",
+      "href": "/Content/Documents/Products/cps-7900-pi-9045014-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección fiable para lograr la máxima seguridad en entornos peligrosos.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de protección respiratoria",
+      "Resistencia",
+      "Resistencia frente a",
+      "Homologaciones",
+      "Dräger CPS 7900: Sustancias peligrosas y trajes de protección de materiales peligrosos correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

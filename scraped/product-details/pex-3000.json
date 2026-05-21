@@ -1,0 +1,202 @@
+{
+  "slug": "pex-3000",
+  "url": "https://www.draeger.com/es_csa/Products/PEX-3000",
+  "scrapedAt": "2026-05-21T04:29:28.598Z",
+  "overview": {
+    "text": "El transmisor Dräger PEX 3000 detecta gases y vapores inflamables en concentraciones inferiores al límite inferior de explosividad (100 % LIE). Le ayuda a aumentar la protección de la planta frente a posibles explosiones. Su sensor de combustión reacciona al gas en apenas unos segundos, y la señal de medición permanece especialmente estable a largo plazo.\n\nElija entre dos rangos de medición (0 a 100 % o de 0 a 10 % LIE) ¿Desea colocar el transmisor y el sensor en lugares separados? La variante remota incluye una segunda entrada de cable en lugar del sensor integrado para la conexión de un cabezal de me … Más información\n\nLos tres hilos individuales pelados del cable de medición apantallado se introducen en las abrazaderas con resorte integradas en el transmisor. El sensor se conecta de la misma forma. Este tipo de contacto es un sistema de vanguardia. Es más fiable q … Más información\n\nNo necesita una unidad de control de mano adicional El mantenimiento y la calibración se realizan directamente en el transmisor abierto utilizando solo dos botones y una pantalla de dos dígitos y siete segmentos. Y esto está expresamente permitido in … Más información\n\nEl Dräger PEX 3000 está homologado conforme a la Directiva 2014/34/UE de la Unión Europea para temperaturas de funcionamiento comprendidas entre -40 y +65 °C, por lo que se puede utilizar en zonas con riesgo de explosión de gases y polvo (zonas 1, 2, … Más información\n\nEl transmisor Dräger PEX 3000 tipo XTR 0011 cuenta con un sensor LC especial de baja deriva, por lo que es perfecto para la detección de gases en concentraciones bajas. Detecta con fiabilidad fugas de gases a niveles inferiores al 10 % LIE.",
+    "htmlSummary": "Características destacadas El transmisor Dräger PEX 3000 detecta gases y vapores inflamables en concentraciones inferiores al límite inferior de explosividad (100 % LIE). Le ayuda a aumentar la protección de la planta frente a posibles explosiones. Su sensor de combustión reacciona al gas en apenas unos segundos, y la señal de medición permanece especialmente estable a largo plazo. Dos variantes de transmisor Elija entre dos rangos de medición (0 a 100 % o de 0 a 10 % LIE) ¿Desea colocar el transmisor y el sensor en lugares separados? La variante remota incluye una segunda entrada de cable en lugar del sensor integrado para la conexión de un cabezal de me … Más información Instalación sencilla Los tres hilos individuales pelados del cable de medición apantallado se introducen en las abrazaderas con resorte integradas en el transmisor. El sensor se conecta de la misma forma. Este tipo de contacto es un sistema de vanguardia. Es más fiable q … Más información Calibración a cargo de una sola persona No necesita una unidad de control de mano adicional El mantenimiento y la calibración se realizan directamente en el transmisor abierto utilizando solo dos botones y una pantalla de dos dígitos y siete segmentos. Y esto está expresamente permitido in … Más información Protección frente a explosiones El Dräger PEX 3000 está homologado conforme a la Directiva 2014/34/UE de la Unión Europea para temperaturas de funcionamiento comprendidas entre -40 y +65 °C, por lo que se puede utilizar en zonas con riesgo de explosión de gases y polvo (zonas 1, 2, … Más información Concentraciones bajas de gas El transmisor Dräger PEX 3000 tipo XTR 0011 cuenta con un sensor LC especial de baja deriva, por lo que es perfecto para la detección de gases en concentraciones bajas. Detecta con fiabilidad fugas de gases a niveles inferiores al 10 % LIE. El sensor de calor de reacción El DrägerSensor catalítico... La tecnología DQ se basa en el principio del calor de reacción. El componente más importante son las perlas catalíticas activas sobre bobinas de platino (pellistores). Estos pellistores queman el gas para generar un calo … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Sensor de perlas catalíticas"
+        },
+        {
+          "key": "Tiempo de respuesta",
+          "value": "<20 segundos"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": ""
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 1"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "12 a 30 V CC"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 65°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "5 a 95 % h.r."
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "14.5x8x5.5 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "1.32 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Poliéster reforzado con fibra de vidrio (GFRP)"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP66"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina",
+          "value": ""
+        },
+        {
+          "key": "FM",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "PEX 3000 Product Information, es",
+      "href": "/Content/Documents/Products/PEX-3000-pi-100455-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PEX 3000 9300061 de-me",
+      "href": "/Content/Documents/Products/pex-ifu-9300061-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PEX 3000 Product Information, es",
+      "href": "/Content/Documents/Products/PEX-3000-pi-100455-es-ES.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Siempre protegido: Medición de gases inflamables con la experiencia de Dräger",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger PEX 3000: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

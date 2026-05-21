@@ -1,0 +1,60 @@
+{
+  "slug": "aerotest-simultan-hp",
+  "url": "https://www.draeger.com/es_csa/Products/Aerotest-Simultan-HP",
+  "scrapedAt": "2026-05-21T04:27:00.087Z",
+  "overview": null,
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger Aerotest HP 9021765 ME",
+      "href": "/Content/Documents/Products/dr-ger-aerotest-hp-ifu-9021765-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Impactor 9022898 ME",
+      "href": "/Content/Documents/Products/impactor-ifu-9022898-bgcs.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Oil 10/a-P 67 28 371 9032000 en-us-me",
+      "href": "/Content/Documents/Products/oil-ifu-9032000-en-us-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Aerotest Simultan HP Data sheet, en",
+      "href": "/Content/Documents/Products/aerotest-simultan-hp-ds-9046404-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger Tubes Handook 21st Edition, es",
+      "href": "/Content/Documents/Products/tubes-hb-9072723-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Garantice resultados precisos con la avanzada tecnología de ensayo de Dräger",
+      "Características destacadas",
+      "Especificaciones",
+      "Dräger Aerotest Simultan HP: Sustancias peligrosas medibles y tubos detección de gases correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

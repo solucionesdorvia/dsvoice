@@ -1,0 +1,215 @@
+{
+  "slug": "draeger-polytron-8100",
+  "url": "https://www.draeger.com/es_csa/Products/Draeger-Polytron-8100",
+  "scrapedAt": "2026-05-21T04:27:43.378Z",
+  "overview": {
+    "text": "El Polytron 8100 EC es el transmisor Dräger a prueba de explosiones más avanzado para la detección de gases tóxicos u oxígeno. Emplea un DrägerSensor electroquímico de alto rendimiento de tipo \"plug and play\" para detectar un gas específico. Además de una salida analógica de 4 a 20 mA de 3 hilos con relés, también ofrece los protocolos HART®, Modbus y Fieldbus, lo que lo hace compatible con la mayoría de los sistemas de control.\n\nEl Dräger Polytron 8100 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información\n\nEl Dräger Polytron 8100 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme y pocos requisitos de entrenamiento y mantenimiento. La amplia pant … Más información\n\nLos exclusivos DrägerSensors electroquímicos permiten al Polytron 8100 detectar más de 100 gases tóxicos y oxígeno. Estos sensores duraderos realizan la detección de forma continua, incluso en las condiciones más duras. Los DrägerSensors ofrecen el r … Más información\n\nEl Dräger Polytron 8100 se puede suministrar con tres relés integrados. Esto le permite utilizarlo como un sistema de detección de gas independiente con dos alarmas de concentración ajustables de forma arbitraria y una alarma de fallo. De este modo, … Más información\n\nEl Polytron 8100 cuenta con una carcasa a prueba de explosiones de Clase I, Div. 1 fabricada en aluminio o acero inoxidable que resulta idónea para todo tipo de condiciones ambientales. La versión con tipo de protección «e» incluye una práctica estac … Más información",
+    "htmlSummary": "Características destacadas El Polytron 8100 EC es el transmisor Dräger a prueba de explosiones más avanzado para la detección de gases tóxicos u oxígeno. Emplea un DrägerSensor electroquímico de alto rendimiento de tipo \"plug and play\" para detectar un gas específico. Además de una salida analógica de 4 a 20 mA de 3 hilos con relés, también ofrece los protocolos HART®, Modbus y Fieldbus, lo que lo hace compatible con la mayoría de los sistemas de control. Gestión sencilla del dispositivo mediante comunicación digital El Dräger Polytron 8100 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información Mismo diseño, mismo principio de funcionamiento El Dräger Polytron 8100 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme y pocos requisitos de entrenamiento y mantenimiento. La amplia pant … Más información Duradero, inteligente y sensible: DrägerSensor Los exclusivos DrägerSensors electroquímicos permiten al Polytron 8100 detectar más de 100 gases tóxicos y oxígeno. Estos sensores duraderos realizan la detección de forma continua, incluso en las condiciones más duras. Los DrägerSensors ofrecen el r … Más información Tres relés para controlar los equipos externos El Dräger Polytron 8100 se puede suministrar con tres relés integrados. Esto le permite utilizarlo como un sistema de detección de gas independiente con dos alarmas de concentración ajustables de forma arbitraria y una alarma de fallo. De este modo, … Más información Carcasa segura y robusta para cualquier aplicación El Polytron 8100 cuenta con una carcasa a prueba de explosiones de Clase I, Div. 1 fabricada en aluminio o acero inoxidable que resulta idónea para todo tipo de condiciones ambientales. La versión con tipo de protección «e» incluye una práctica estac … Más información Haga posible lo imposible gracias a los sensores remotos La carcasa del sensor remoto permite instalar el sensor por separado con respecto al transmisor. Esta instalación «externa» facilita su uso en caso de que el sensor tenga que instalarse en una posición complicada o de difícil acceso. Más funciones por medio de módulos electrónicos Es posible añadir funciones adicionales al Polytron 8100 por medio de módulos electrónicos de software. La función del registrador de datos se incluye de serie y registra continuamente lecturas y eventos de gas. Otro módulo disponible ofrece otras fu … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Electroquímico"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20 or 3/4\" NPT"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-1-3)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "10 a 30 V CC, 3 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 65°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "28x15x13 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "11.02 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Aluminio sin cobre recubierto de epoxi o acero inoxidable SS316L"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP65/66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": "(O2, H2S)"
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "IFU Polytron 8000 Series 9033828 ME",
+      "href": "/Content/Documents/Products/polytron-8000-series-ifu-9033828-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0, Polytron 8xx0 - Notes on Approval - 4544300 en-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-4544300-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0/Polytron 8xx0 - Safety instructions - 9301119 de-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-9301119-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Product information: Digital communication in stationary gas measuring technology (PDF)",
+      "href": "/Content/Documents/Products/digitalcommunication-gds-pi-9041506-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Link to Polytron 5xx0/8xx0 Configurator",
+      "href": "https://polytron.azurewebsites.net/public/de/index.html",
+      "type": null
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "Limited Manufacturer Guarantee_Garantiekarte Polytron 8100, 8200, 87x0, 8900 9300655 (ed 02), en, de",
+      "href": "/Content/Documents/Products/Garantiekarte-P8xx0-9300655-de-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Centrado en la seguridad: Detecte gases tóxicos y oxígeno con precisión",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron 8100 EC: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

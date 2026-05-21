@@ -1,0 +1,194 @@
+{
+  "slug": "x-act-7000",
+  "url": "https://www.draeger.com/es_csa/Products/X-act-7000",
+  "scrapedAt": "2026-05-21T04:31:39.840Z",
+  "overview": {
+    "text": "​El innovador sistema de análisis Dräger X-act® 7000 se compone de los microtubos Dräger y un dispositivo de análisis optoelectrónico que le permite medir con precisión los gases en un rango bajo de ppb. Proporciona resultados precisos al momento, a diferencia de los lentos y costosos análisis de laboratorio. Es muy fácil de usar: Inserte los microtubos Dräger, inicie la medición y lea el resultado de la prueba.\n\n​Las concentraciones de sustancias peligrosas en el aire ambiente del lugar de trabajo no deben superar nunca los límites definidos. La supervisión de estos niveles de concentración en ocasiones tan bajos es una tarea que comporta una gran responsabi … Más información\n\n​Las capas reactivas en función de la sustancia y las múltiples precapas de los microtubos Dräger permiten realizar pruebas de gas selectivas. Las diferentes capas actúan como filtro, por ejemplo. Durante la prueba, filtran otras sustancias presentes … Más información\n\n​Las etiquetas RFID que se aplican a los microtubos Dräger contienen todos los datos de calibración que se aplican durante su ciclo de vida normal de un año. De este modo, no es necesario realizar pruebas prolongadas ni calibraciones manuales. Puesto … Más información\n\n​Después de una prueba automática, el sistema de análisis X-act 7000 queda listo para usarse inmediatamente. Es apropiado para realizar pruebas con todos los microtubos Dräger disponibles. Basta con insertar el microtubo Dräger apropiado en cada caso … Más información\n\n​Para adaptar la bomba Dräger X-am® al X-act 7000, utilice el acoplador (pieza de conexión). Esto le permite realizar pruebas de sustancias tóxicas y cancerígenas en el rango de ppb, incluso en lugares de difícil acceso como conductos, tuberías o tan … Más información",
+    "htmlSummary": "Características destacadas ​El innovador sistema de análisis Dräger X-act® 7000 se compone de los microtubos Dräger y un dispositivo de análisis optoelectrónico que le permite medir con precisión los gases en un rango bajo de ppb. Proporciona resultados precisos al momento, a diferencia de los lentos y costosos análisis de laboratorio. Es muy fácil de usar: Inserte los microtubos Dräger, inicie la medición y lea el resultado de la prueba. Mide concentraciones muy bajas con la misma calidad que un análisis de laboratorio ​Las concentraciones de sustancias peligrosas en el aire ambiente del lugar de trabajo no deben superar nunca los límites definidos. La supervisión de estos niveles de concentración en ocasiones tan bajos es una tarea que comporta una gran responsabi … Más información Más seguridad gracias a la alta selectividad ​Las capas reactivas en función de la sustancia y las múltiples precapas de los microtubos Dräger permiten realizar pruebas de gas selectivas. Las diferentes capas actúan como filtro, por ejemplo. Durante la prueba, filtran otras sustancias presentes … Más información A prueba de explosiones y listo para usar ​Las etiquetas RFID que se aplican a los microtubos Dräger contienen todos los datos de calibración que se aplican durante su ciclo de vida normal de un año. De este modo, no es necesario realizar pruebas prolongadas ni calibraciones manuales. Puesto … Más información Fácil de usar ​Después de una prueba automática, el sistema de análisis X-act 7000 queda listo para usarse inmediatamente. Es apropiado para realizar pruebas con todos los microtubos Dräger disponibles. Basta con insertar el microtubo Dräger apropiado en cada caso … Más información También resulta apropiado para realizar pruebas con bomba ​Para adaptar la bomba Dräger X-am® al X-act 7000, utilice el acoplador (pieza de conexión). Esto le permite realizar pruebas de sustancias tóxicas y cancerígenas en el rango de ppb, incluso en lugares de difícil acceso como conductos, tuberías o tan … Más información"
+  },
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger X-act® 7000",
+      "href": "/Content/Documents/Products/x-act-7000-pi-9107505-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU Dräger MicroTubes Aceton 25 - 5000 ppm - 8610470 - 9300181 bg-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300181-bg-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger MicroTubes ammonia 1 - 100 ppm (8610130) - 9032050 bg-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9032050-bg-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger MicroTubes Mercaptan 50 - 6000 ppb (8610360) - 9300156 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300156-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger MicroTubes Nitrous fumes 0.25 - 50 ppm (8610060) - 9300143 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300143-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger MicroTubes Phosgene 10 - 1000 ppb (8610340) - 9300141 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300141-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger MicroTubes Sulfur dioxide 0.05 - 5 ppm (8610110) - 9300142 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300142-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU H2S-Filter Pre-Tube (3716630) - 9300982 da-me",
+      "href": "/Content/Documents/Products/xact-ifu-9300982-da-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Acetic acid 2- 50 ppm (8610330) - 9300901 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300901-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes AcryInitril 0.05 - 30 ppm - 9301139 de-me",
+      "href": "/Content/Documents/Products/micro-ifu-9301139-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Alcohol 10 - 5000 ppm (8310380) - 9300628 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300628-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Benzene 10 - 100 ppm (8610280) - 9300761 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300761-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Carbon dioxide 200–50000 ppm (8610190) - 9300135 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300135-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes ethylene oxide 25 - 250 ppb (8610200) - 9300121 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300121-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Hydrogen sulfide 100 - 2000 ppm (8610220) - 9300762 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300762-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes methyl tert-butyl ether (MTBE) 2–200 ppm (8610530) - 9300760 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300760-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Methylene chloride 10 - 500 ppm (8610510) - 9300946 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300946-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Ozone 10 - 1000 ppb (8610430) - 9300184 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300184-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Perchlorethylene 1 - 500 ppm (8610040) - 9300182 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300182-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Quecksilber 0.005 - 0.25 mg/m3 - 8610350 - 9032046 de-me",
+      "href": "/Content/Documents/Products/micro-ifu-9032046-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Trichlorethylene 0.25 - 50 ppm (8610320) - 9300658 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300658-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU MicroTubes Vinyl chloride 0.1 - 10 ppm (8610230) - 9300896 de-me",
+      "href": "/Content/Documents/Products/tubes-ifu-9300896-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-act 7000 - Notes on Approval - 9300082 de-me",
+      "href": "/Content/Documents/Products/xact-ifusp-9300082-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-act 7000 - 9300024 de-me",
+      "href": "/Content/Documents/Products/xact-ifu-9300024-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-act 7000 Coupler - 9300078 de-me",
+      "href": "/Content/Documents/Products/xact-ifu-9300078-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger X-act® 7000",
+      "href": "/Content/Documents/Products/x-act-7000-pi-9107505-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger Tubes Handook 21st Edition, es",
+      "href": "/Content/Documents/Products/tubes-hb-9072723-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: X-act 7000 - Medición de la calidad de laboratorio en ppb",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Nuestra tecnología de bombeo: Precisión en cada prueba",
+      "Características destacadas",
+      "Especificaciones",
+      "Dräger X-act® 7000: Sustancias peligrosas medibles y tubos detección de gases correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

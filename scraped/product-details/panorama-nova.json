@@ -1,0 +1,256 @@
+{
+  "slug": "panorama-nova",
+  "url": "https://www.draeger.com/es_csa/Products/Panorama-Nova",
+  "scrapedAt": "2026-05-21T04:28:36.395Z",
+  "overview": {
+    "text": "La serie de máscaras integrales Panorama Nova marca la referencia en materia de protección, estanqueidad y calidad. Probada en todo el mundo durante décadas, esta máscara facial integral es sinónimo de fiabilidad en la protección tanto del sistema respiratorio como de los ojos.\n\nEl trabajo con materiales peligrosos exige mucho tanto de las personas como de los equipos. La máscara integral Panorama Nova ofrece una protección fiable en diversas situaciones: en combinación con un equipo de respiración autónomo o un sistema de s … Más información\n\nEl cuerpo de la máscara Panorama Nova está fabricado en EPDM o silicona, un material especialmente suave con la piel. Se mantiene flexible tanto a altas como a bajas temperaturas. Su marco de doble sellado y sus bordes de triple sellado brindan un aj … Más información\n\nEl visor sin distorsiones puede ser de policarbonato resistente a los impactos o de Triplex resistente a los productos químicos. El amplio ángulo de 180° ofrece un campo de visión prácticamente ilimitado. El sistema de ventilación inteligente garanti … Más información\n\nLa amplia gama de accesorios convierte a Panorama Nova en un dispositivo de aplicación muy versátil. Los materiales de alta calidad de Panorama Nova son fáciles de limpiar y mantener. Su acabado de alta calidad garantiza una larga vida útil y, por ta … Más información",
+    "htmlSummary": "Características destacadas La serie de máscaras integrales Panorama Nova marca la referencia en materia de protección, estanqueidad y calidad. Probada en todo el mundo durante décadas, esta máscara facial integral es sinónimo de fiabilidad en la protección tanto del sistema respiratorio como de los ojos. La solución adecuada para cada aplicación El trabajo con materiales peligrosos exige mucho tanto de las personas como de los equipos. La máscara integral Panorama Nova ofrece una protección fiable en diversas situaciones: en combinación con un equipo de respiración autónomo o un sistema de s … Más información Ajuste seguro y comodidad de uso El cuerpo de la máscara Panorama Nova está fabricado en EPDM o silicona, un material especialmente suave con la piel. Se mantiene flexible tanto a altas como a bajas temperaturas. Su marco de doble sellado y sus bordes de triple sellado brindan un aj … Más información Amplio campo de visión incluso durante un uso prolongado El visor sin distorsiones puede ser de policarbonato resistente a los impactos o de Triplex resistente a los productos químicos. El amplio ángulo de 180° ofrece un campo de visión prácticamente ilimitado. El sistema de ventilación inteligente garanti … Más información Variedad de amccesorios y fácil mantenimiento La amplia gama de accesorios convierte a Panorama Nova en un dispositivo de aplicación muy versátil. Los materiales de alta calidad de Panorama Nova son fáciles de limpiar y mantener. Su acabado de alta calidad garantiza una larga vida útil y, por ta … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Máscara completa con una conexión"
+        },
+        {
+          "key": "Protección contra",
+          "value": "Partículas y/o gases y vapores - en función del sistema utilizado"
+        },
+        {
+          "key": "Material del cuerpo de la máscara",
+          "value": "EPDM y silicona (no daña la piel)"
+        },
+        {
+          "key": "Tallas",
+          "value": "Talla universal"
+        },
+        {
+          "key": "Sistema de comunicación",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Opciones de conexión",
+      "rows": [
+        {
+          "key": "Conexión de bayoneta específica para Dräger",
+          "value": ""
+        },
+        {
+          "key": "Conexión de rosca estándar RA Rd40 (conforme con EN 148-1)",
+          "value": ""
+        },
+        {
+          "key": "Conexión de rosca PE M45x3 (conforme con EN 148-3)",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida ESA (conforme con DIN 58600)",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida Dräger P",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida Dräger RP (circuito cerrado)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Combinable con",
+      "rows": [
+        {
+          "key": "Filtros de bayoneta",
+          "value": ""
+        },
+        {
+          "key": "Filtros RD40",
+          "value": ""
+        },
+        {
+          "key": "PAPR",
+          "value": ""
+        },
+        {
+          "key": "Unidad de evacuación",
+          "value": ""
+        },
+        {
+          "key": "Unidad de suministro de aire",
+          "value": ""
+        },
+        {
+          "key": "SCBA",
+          "value": ""
+        },
+        {
+          "key": "CCBA",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Material del visor",
+      "rows": [
+        {
+          "key": "Plexiglás",
+          "value": ""
+        },
+        {
+          "key": "PC (a prueba de impactos)",
+          "value": ""
+        },
+        {
+          "key": "Tríplex (a prueba de arañazos y resistente a los productos químicos)",
+          "value": ""
+        },
+        {
+          "key": "PCas (a prueba de impactos y arañazos, mayor resistencia a los productos químicos)",
+          "value": ""
+        },
+        {
+          "key": "APEC (a prueba de impactos, mayor termorresistencia)",
+          "value": ""
+        },
+        {
+          "key": "APECas (a prueba de impactos y arañazos, mayor resistencia a los productos químicos)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Arnés para la cabeza",
+      "rows": [
+        {
+          "key": "Arnés de caucho con 5 puntos de fijación",
+          "value": ""
+        },
+        {
+          "key": "Conexión de 2 puntos de fijación para cascos Dräger HPS 7000",
+          "value": ""
+        },
+        {
+          "key": "Red textil",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 136 clase 2",
+          "value": ""
+        },
+        {
+          "key": "EN 136 clase 3",
+          "value": ""
+        },
+        {
+          "key": "EN 137 tipo 2",
+          "value": ""
+        },
+        {
+          "key": "DIN 58610",
+          "value": ""
+        },
+        {
+          "key": "VFDB 0802 (RA, PE, ESA)",
+          "value": ""
+        },
+        {
+          "key": "AS/NZS 1716:2012",
+          "value": ""
+        },
+        {
+          "key": "NIOSH",
+          "value": "(ciertas variantes)"
+        },
+        {
+          "key": "NFPA",
+          "value": "(ciertas variantes)"
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Panorama Nova RP Product Information, es",
+      "href": "/Content/Documents/Products/panorama-nova-rp-pi-9045145-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Panorama Nova® (PDF)",
+      "href": "/Content/Documents/Products/panorama-nova-pi-9072776-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Machine-based reprocessing of full face masks - 9031089 de-me",
+      "href": "/Content/Documents/Products/machine-ifu-9031089-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Panorama Nova - 9021277 de-me",
+      "href": "/Content/Documents/Products/nova-ifu-9021277-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Agents and Applications for Cleaning and Drying - 9100081 en-me",
+      "href": "/Content/Documents/Products/cleaning-ifusp-9100081-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Production Site for respiratory protective masks",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Panorama Nova RP Product Information, es",
+      "href": "/Content/Documents/Products/panorama-nova-rp-pi-9045145-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Panorama Nova® (PDF)",
+      "href": "/Content/Documents/Products/panorama-nova-pi-9072776-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger Panorama Nova®: The correct donning of our full face mask",
+      "href": "https://youtu.be/WERYXXew6Xs",
+      "type": null
+    },
+    {
+      "label": "Panorama Nova Donning Poster, en",
+      "href": "/Content/Documents/Products/panorama-nova-donning-po-420x594-9106522-en-uk.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección integral y visión clara para los entornos más exigentes.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de conexión",
+      "Combinable con",
+      "Material del visor",
+      "Arnés para la cabeza",
+      "Homologaciones",
+      "Dräger Panorama Nova: Sustancias peligrosas y filtros respiratorios correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

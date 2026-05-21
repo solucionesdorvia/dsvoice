@@ -1,0 +1,190 @@
+{
+  "slug": "variogard-3000-ec-transmitter",
+  "url": "https://www.draeger.com/es_csa/Products/VarioGard-3000-EC-Transmitter",
+  "scrapedAt": "2026-05-21T04:31:35.645Z",
+  "overview": {
+    "text": "El Dräger VarioGard 3000 EC es un transmisor digital con un sensor electroquímico integrado. Detecta gases tóxicos como CO, NO2, NO, NH3 y oxígeno en zonas sin clasificación Ex como garajes subterráneos, laboratorios y en almacenes con cámaras frigoríficas.\n\nEl Dräger ­VarioGard ­3000 EC se conecta con el controlador a través del bus digital VarioGard. De este modo, recibe electricidad y transmite los resultados de las mediciones. Puede controlar fácilmente todo el sistema VarioGard a través del bus Vari … Más información\n\nEl VarioGard 3000 EC está provisto de un DrägerSensor electroquímico. Este sensor mide la concentración de gases tóxicos en el aire ambiente. Los valores medidos se transmiten por vía digital al controlador y se muestran en este último. Si la concent … Más información\n\nEl manejo es extremadamente sencillo. Puede realizar todas las configuraciones cómodamente desde el controlador por medio del software VarioGard. Puede configurar y supervisar cuatro valores límite de corriente y cuatro promedios en el tiempo para ca … Más información\n\nEl VarioGard 3000 EC se adapta a su sistema. Dependiendo de la aplicación, hay distintos sensores disponibles: CO, NO2 y NO para garajes, O2 para sistemas de suministro de oxígeno y NH3 para por ejemplo almacenes con cámaras frigoríficas.\n\nEl transmisor VarioGard está en sintonía con la filosofía de sostenibilidad de Dräger al incorporar DrägerSensors duraderos, lo que permite prolongar la vida útil del dispositivo. El nuevo diseño de la carcasa optimiza el uso de materiales en compara … Más información",
+    "htmlSummary": "Características destacadas El Dräger VarioGard 3000 EC es un transmisor digital con un sensor electroquímico integrado. Detecta gases tóxicos como CO, NO2, NO, NH3 y oxígeno en zonas sin clasificación Ex como garajes subterráneos, laboratorios y en almacenes con cámaras frigoríficas. Funcionamiento digital El Dräger ­VarioGard ­3000 EC se conecta con el controlador a través del bus digital VarioGard. De este modo, recibe electricidad y transmite los resultados de las mediciones. Puede controlar fácilmente todo el sistema VarioGard a través del bus Vari … Más información Gran fiabilidad El VarioGard 3000 EC está provisto de un DrägerSensor electroquímico. Este sensor mide la concentración de gases tóxicos en el aire ambiente. Los valores medidos se transmiten por vía digital al controlador y se muestran en este último. Si la concent … Más información Manejo sencillo El manejo es extremadamente sencillo. Puede realizar todas las configuraciones cómodamente desde el controlador por medio del software VarioGard. Puede configurar y supervisar cuatro valores límite de corriente y cuatro promedios en el tiempo para ca … Más información Configuración individual El VarioGard 3000 EC se adapta a su sistema. Dependiendo de la aplicación, hay distintos sensores disponibles: CO, NO2 y NO para garajes, O2 para sistemas de suministro de oxígeno y NH3 para por ejemplo almacenes con cámaras frigoríficas. La sostenibilidad como elemento prioritario El transmisor VarioGard está en sintonía con la filosofía de sostenibilidad de Dräger al incorporar DrägerSensors duraderos, lo que permite prolongar la vida útil del dispositivo. El nuevo diseño de la carcasa optimiza el uso de materiales en compara … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Electroquímico"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20 x 1.5"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": ""
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "16 a 30 V CC"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-20°C - 50°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "10 a 95 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "11x12x6 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "14.11 oz"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Plástico ABS"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP65"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "IFU VarioGard - 9033185 de-me",
+      "href": "/Content/Documents/Products/vario-ifu-9033185-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Product information: Digital communication in stationary gas measuring technology (PDF)",
+      "href": "/Content/Documents/Products/digitalcommunication-gds-pi-9041506-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "VarioGard System Brochure, es",
+      "href": "/Content/Documents/Products/variogard-system-br-9094109-es-es-1703-2.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Comunicación Digital",
+      "href": "/Content/Documents/Products/digital-communication-gds-pi-9071007-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "El sistema integral de alerta de gas para su edificio",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger VarioGard 3000 EC Transmitter: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

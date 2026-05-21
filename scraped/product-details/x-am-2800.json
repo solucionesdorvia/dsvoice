@@ -1,0 +1,283 @@
+{
+  "slug": "x-am-2800",
+  "url": "https://www.draeger.com/es_csa/Products/X-am-2800",
+  "scrapedAt": "2026-05-21T04:31:48.740Z",
+  "overview": {
+    "text": "El detector multigás X-am 2800 mide hasta cuatro gases y está provisto de un sensor CatEx especialmente resistente a los golpes. Gracias al software Dräger Gas Detection Connect, ofrece una transmisión de datos inmediata, así como una potente gestión de la flota. El X-am 2800, diseñado para una monitorización personal, ofrece el máximo grado de seguridad con un coste de propiedad muy bajo.\n\nSeguridad y eficacia gracias a su capacidad de conexión en red: Transfiera los datos registrados de manera directa a través de Bluetooth a un teléfono inteligente o al Dräger ConHub (pasarela) y desde allí al software Gas Detection Connect. Otra posi … Más información\n\nCon el X-am 2800 podrá gestionar su flota de equipos de forma cómoda y eficiente en el uso diario. Ahorre costes de funcionamiento y tiempo gracias a las pruebas rápidas utilizando la estación de prueba automática X-dock con bajo consumo de gas, o un … Más información\n\nPequeño y ligero: El X-am 2800 es cómodo de llevar y fácil de usar incluso con guantes gracias a sus botones de grandes dimensiones. La pantalla muestra con claridad la información importante, como las lecturas de gas, las alarmas y la hora. La luz-D … Más información\n\nEl sensor Ex recién desarrollado combina muchas ventajas: disponibilidad para la calibración en cuestión de segundos, extrema robustez frente a golpes y la medición de vapores inflamables, como la gasolina, el gasóleo y el nonano. También puede ajust … Más información\n\nDurante el desarrollo del X-am 2800 se dio gran importancia a la sostenibilidad. Los duraderos sensores Dräger y la fuente de alimentación recargable, que puede sustituirse fácilmente con un tornillo, garantizan una larga vida útil. Casi todas las pi … Más información",
+    "htmlSummary": "Características destacadas El detector multigás X-am 2800 mide hasta cuatro gases y está provisto de un sensor CatEx especialmente resistente a los golpes. Gracias al software Dräger Gas Detection Connect, ofrece una transmisión de datos inmediata, así como una potente gestión de la flota. El X-am 2800, diseñado para una monitorización personal, ofrece el máximo grado de seguridad con un coste de propiedad muy bajo. Potente análisis de datos en la nube Seguridad y eficacia gracias a su capacidad de conexión en red: Transfiera los datos registrados de manera directa a través de Bluetooth a un teléfono inteligente o al Dräger ConHub (pasarela) y desde allí al software Gas Detection Connect. Otra posi … Más información Gestión cómoda de activos Con el X-am 2800 podrá gestionar su flota de equipos de forma cómoda y eficiente en el uso diario. Ahorre costes de funcionamiento y tiempo gracias a las pruebas rápidas utilizando la estación de prueba automática X-dock con bajo consumo de gas, o un … Más información Monitorización de gases a medida Pequeño y ligero: El X-am 2800 es cómodo de llevar y fácil de usar incluso con guantes gracias a sus botones de grandes dimensiones. La pantalla muestra con claridad la información importante, como las lecturas de gas, las alarmas y la hora. La luz-D … Más información Sensores: duraderos y potentes El sensor Ex recién desarrollado combina muchas ventajas: disponibilidad para la calibración en cuestión de segundos, extrema robustez frente a golpes y la medición de vapores inflamables, como la gasolina, el gasóleo y el nonano. También puede ajust … Más información La sostenibilidad como elemento prioritario Durante el desarrollo del X-am 2800 se dio gran importancia a la sostenibilidad. Los duraderos sensores Dräger y la fuente de alimentación recargable, que puede sustituirse fácilmente con un tornillo, garantizan una larga vida útil. Casi todas las pi … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Gases medibles",
+          "value": "Ex, O2, CO, H2S o NO2 o SO2"
+        },
+        {
+          "key": "Puertos de sensores",
+          "value": "4"
+        },
+        {
+          "key": "Número de gases",
+          "value": "1 - 4"
+        },
+        {
+          "key": "Tecnología de sensores",
+          "value": "CAT + EC"
+        }
+      ]
+    },
+    {
+      "group": "Aplicaciones",
+      "rows": [
+        {
+          "key": "Monitorización personal del aire",
+          "value": ""
+        },
+        {
+          "key": "Entrada en espacios confinados",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Tiempo de funcionamiento",
+          "value": ">12h"
+        },
+        {
+          "key": "Dimensiones (anchura x altura x fondo)",
+          "value": "4.8x13x4.4 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "7.76 oz"
+        },
+        {
+          "key": "Tipo de batería",
+          "value": "NiMh"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP 68"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Sensores duales",
+          "value": ""
+        },
+        {
+          "key": "CatEx Rango total (cambio automático entre LIE y %Vol. CH4)",
+          "value": ""
+        },
+        {
+          "key": "D-Luz",
+          "value": ""
+        },
+        {
+          "key": "Bomba interna",
+          "value": ""
+        },
+        {
+          "key": "Bomba X-am Pump",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área X-zone 5500",
+          "value": ""
+        },
+        {
+          "key": "Estación de prueba de gas",
+          "value": ""
+        },
+        {
+          "key": "Estación X-dock",
+          "value": ""
+        },
+        {
+          "key": "Bluetooth",
+          "value": ""
+        },
+        {
+          "key": "Alarma Bodyguard (alarmas antipánico, detección de ausencia de movimiento)",
+          "value": ""
+        },
+        {
+          "key": "Configuración inteligente en Dräger Gas Detection Connect",
+          "value": ""
+        },
+        {
+          "key": "Soporte de Dräger ConHub (Pasarela)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": "I M1 Ex da ia I Ma; II 1G Ex da ia IIC T4 Ga"
+        },
+        {
+          "key": "IECEx",
+          "value": "Ex da ia I Ma; Ex da ia IIC T4 Ga"
+        },
+        {
+          "key": "c CSA us",
+          "value": "Clase I Div. 1 Group A, B, C, D, E, F, G T4/T3, A/Ex da ia IIC T4/T3 /Ga"
+        },
+        {
+          "key": "CE",
+          "value": ""
+        },
+        {
+          "key": "Certificación de rendimiento de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación para Marina (MED/DNV GL)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "X-am 2800 Product Information, es",
+      "href": "/Content/Documents/Products/X-am-2800-pi-100940-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU Bump Test Station - Short instruction - 9033465 bg-me",
+      "href": "/Content/Documents/Products/bump-ifu-9033465-bg-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2500/2600/2800/3500/5000/5100/5600/5800/8000 - Limited Manufacturer Guarantee - 9033743 af-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9033743-af-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800 /5800 - Quick User Guide - 9300311 de-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9300311-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800 /5800 - Safety Notes - 9300430 de-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9300430-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2600/2800/5800 - Notes on approval - 9300308 en",
+      "href": "/Content/Documents/Products/xam-ifusp-9300308-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 2600/2800 /5800 - 9300307 de-me",
+      "href": "/Content/Documents/Products/xam-ifu-9300307-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 2600/2800 /5800 - Technical Manual - 9300310 es",
+      "href": "/Content/Documents/Products/xam-ifu-9300310-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Battery cell manufacturing safety challenges brochure, es",
+      "href": "/Content/Documents/Products/Battery-cell-manufacturing-process-fl-DMC-104074-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger-Swissphone cooperation brochure",
+      "href": "/Content/Documents/Products/draeger-swissphone-screen-br-dmc-107551-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas detection for incidents involving vehicles with alternative drive systems, es",
+      "href": "/Content/Documents/Products/first-responder-safety-vehicles-with-alternative-drive-systems-illuph-dmc-107526-es-es-2310-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 2800 Sales Presentation, es",
+      "href": "/Content/Documents/Products/x-am-2800-sp-dmc-102486-es-es.pptx",
+      "type": null
+    },
+    {
+      "label": "X-am 2800 Product Information, es",
+      "href": "/Content/Documents/Products/X-am-2800-pi-100940-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision Software History, en",
+      "href": "/Content/Documents/Products/GasVision-History-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Vista de 360° del producto",
+      "Especificaciones",
+      "Datos generales",
+      "Aplicaciones",
+      "Características técnicas",
+      "Características",
+      "Homologaciones",
+      "Dräger X-am 2800: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Software",
+      "¿Necesita actualizaciones de software?",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

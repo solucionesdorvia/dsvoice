@@ -1,0 +1,225 @@
+{
+  "slug": "polytron-7000",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-7000",
+  "scrapedAt": "2026-05-21T04:30:24.928Z",
+  "overview": {
+    "text": "El detector de gases Dräger Polytron® 7000 proporciona diferentes opciones de medición de gases tóxicos y de oxígeno en una sola plataforma. Con su innovador concepto modular, el Dräger Polytron® 7000 ofrece la flexibilidad de configurar el transmisor para que se adapte de manera precisa a su aplicación.\n\nDräger desarrolló el menú de software sencillo y estructurado para el Polytron 7000 en colaboración con sus clientes. La gran pantalla gráfica muestra la información de estado con la ayuda de iconos y texto sin formato, y guía al usuario a través del … Más información\n\nEl adaptador del sensor remoto puede instalarse fácilmente en una pared o, en combinación con el adaptador de tubería, en conductos de escape o tuberías.\n\nLa extensa gama de salidas, de 4 a 20 mA, HART®, LON, PROFIBUS® o FOUNDATION Fieldbus™, permite la conexión del Polytron 7000 con un sistema de control. El diseño modular permite la adaptación posterior en cualquiera de las interfaces mencionadas.\n\nEl Dräger Polytron 7000 puede equiparse con un módulo de relés, convirtiéndose de este modo en un sistema independiente de alerta para gases con dos alarmas de concentración y una alarma de fallo.\n\nEl Dräger Polytron 7000 puede detectar más de 100 gases diferentes. Los DrägerSensors están diseñados específicamente para funcionar las 24 horas del día, los 365 días del año. El gran tamaño de los DrägerSensors les confiere su reconocida larga vida … Más información",
+    "htmlSummary": "Características destacadas El detector de gases Dräger Polytron® 7000 proporciona diferentes opciones de medición de gases tóxicos y de oxígeno en una sola plataforma. Con su innovador concepto modular, el Dräger Polytron® 7000 ofrece la flexibilidad de configurar el transmisor para que se adapte de manera precisa a su aplicación. Manejo sencillo Dräger desarrolló el menú de software sencillo y estructurado para el Polytron 7000 en colaboración con sus clientes. La gran pantalla gráfica muestra la información de estado con la ayuda de iconos y texto sin formato, y guía al usuario a través del … Más información Sensor remoto El adaptador del sensor remoto puede instalarse fácilmente en una pared o, en combinación con el adaptador de tubería, en conductos de escape o tuberías. Interfaces de comunicación La extensa gama de salidas, de 4 a 20 mA, HART®, LON, PROFIBUS® o FOUNDATION Fieldbus™, permite la conexión del Polytron 7000 con un sistema de control. El diseño modular permite la adaptación posterior en cualquiera de las interfaces mencionadas. Módulo de relé El Dräger Polytron 7000 puede equiparse con un módulo de relés, convirtiéndose de este modo en un sistema independiente de alerta para gases con dos alarmas de concentración y una alarma de fallo. Sensores inteligentes El Dräger Polytron 7000 puede detectar más de 100 gases diferentes. Los DrägerSensors están diseñados específicamente para funcionar las 24 horas del día, los 365 días del año. El gran tamaño de los DrägerSensors les confiere su reconocida larga vida … Más información Opciones de Software A través de tres módulos de software diferentes, se incorporan al transmisor una serie de funciones para que se ajuste a los requisitos específicos del usuario o de la aplicación. Con el elemento de protección de prueba del sensor, el Dräger Polytron … Más información Módulo de bomba La inclusión de un módulo de bomba permite que el Polytron 7000 extraiga muestras de gas de zonas de difícil acceso, pasando después a través del DrägerSensor para su detección. La unidad de bomba, como todos los accesorios de la gama Polytron 7000, … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Electroquímico"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-2)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "16,5 a 30 V CC, 2 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 65°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "16.6x13.5x12.9 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "1.98 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Poliéster reforzado con fibra de vidrio (GFRP)"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Polytron® 7000 (PDF)",
+      "href": "/Content/Documents/Products/polytron-7000-pi-9041184-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Small Case / Best Practice: Gas Detection in Steel Production ArcelorMittal Eisenhüttenstadt",
+      "href": "/Content/Documents/Products/small-case-arcelor-mittal-ebk-265-2017-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 7000 9033003 es",
+      "href": "/Content/Documents/Products/polytron-7000-ifu-9033003-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Product information: Digital communication in stationary gas measuring technology (PDF)",
+      "href": "/Content/Documents/Products/digitalcommunication-gds-pi-9041506-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Battery cell manufacturing safety challenges brochure, es",
+      "href": "/Content/Documents/Products/Battery-cell-manufacturing-process-fl-DMC-104074-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger Polytron® 7000 (PDF)",
+      "href": "/Content/Documents/Products/polytron-7000-pi-9041184-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "La seguridad en primer plano: Detección de gases tóxicos y oxígeno con precisión",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron® 7000: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

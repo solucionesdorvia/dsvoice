@@ -1,0 +1,277 @@
+{
+  "slug": "x-plore-6300",
+  "url": "https://www.draeger.com/es_csa/Products/X-plore-6300",
+  "scrapedAt": "2026-05-21T04:32:56.868Z",
+  "overview": {
+    "text": "El cuerpo de la máscara está hecho de EPDM resistente y delicado con la piel, con junta facial de doble capa y bordes de sellado triples que proporcionan un cierre seguro y cómodo en cualquier tipo de cara.\n\nEl visor de plexiglás de PMMA antiarañazos y sin distorsiones, con ángulo de 180°, garantiza un campo de visión amplio con una excelente visión panorámica.\n\nEl sistema de ventilación eficiente con máscara interior independiente evita que la lente se empañe y garantiza una excelente visión.\n\nEl cómodo arnés para cabeza de 5 puntos no solo asegura que la máscara se pueda poner de forma rápida y sencilla, sino que es lo suficientemente ancho como para evitar cualquier punto de presión en la cabeza del usuario.\n\nTalla única que simplifica la logística y el almacenamiento. El código de barras del interior simplifica el registro y el mantenimiento del inventario de las máscaras.\n\nLa máscara facial completa Dräger X-plore 6300 está provista de una conexión Rd40 de conformidad con la norma EN 148-1 y se puede combinar con la extensa gama de filtros Dräger X-plore® Rd40.",
+    "htmlSummary": "Características destacadas La Dräger X-plore® 6300 es una máscara respiratoria de protección facial completa, eficaz y económica para los que buscan una máscara cómoda y de alta calidad. Esta máscara completa es la sucesora de la Panorama Nova Estándar, una máscara que ha sido usada durante décadas en todo el mundo, que se ha rediseñado y mejorado con colores nuevos y un código de barras integrado. Ajuste seguro y cómodo El cuerpo de la máscara está hecho de EPDM resistente y delicado con la piel, con junta facial de doble capa y bordes de sellado triples que proporcionan un cierre seguro y cómodo en cualquier tipo de cara. Campo de visión amplio El visor de plexiglás de PMMA antiarañazos y sin distorsiones, con ángulo de 180°, garantiza un campo de visión amplio con una excelente visión panorámica. Sistema de ventilación eficiente El sistema de ventilación eficiente con máscara interior independiente evita que la lente se empañe y garantiza una excelente visión. Arnés con 5 puntos de ajuste El cómodo arnés para cabeza de 5 puntos no solo asegura que la máscara se pueda poner de forma rápida y sencilla, sino que es lo suficientemente ancho como para evitar cualquier punto de presión en la cabeza del usuario. Mantenimiento y logística sencillos Talla única que simplifica la logística y el almacenamiento. El código de barras del interior simplifica el registro y el mantenimiento del inventario de las máscaras. Versatilidad La máscara facial completa Dräger X-plore 6300 está provista de una conexión Rd40 de conformidad con la norma EN 148-1 y se puede combinar con la extensa gama de filtros Dräger X-plore® Rd40."
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Máscara completa con una conexión"
+        },
+        {
+          "key": "Protección contra",
+          "value": "Partículas y/o gases y vapores - en función del sistema utilizado"
+        },
+        {
+          "key": "Material del cuerpo de la máscara",
+          "value": "EPDM"
+        },
+        {
+          "key": "Tallas",
+          "value": "Talla universal"
+        },
+        {
+          "key": "Sistema de comunicación",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Opciones de conexión",
+      "rows": [
+        {
+          "key": "Conexión de bayoneta específica para Dräger",
+          "value": ""
+        },
+        {
+          "key": "Conexión de rosca estándar RA Rd40 (conforme con EN 148-1)",
+          "value": ""
+        },
+        {
+          "key": "Conexión de rosca PE M45x3 (conforme con EN 148-3)",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida ESA (conforme con DIN 58600)",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida Dräger P",
+          "value": ""
+        },
+        {
+          "key": "Conexión rápida Dräger RP (circuito cerrado)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Combinable con",
+      "rows": [
+        {
+          "key": "Filtros de bayoneta",
+          "value": ""
+        },
+        {
+          "key": "Filtros RD40",
+          "value": ""
+        },
+        {
+          "key": "PAPR",
+          "value": ""
+        },
+        {
+          "key": "Unidad de evacuación",
+          "value": ""
+        },
+        {
+          "key": "Unidad de suministro de aire",
+          "value": ""
+        },
+        {
+          "key": "SCBA",
+          "value": ""
+        },
+        {
+          "key": "CCBA",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Material del visor",
+      "rows": [
+        {
+          "key": "Plexiglás",
+          "value": ""
+        },
+        {
+          "key": "PC (a prueba de impactos)",
+          "value": ""
+        },
+        {
+          "key": "Tríplex (a prueba de arañazos y resistente a los productos químicos)",
+          "value": ""
+        },
+        {
+          "key": "PCas (a prueba de impactos y arañazos, mayor resistencia a los productos químicos)",
+          "value": ""
+        },
+        {
+          "key": "APEC (a prueba de impactos, mayor termorresistencia)",
+          "value": ""
+        },
+        {
+          "key": "APECas (a prueba de impactos y arañazos, mayor resistencia a los productos químicos)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Arnés para la cabeza",
+      "rows": [
+        {
+          "key": "Arnés de caucho con 5 puntos de fijación",
+          "value": ""
+        },
+        {
+          "key": "Conexión de 2 puntos de fijación para cascos Dräger HPS 7000",
+          "value": ""
+        },
+        {
+          "key": "Red textil",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 136 clase 2",
+          "value": ""
+        },
+        {
+          "key": "EN 136 clase 3",
+          "value": ""
+        },
+        {
+          "key": "EN 137 tipo 2",
+          "value": ""
+        },
+        {
+          "key": "DIN 58610",
+          "value": ""
+        },
+        {
+          "key": "VFDB 0802 (RA, PE, ESA)",
+          "value": ""
+        },
+        {
+          "key": "AS/NZS 1716:2012",
+          "value": ""
+        },
+        {
+          "key": "NIOSH",
+          "value": ""
+        },
+        {
+          "key": "NFPA",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger X-plore® 6300 (PDF)",
+      "href": "/Content/Documents/Products/x-plore-6300-pi-9072791-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Guía de selección y uso de dispositivos de filtración",
+      "href": "/Content/Documents/Products/selection-apr-br-digital-only-dmc-105706-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Protección respiratoria ligera de Dräger",
+      "href": "/Content/Documents/Products/apr-br-dmc-100403-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Combination Filters - 9300030 de-me",
+      "href": "/Content/Documents/Products/filters-ifu-9300030-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Filterbox 40/100 9021707 de-me",
+      "href": "/Content/Documents/Products/filter-ifu-9021707-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Machine-based reprocessing of full face masks - 9031089 de-me",
+      "href": "/Content/Documents/Products/machine-ifu-9031089-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-plore 5500 / 6000 -Technical manual - 9300783 de-me",
+      "href": "/Content/Documents/Products/xplore-ifu-9300783-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-plore 6000 9021664 ME",
+      "href": "/Content/Documents/Products/x-plore-6000-ifu-9021664-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Guía de selección y uso de dispositivos de filtración",
+      "href": "/Content/Documents/Products/selection-apr-br-digital-only-dmc-105706-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Protección respiratoria ligera de Dräger",
+      "href": "/Content/Documents/Products/apr-br-dmc-100403-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Pruebas de ajuste para la protección respiratoria",
+      "href": "/Content/Documents/Products/apr-fit-testing-br-digital-dmc-103214-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Production Site for respiratory protective masks",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Información de producto: Dräger X-plore® 6300 (PDF)",
+      "href": "/Content/Documents/Products/x-plore-6300-pi-9072791-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-plore 6000 Donning Poster, en",
+      "href": "/Content/Documents/Products/x-plore-6000-donning-po-9046239-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección integral y visión clara para los entornos más exigentes.",
+      "Características destacadas",
+      "Vista de 360° del producto",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de conexión",
+      "Combinable con",
+      "Material del visor",
+      "Arnés para la cabeza",
+      "Homologaciones",
+      "Dräger X-plore® 6300: Sustancias peligrosas y filtros respiratorios correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "cps-5800",
+  "url": "https://www.draeger.com/es_csa/Products/CPS-5800",
+  "scrapedAt": "2026-05-21T04:27:14.615Z",
+  "overview": null,
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Traje estanco a gases prueba de gases"
+        },
+        {
+          "key": "Clase de reutilización",
+          "value": "Uso limitado"
+        },
+        {
+          "key": "Clase del tipo de traje",
+          "value": "1"
+        },
+        {
+          "key": "Clase de rendimiento",
+          "value": "++"
+        },
+        {
+          "key": "Vida útil (años)",
+          "value": "10"
+        },
+        {
+          "key": "Material",
+          "value": "Zytron® 500"
+        },
+        {
+          "key": "Colores disponibles",
+          "value": "Naranja"
+        }
+      ]
+    },
+    {
+      "group": "Opciones de protección respiratoria",
+      "rows": [
+        {
+          "key": "Flujo constante",
+          "value": ""
+        },
+        {
+          "key": "SCBA por dentro",
+          "value": ""
+        },
+        {
+          "key": "SCBA por fuera",
+          "value": ""
+        },
+        {
+          "key": "Respirador purificador de aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia",
+      "rows": [
+        {
+          "key": "Resistencia mecánica",
+          "value": ""
+        },
+        {
+          "key": "Resistencia química",
+          "value": "++"
+        },
+        {
+          "key": "Resistencia a la temperatura",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia frente a",
+      "rows": [
+        {
+          "key": "Partículas",
+          "value": ""
+        },
+        {
+          "key": "Líquidos",
+          "value": ""
+        },
+        {
+          "key": "Gases conocidos",
+          "value": ""
+        },
+        {
+          "key": "Gases desconocidos",
+          "value": ""
+        },
+        {
+          "key": "Tensión mecánica",
+          "value": ""
+        },
+        {
+          "key": "Sustancias muy frías",
+          "value": ""
+        },
+        {
+          "key": "Zonas con riesgo de explosión",
+          "value": ""
+        },
+        {
+          "key": "Incendios con deflagraciones",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 943",
+          "value": ""
+        },
+        {
+          "key": "EN 14605",
+          "value": ""
+        },
+        {
+          "key": "EN ISO 13982-1",
+          "value": ""
+        },
+        {
+          "key": "EN 13034",
+          "value": ""
+        },
+        {
+          "key": "EN 1073-1 / EN 1073-2",
+          "value": ""
+        },
+        {
+          "key": "EN 14126",
+          "value": ""
+        },
+        {
+          "key": "EN 1149",
+          "value": ""
+        },
+        {
+          "key": "EN 14593",
+          "value": ""
+        },
+        {
+          "key": "EN 14594",
+          "value": ""
+        },
+        {
+          "key": "SOLAS",
+          "value": ""
+        },
+        {
+          "key": "ISO 16602",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger CPS 5800",
+      "href": "/Content/Documents/Products/cps-5800-pi-9072802-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU CPS 5800 9021839 ME",
+      "href": "/Content/Documents/Products/cps-5800-ifu-9021839-deen-us.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Agents and Applications for Cleaning and Drying - 9100081 en-me",
+      "href": "/Content/Documents/Products/cleaning-ifusp-9100081-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Health Effects of Hazardous Substances Brochure, en",
+      "href": "/Content/Documents/Products/health-effects-of-gazardous-substances-br-3773-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Safety You Can Count On Dräger Chemical Protective Suits (PDF)",
+      "href": "/Content/Documents/Products/cps-family-br-9046873-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Chemical Protection Suits portfolio brochure, es",
+      "href": "/Content/Documents/Products/cps-family-br-dmc-107726-es-es-2311-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Production Site for chemical protective suits",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger CPS 5800",
+      "href": "/Content/Documents/Products/cps-5800-pi-9072802-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección fiable para lograr la máxima seguridad en entornos peligrosos.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de protección respiratoria",
+      "Resistencia",
+      "Resistencia frente a",
+      "Homologaciones",
+      "Dräger CPS 5800: Sustancias peligrosas y trajes de protección de materiales peligrosos correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

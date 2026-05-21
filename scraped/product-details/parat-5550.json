@@ -1,0 +1,205 @@
+{
+  "slug": "parat-5550",
+  "url": "https://www.draeger.com/es_csa/Products/PARAT-5550",
+  "scrapedAt": "2026-05-21T04:29:05.186Z",
+  "overview": null,
+  "specifications": [
+    {
+      "group": "Tipo de producto",
+      "rows": [
+        {
+          "key": "Capucha de evacuación filtrante",
+          "value": ""
+        },
+        {
+          "key": "Dispositivo de evacuación filtrante",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de filtro",
+          "value": "CO P2"
+        },
+        {
+          "key": "Tiempo de evacuación",
+          "value": "mín. 15 minutos"
+        },
+        {
+          "key": "Vida útil",
+          "value": "16 años (se requiere cambio de filtro al cabo de 8 años, solo a través del servicio técnico de Dräger)"
+        },
+        {
+          "key": "Opciones de embalaje",
+          "value": "funda ignífuga"
+        },
+        {
+          "key": "Peso",
+          "value": "1.56 lb"
+        }
+      ]
+    },
+    {
+      "group": "Protección contra",
+      "rows": [
+        {
+          "key": "Gases industriales",
+          "value": ""
+        },
+        {
+          "key": "Gases originados por el fuego",
+          "value": ""
+        },
+        {
+          "key": "Vapores",
+          "value": ""
+        },
+        {
+          "key": "Partículas",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Protección ocular",
+          "value": ""
+        },
+        {
+          "key": "Fecha de caducidad del filtro",
+          "value": ""
+        },
+        {
+          "key": "Unidad de entrenamiento disponible",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Opciones de transporte",
+      "rows": [
+        {
+          "key": "Montaje en pared",
+          "value": ""
+        },
+        {
+          "key": "Correa para la cadera",
+          "value": ""
+        },
+        {
+          "key": "Correa de hombro",
+          "value": ""
+        },
+        {
+          "key": "Pinza para cinturón",
+          "value": ""
+        },
+        {
+          "key": "Pinza de agarre",
+          "value": ""
+        },
+        {
+          "key": "Anillo en D",
+          "value": ""
+        },
+        {
+          "key": "Funda de transporte",
+          "value": ""
+        },
+        {
+          "key": "Mosquetón antideslizante",
+          "value": ""
+        },
+        {
+          "key": "Correa de mano",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 403:2004",
+          "value": ""
+        },
+        {
+          "key": "DIN 58647-7",
+          "value": "pruebas de uso frente a H2S (a 2500 ppm)"
+        },
+        {
+          "key": "EN 14387:2004 (solo filtro)",
+          "value": ""
+        },
+        {
+          "key": "EN 137:2006 Tipo 2",
+          "value": ""
+        },
+        {
+          "key": "NIOSH 42 CFR Parte 84",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "PARAT 5550 Product Information, es",
+      "href": "/Content/Documents/Products/parat-5550-pi-9100811-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PARAT 4000/5000/7000 series - 9300787 de-me",
+      "href": "/Content/Documents/Products/parat-ifu-9300787-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PARAT 4000/5000/7000 series - Training Hood - 9300800 de-me",
+      "href": "/Content/Documents/Products/parat-ifu-9300800-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Donning Poster: Third-party and self-rescue using the PARAT® 5550 (PDF)",
+      "href": "/Content/Documents/Products/parat-5550-po-9072696-en-gb.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PARAT 5550 Sales Presentation, es",
+      "href": "/Content/Documents/Products/PARAT%205550_SP_ES.pptx",
+      "type": null
+    },
+    {
+      "label": "PARAT 5550 Product Information, es",
+      "href": "/Content/Documents/Products/parat-5550-pi-9100811-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección rápida y eficaz cuando cada segundo cuenta.",
+      "Características destacadas",
+      "Especificaciones",
+      "Tipo de producto",
+      "Datos generales",
+      "Protección contra",
+      "Características",
+      "Opciones de transporte",
+      "Homologaciones",
+      "Dräger PARAT® 5550: Sustancias peligrosas y selección adecuada de capuchas de escape y respiratorias",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

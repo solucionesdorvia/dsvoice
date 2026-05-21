@@ -1,0 +1,193 @@
+{
+  "slug": "x-plore-4700",
+  "url": "https://www.draeger.com/es_csa/Products/X-plore-4700",
+  "scrapedAt": "2026-05-21T04:32:46.983Z",
+  "overview": null,
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Semimáscara de un solo filtro"
+        },
+        {
+          "key": "Aplicación",
+          "value": "Para polvo y/o gases y vapores"
+        },
+        {
+          "key": "Protección contra",
+          "value": "Partículas y/o gases y vapores - en función del filtro respiratorio utilizado"
+        },
+        {
+          "key": "Reutilizable (solo la máscara)",
+          "value": ""
+        },
+        {
+          "key": "Conexión del filtro",
+          "value": "Rosca redonda estándar Rd40"
+        },
+        {
+          "key": "Posición del filtro",
+          "value": "Frontal"
+        },
+        {
+          "key": "Tallas",
+          "value": "TPE: talla universal; Silicona: S/M y M/L"
+        },
+        {
+          "key": "Peso (solo la máscara, aprox.)",
+          "value": "6.35 oz"
+        }
+      ]
+    },
+    {
+      "group": "Combinable con",
+      "rows": [
+        {
+          "key": "Filtros RD40",
+          "value": ""
+        },
+        {
+          "key": "Filtros de bayoneta",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Materiales",
+      "rows": [
+        {
+          "key": "Cuerpo de la máscara",
+          "value": "Silicona (especial para piel sensible) o EPDM"
+        },
+        {
+          "key": "Arnés para la cabeza",
+          "value": "FlexiFit (blando y ergonómico)"
+        },
+        {
+          "key": "Cintas para la cabeza",
+          "value": "Cinta de caucho (para facilitar la descontaminación)"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Opción desplegable",
+          "value": ""
+        },
+        {
+          "key": "Accesorio para almacenamiento",
+          "value": "Maleta de transporte opcional"
+        },
+        {
+          "key": "Equipos preconfigurados",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "Certificación CE",
+          "value": "(EN 140)"
+        },
+        {
+          "key": "AS/NZS 1716:2012",
+          "value": ""
+        },
+        {
+          "key": "NIOSH",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "X-plore 4700 Product Information, es",
+      "href": "/Content/Documents/Products/x-plore-4700-pi-9072789-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Guía de selección y uso de dispositivos de filtración",
+      "href": "/Content/Documents/Products/selection-apr-br-digital-only-dmc-105706-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Protección respiratoria ligera de Dräger",
+      "href": "/Content/Documents/Products/apr-br-dmc-100403-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Bitrex Qualitative Fit Test Kit - 9300892 de-me",
+      "href": "/Content/Documents/Products/bitrex-ifu-9300892-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Explanation of symbols of Personal Protective Equipment (PPE) - 9300643 en-us-me",
+      "href": "/Content/Documents/Products/xplore-ifusp-9300643-en-us-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-plore 3000/4700 - Fit test procedures - 9300875 de-me",
+      "href": "/Content/Documents/Products/xplore-ifusp-9300875-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-plore 4000 - 9031008 de-me",
+      "href": "/Content/Documents/Products/xplore-ifu-9031008-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Guía de selección y uso de dispositivos de filtración",
+      "href": "/Content/Documents/Products/selection-apr-br-digital-only-dmc-105706-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Protección respiratoria ligera de Dräger",
+      "href": "/Content/Documents/Products/apr-br-dmc-100403-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Pruebas de ajuste para la protección respiratoria",
+      "href": "/Content/Documents/Products/apr-fit-testing-br-digital-dmc-103214-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Donning Poster: Dräger X-plore® 4700 (PDF)",
+      "href": "/Content/Documents/Products/x-plore_4700_fl_9046237_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-plore 4700 Product Information, es",
+      "href": "/Content/Documents/Products/x-plore-4700-pi-9072789-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Combinación de protección robusta y comodidad superior en un diseño ligero.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Combinable con",
+      "Materiales",
+      "Características",
+      "Homologaciones",
+      "Dräger X-plore® 4700: Sustancias peligrosas y filtros respiratorios correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

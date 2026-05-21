@@ -1,0 +1,330 @@
+{
+  "slug": "x-am-5000",
+  "url": "https://www.draeger.com/es_csa/Products/X-am-5000",
+  "scrapedAt": "2026-05-21T04:31:57.582Z",
+  "overview": {
+    "text": "El Dräger X-am® 5000 pertenece a una generación de detectores de gases especialmente desarrollados para las aplicaciones de monitorización personal. Este detector de 1 a 5 gases mide gases y vapores combustibles con gran fiabilidad, así como oxígeno y concentraciones peligrosas de gases tóxicos, vapores orgánicos, mercaptanos y aminas.\n\nA pesar de su avanzada funcionalidad, el diseño práctico y ligero del Dräger X-am 5000, similar al de un teléfono móvil, lo convierten en un equipo muy cómodo de transportar. Con una estructura muy sencilla, el panel de control de dos botones y el me … Más información\n\nLos sensores son fáciles de intercambiar, actualizar o calibrar para otros gases. La posibilidad de personalizar los sensores en el Dräger X-am 5000 amplía la variedad de aplicaciones, incluido su uso como equipo de alquiler.\n\nPara mejorar la seguridad ante un posible riesgo de explosión, el Dräger X-am 5000 puede enviar avisos fiables cuando detecta una atmósfera potencialmente explosiva, gracias al innovador sensor Ex catalítico con un elevado nivel de sensibilidad. No s … Más información\n\nEquipado con una tecnología de sensor duradera XXS, el Dräger X-am 5000 ofrece la máxima seguridad con un coste operativo extremadamente bajo. La resistencia del sensor, combinada con su estabilidad a largo plazo, prolonga su vida útil en más de cuat … Más información\n\nEl Dräger X-am 5000 es resistente al agua y al polvo según la clase de protección IP 67. Esto implica que el detector conserva todas sus prestaciones incluso después de caer al agua. La protección integrada de goma y los sensores a prueba de impactos … Más información",
+    "htmlSummary": "Características destacadas El Dräger X-am® 5000 pertenece a una generación de detectores de gases especialmente desarrollados para las aplicaciones de monitorización personal. Este detector de 1 a 5 gases mide gases y vapores combustibles con gran fiabilidad, así como oxígeno y concentraciones peligrosas de gases tóxicos, vapores orgánicos, mercaptanos y aminas. Diseño ergonómico A pesar de su avanzada funcionalidad, el diseño práctico y ligero del Dräger X-am 5000, similar al de un teléfono móvil, lo convierten en un equipo muy cómodo de transportar. Con una estructura muy sencilla, el panel de control de dos botones y el me … Más información Intercambio flexible de sensores Los sensores son fáciles de intercambiar, actualizar o calibrar para otros gases. La posibilidad de personalizar los sensores en el Dräger X-am 5000 amplía la variedad de aplicaciones, incluido su uso como equipo de alquiler. Sensor Ex resistente a venenos Para mejorar la seguridad ante un posible riesgo de explosión, el Dräger X-am 5000 puede enviar avisos fiables cuando detecta una atmósfera potencialmente explosiva, gracias al innovador sensor Ex catalítico con un elevado nivel de sensibilidad. No s … Más información Tecnología del sensor duradera Equipado con una tecnología de sensor duradera XXS, el Dräger X-am 5000 ofrece la máxima seguridad con un coste operativo extremadamente bajo. La resistencia del sensor, combinada con su estabilidad a largo plazo, prolonga su vida útil en más de cuat … Más información Robusto y estanco al agua El Dräger X-am 5000 es resistente al agua y al polvo según la clase de protección IP 67. Esto implica que el detector conserva todas sus prestaciones incluso después de caer al agua. La protección integrada de goma y los sensores a prueba de impactos … Más información Bomba externa La bomba externa opcional, que se puede acoplar a sondas de hasta 45 m de longitud, facilita el uso del detector para realizar mediciones previas a la entrada en espacios confinados, como tanques, pozos, etc. La bomba se pone en marcha automáticament … Más información Monitorización de área En combinación con el Dräger X-zone® 5500, el detector de gases puede utilizarse en varias aplicaciones de monitorización de área. Es posible interconectar de forma automática hasta 25 unidades de Dräger X-zone 5500 para formar un perímetro de seguri … Más información Soluciones óptimas para pruebas de funcionamiento o de verificación y calibración Fácil, rápido y profesional: los usuarios pueden elegir entre una extensa variedad de soluciones prácticas y sobre el terreno, desde pruebas de verificación y de funcionamiento hasta documentación completa, que ofrecen la máxima seguridad para cada a … Más información Alimentación eléctrica flexible El Dräger X-am 5000 puede funcionar con pilas alcalinas. También puede instalarse una batería recargable NiMh T4 que se puede recargar mientras se encuentra en el interior del instrumento. El modo de ahorro de energía opcional permite aumentar el tie … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Gases medibles",
+          "value": "Ex, O2, CO, H2S, NO2, SO2, + ( > 40 sensores a elegir)"
+        },
+        {
+          "key": "Puertos de sensores",
+          "value": "4"
+        },
+        {
+          "key": "Número de gases",
+          "value": "1 - 5"
+        },
+        {
+          "key": "Tecnología de sensores",
+          "value": "CAT + EC"
+        }
+      ]
+    },
+    {
+      "group": "Aplicaciones",
+      "rows": [
+        {
+          "key": "Monitorización personal del aire",
+          "value": ""
+        },
+        {
+          "key": "Entrada en espacios confinados",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Tiempo de funcionamiento",
+          "value": ">12h"
+        },
+        {
+          "key": "Dimensiones (anchura x altura x fondo)",
+          "value": "4.8x13x4.4 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "7.76 oz"
+        },
+        {
+          "key": "Tipo de batería",
+          "value": "NiMh"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP 67"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Sensores duales",
+          "value": ""
+        },
+        {
+          "key": "CatEx Rango total (cambio automático entre LIE y %Vol. CH4)",
+          "value": ""
+        },
+        {
+          "key": "D-Luz",
+          "value": ""
+        },
+        {
+          "key": "Bomba interna",
+          "value": ""
+        },
+        {
+          "key": "Bomba X-am Pump",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área X-zone 5500",
+          "value": ""
+        },
+        {
+          "key": "Estación de prueba de gas",
+          "value": ""
+        },
+        {
+          "key": "Estación X-dock",
+          "value": ""
+        },
+        {
+          "key": "Bluetooth",
+          "value": ""
+        },
+        {
+          "key": "Alarma Bodyguard (alarmas antipánico, detección de ausencia de movimiento)",
+          "value": ""
+        },
+        {
+          "key": "Configuración inteligente en Dräger Gas Detection Connect",
+          "value": ""
+        },
+        {
+          "key": "Soporte de Dräger ConHub (Pasarela)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": "I M1 Ex da ia I Ma, II 1G Ex da ia IIC T4/T3 Ga"
+        },
+        {
+          "key": "IECEx",
+          "value": "Ex da ia I Ma, Ex da ia IIC T4/T3 Ga"
+        },
+        {
+          "key": "c CSA us",
+          "value": "Clase I Div. 1 Grupo A, B, C, D, E, F, T4/T3 | A/Ex da ia IIC T4/T3 /Ga"
+        },
+        {
+          "key": "CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": "PO Ex da ia I Ma X 0Ex da ia IIC T4/T3 Ga X"
+        },
+        {
+          "key": "Certificación de rendimiento de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación para Marina (MED/DNV GL)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 5000 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5000-pi-9072768-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 5000 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5000-pi-9072768-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Small Case / Best Practice: Gas Detection in Steel Production ArcelorMittal Eisenhüttenstadt",
+      "href": "/Content/Documents/Products/small-case-arcelor-mittal-ebk-265-2017-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Bump Test Station - Short instruction - 9033465 bg-me",
+      "href": "/Content/Documents/Products/bump-ifu-9033465-bg-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Rubberball Pump 9023955 de-me",
+      "href": "/Content/Documents/Products/rubber-ifu-9023955-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2500/2600/2800/3500/5000/5100/5600/5800/8000 - Limited Manufacturer Guarantee - 9033743 af-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9033743-af-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2500/5000/5600 - Notes on approval / Sensor data - 9033890 en",
+      "href": "/Content/Documents/Products/notes-ifusp-9033890-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Technical Manual X-am 5000 - 9023999 es",
+      "href": "/Content/Documents/Products/technical-manual-x-am-5000-9023999-ifu-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 5000 (MQG 0010) SW 7.n - 9023896 de-me",
+      "href": "/Content/Documents/Products/xam-ifu-9023896-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am Pump - 9033744 de-me",
+      "href": "/Content/Documents/Products/xam-ifu-9033744-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Quick Guide X-am 2500/5000/5600",
+      "href": "/Content/Documents/Products/9033281_03_GAW_sheet000_of_000.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Guía Dräger para la Detección de Gas Portátil (PDF)",
+      "href": "/Content/Documents/Products/9046736-guide-to-portable-gas-detection-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Dräger sampling hoses for portable gas detectors",
+      "href": "/Content/Documents/Products/sampling-hoses-br-9107247-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portfolio Highlight Brochure Oil and Gas, es",
+      "href": "/Content/Documents/Products/portfolio-highlights-upstream-br-9072011-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SalesPresentation, X-am 5000, ES",
+      "href": "/Content/Documents/Products/x-am-5000-sp-es.pptx",
+      "type": null
+    },
+    {
+      "label": "X-am 5000 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5000-pi-9072768-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 5000 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5000-pi-9072768-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Driver for DIRA and MILO Interface",
+      "href": "/Content/Documents/Products/Driver-DIRA-MILO-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision Software History, en",
+      "href": "/Content/Documents/Products/GasVision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger X-am 5000/X-am 5600 – Alarmas (3/5)",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Dräger X-am 5000/X-am 5600 – Control de funcionamiento y mantenimiento (5/5)",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Dräger X-am 5000/X-am 5600 – Funcionamiento (2/5)",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Dräger X-am 5000/X-am 5600 – Funcionamiento de la bomba (4/5)",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Dräger X-am 5000/X-am 5600 – Resumen (1/5)",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Vista de 360° del producto",
+      "Especificaciones",
+      "Datos generales",
+      "Aplicaciones",
+      "Características técnicas",
+      "Características",
+      "Homologaciones",
+      "Dräger X-am® 5000: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

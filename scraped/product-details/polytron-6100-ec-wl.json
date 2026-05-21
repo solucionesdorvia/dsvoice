@@ -1,0 +1,220 @@
+{
+  "slug": "polytron-6100-ec-wl",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-6100-EC-WL",
+  "scrapedAt": "2026-05-21T04:30:20.517Z",
+  "overview": {
+    "text": "El Dräger Polytron 6100 EC WL es un transmisor inalámbrico para la monitorización continua de gases tóxicos y oxígeno. Con seguridad intrínseca y SIL-2 ofrece transmisión de señal y suministro eléctrico totalmente inalámbricos. La batería interna permite funcionar continuamente un máximo de 24 meses, que hace el Polytron sea una solución rentable y flexible para ampliaciones de planta, actualizaciones y nuevas instalaciones.\n\n¿El cableado del transmisor supone un esfuerzo económico, técnico o de tiempo demasiado alto? Tenemos la respuesta: el Dräger Polytron 6100 EC WL es el complemento ideal para su sistema fijo de detección de gases. Las exigentes labores de medición en … Más información\n\nEn función de sus necesidades, puede elegir entre dos estándares de radiocomunicación. El estándar de radiocomunicación industrial ISA100 WirelessTM garantiza la transmisión segura de los valores medidos. Junto con el protocolo PROFIsafe, garantiza l … Más información\n\nEl Polytron 6100 EC WL utiliza los sensores Dräger de última tecnología optimizados para aplicaciones industriales. Cubren un espectro de 140 gases de muestra diferentes en un rango de temperaturas de entre -40 °C y +65 °C.\n\nLa solución de software PolySoft le permite acceder cómodamente al Polytron 6100 EC WL a través de la interfaz Bluetooth®, utilizando una tablet con protección frente a explosiones, un portátil o un ordenador de sobremesa en el taller. Los datos del … Más información\n\nEl diseño intrínsecamente seguro del detector de gases inalámbrico permite que todas las labores de mantenimiento, como la sustitución de la batería o del sensor, puedan realizarse en zona peligrosa. No es necesario tomar ninguna medida adicional par … Más información",
+    "htmlSummary": "Características destacadas El Dräger Polytron 6100 EC WL es un transmisor inalámbrico para la monitorización continua de gases tóxicos y oxígeno. Con seguridad intrínseca y SIL-2 ofrece transmisión de señal y suministro eléctrico totalmente inalámbricos. La batería interna permite funcionar continuamente un máximo de 24 meses, que hace el Polytron sea una solución rentable y flexible para ampliaciones de planta, actualizaciones y nuevas instalaciones. La tecnología inalámbrica reduce el esfuerzo ¿El cableado del transmisor supone un esfuerzo económico, técnico o de tiempo demasiado alto? Tenemos la respuesta: el Dräger Polytron 6100 EC WL es el complemento ideal para su sistema fijo de detección de gases. Las exigentes labores de medición en … Más información Elija su estándar de radiocomunicación: ISA100 WirelessTM o WirelessHART® En función de sus necesidades, puede elegir entre dos estándares de radiocomunicación. El estándar de radiocomunicación industrial ISA100 WirelessTM garantiza la transmisión segura de los valores medidos. Junto con el protocolo PROFIsafe, garantiza l … Más información No interfiere con la probada tecnología de sensores Dräger El Polytron 6100 EC WL utiliza los sensores Dräger de última tecnología optimizados para aplicaciones industriales. Cubren un espectro de 140 gases de muestra diferentes en un rango de temperaturas de entre -40 °C y +65 °C. Acceso al transmisor a través de Bluetooth® La solución de software PolySoft le permite acceder cómodamente al Polytron 6100 EC WL a través de la interfaz Bluetooth®, utilizando una tablet con protección frente a explosiones, un portátil o un ordenador de sobremesa en el taller. Los datos del … Más información Mantenimiento sencillo El diseño intrínsecamente seguro del detector de gases inalámbrico permite que todas las labores de mantenimiento, como la sustitución de la batería o del sensor, puedan realizarse en zona peligrosa. No es necesario tomar ninguna medida adicional par … Más información Posibilidad de alimentación externa El Polytron 6100 EC WL también le permite cubrir sin batería las aplicaciones donde es necesaria una intervención prolongada. Para ello, el transmisor inalámbrico se alimenta a 24 voltios, directamente en la zona segura y a través de un aislante de a … Más información Transmisión de señales incluso a larga distancia Con el Polytron 6100 EC WL, puede alcanzar distancias de transmisión de hasta 500 metros. La función adicional de repetidor del transmisor permite reenviar la señal de radio. Esto hace posible salvar distancias aún mayores con transmisores inalámbric … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor inalámbrico"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Electroquímico"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M25 x 1.5"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-1-3) - opcional"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": "InalámbricoHART - opcional"
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "Batería de cloruro de litio-tionilo"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 65°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "32x15x17 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "7.05 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Acero inoxidable"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": "opcional"
+        },
+        {
+          "key": "CSA",
+          "value": "opcional"
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "IFU Polytron 6100 EC WL - Polytron Repeater ISA 100 - Safety instructions - 9301077 de-me",
+      "href": "/Content/Documents/Products/polytron-ifu-9301077-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 6100 EC WL - Polytron Repeater Wireless HART - Safety instructions - 9301079 de-me",
+      "href": "/Content/Documents/Products/polytron-ifu-9301079-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 6100 EC WL - Repeater ISA 9300055 de, en-us me",
+      "href": "/Content/Documents/Products/polytron-6100-ec-wl-repeater-isa-ifu-9300055-deen-us.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 6100 EC WL - Repeater WirelessHART - 9300530 de-me",
+      "href": "/Content/Documents/Products/polytron-ifu-9300530-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 6100 EC WL - Repeater ISA100/Wireless HART - 9301075 de-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-9301075-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "Gas Detection Assist links for app stores",
+      "href": "/Content/Documents/Products/gda_links_QRcodes_appstores.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Detection Assist Release History",
+      "href": "/Content/Documents/Products/gda_Release_History.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Limited Manufacturer Guarantee_Garantiekarte Polytron 6100 9300719 (ed 01), en, de",
+      "href": "/Content/Documents/Products/Garantiekarte-P6100-9300719-de-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Serie inalámbrica de Dräger: Extreme la seguridad y la flexibilidad",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron® 6100 EC WL: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

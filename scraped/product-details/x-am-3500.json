@@ -1,0 +1,294 @@
+{
+  "slug": "x-am-3500",
+  "url": "https://www.draeger.com/es_csa/Products/X-am-3500",
+  "scrapedAt": "2026-05-21T04:31:53.183Z",
+  "overview": {
+    "text": "​El detector Dräger X-am® 3500 se ha diseñado especialmente para realizar mediciones de supervisión y control de gases. El detector de 1 a 4 gases detecta con fiabilidad gases y vapores inflamables y O2, CO, H2S, NO2 y SO2. El innovador diseño de señalización y la amplia gama de accesorios garantizan una óptima seguridad y un fácil manejo.\n\n​El Dräger X-am 3500 está equipado con una potente bomba. Puede conectarse con sondas de hasta 45 metros de longitud. El adaptador de la bomba facilita el cambio entre los modos de bomba y de difusión en cualquier momento. Esto significa que la bomba … Más información\n\n​El sistema de señalización del Dräger X-am 3500 se basa en un práctico código de colores que cumple los requisitos de las directivas EN 60079-29-1, EN 45544-1 y EN 50104:\n\nLas pruebas de funcionamiento y de calibración se llevan a cabo de manera fácil y rápida con la estación de calibración Dräger X-dock®. Su bajo consumo de gas de prueba mantiene los costes de funcionamiento a un nivel mínimo.\n\nSu función de notificació … Más información\n\n​El X-am 3500 se carga por inducción. Esto facilita el funcionamiento y prolonga la vida útil del dispositivo. Los problemas como la corrosión y los fallos de contacto con la base de carga dejan de ser un problema. Puede cargar (lejos de las zonas co … Más información",
+    "htmlSummary": "Características destacadas ​El detector Dräger X-am® 3500 se ha diseñado especialmente para realizar mediciones de supervisión y control de gases. El detector de 1 a 4 gases detecta con fiabilidad gases y vapores inflamables y O2, CO, H2S, NO2 y SO2. El innovador diseño de señalización y la amplia gama de accesorios garantizan una óptima seguridad y un fácil manejo. Especialmente diseñado para usar con bomba, está optimizado para la medición de supervisión y control de gases ​El Dräger X-am 3500 está equipado con una potente bomba. Puede conectarse con sondas de hasta 45 metros de longitud. El adaptador de la bomba facilita el cambio entre los modos de bomba y de difusión en cualquier momento. Esto significa que la bomba … Más información Diseño claro de señalización ​El sistema de señalización del Dräger X-am 3500 se basa en un práctico código de colores que cumple los requisitos de las directivas EN 60079-29-1, EN 45544-1 y EN 50104: Luz roja= alarma de gas Luz amarilla= alarma relacionada con el dispositivo, por … Más información Eficiente gestión de la flota Las pruebas de funcionamiento y de calibración se llevan a cabo de manera fácil y rápida con la estación de calibración Dräger X-dock®. Su bajo consumo de gas de prueba mantiene los costes de funcionamiento a un nivel mínimo. Su función de notificació … Más información La carga por inducción protege frente al desgaste ​El X-am 3500 se carga por inducción. Esto facilita el funcionamiento y prolonga la vida útil del dispositivo. Los problemas como la corrosión y los fallos de contacto con la base de carga dejan de ser un problema. Puede cargar (lejos de las zonas co … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Gases medibles",
+          "value": "Ex, O2, CO, H2S o NO2 o SO2"
+        },
+        {
+          "key": "Puertos de sensores",
+          "value": "4"
+        },
+        {
+          "key": "Número de gases",
+          "value": "1 - 4"
+        },
+        {
+          "key": "Tecnología de sensores",
+          "value": "CAT + EC"
+        }
+      ]
+    },
+    {
+      "group": "Aplicaciones",
+      "rows": [
+        {
+          "key": "Monitorización personal del aire",
+          "value": ""
+        },
+        {
+          "key": "Entrada en espacios confinados",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Tiempo de funcionamiento",
+          "value": ">24h"
+        },
+        {
+          "key": "Dimensiones (anchura x altura x fondo)",
+          "value": "7.7x17.9x4.2 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "1.21 lb"
+        },
+        {
+          "key": "Tipo de batería",
+          "value": "Li-Ion"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP 68"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Sensores duales",
+          "value": ""
+        },
+        {
+          "key": "CatEx Rango total (cambio automático entre LIE y %Vol. CH4)",
+          "value": ""
+        },
+        {
+          "key": "D-Luz",
+          "value": ""
+        },
+        {
+          "key": "Bomba interna",
+          "value": ""
+        },
+        {
+          "key": "Bomba X-am Pump",
+          "value": ""
+        },
+        {
+          "key": "Monitorización de área X-zone 5500",
+          "value": ""
+        },
+        {
+          "key": "Estación de prueba de gas",
+          "value": ""
+        },
+        {
+          "key": "Estación X-dock",
+          "value": ""
+        },
+        {
+          "key": "Bluetooth",
+          "value": ""
+        },
+        {
+          "key": "Alarma Bodyguard (alarmas antipánico, detección de ausencia de movimiento)",
+          "value": ""
+        },
+        {
+          "key": "Configuración inteligente en Dräger Gas Detection Connect",
+          "value": ""
+        },
+        {
+          "key": "Soporte de Dräger ConHub (Pasarela)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": "I M1, II 1G, Ex da ia I Ma, Ex da ia IIC T4 Ga"
+        },
+        {
+          "key": "IECEx",
+          "value": "I M1, II 1G, Ex da ia I Ma, Ex da ia IIC T4 Ga"
+        },
+        {
+          "key": "c CSA us",
+          "value": "Clase I, Zona 0, AEx da ia IIC T4 Ga Clase II, Div 1, Gr. E, F, G"
+        },
+        {
+          "key": "CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": "PO Ex da ia I Ma X, 0Ex da ia IIC T4 Ga X"
+        },
+        {
+          "key": "Certificación de rendimiento de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación para Marina (MED/DNV GL)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "X-am 3500 Product Information, es",
+      "href": "/Content/Documents/Products/X-am%203500-pi-100801-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU SP X-am 2500/2600/2800/3500/5000/5100/5600/5800/8000 - Limited Manufacturer Guarantee - 9033743 af-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9033743-af-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Technical Manual X-am 3500/8000 9033665 es",
+      "href": "/Content/Documents/Products/th-ifu-9033665-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 3500 - 9033667 de-me",
+      "href": "/Content/Documents/Products/xam-ifu-9033667-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 3500 / 8000 - Notes on approval / Sensor data - 9033655 en",
+      "href": "/Content/Documents/Products/noaxam-ifu-9033655-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Dräger sampling hoses for portable gas detectors",
+      "href": "/Content/Documents/Products/sampling-hoses-br-9107247-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Smart safety in the industry article, es",
+      "href": "/Content/Documents/Products/Smart-Safety-more-data-means-more-safety-article-DMC-107312-es-es-2309-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 3500 Product Information, es",
+      "href": "/Content/Documents/Products/X-am%203500-pi-100801-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Driver for DIRA and MILO Interface",
+      "href": "/Content/Documents/Products/Driver-DIRA-MILO-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision Software History, en",
+      "href": "/Content/Documents/Products/GasVision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Capítulo 01/06: Dräger X-am 3500 y X-am 8000 - Vista general",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Capítulo 02/06: Dräger X-am 3500 y X-am 8000 - Funcionamiento",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Capítulo 03/06: Dräger X-am 3500 y X-am 8000 - Alarmas",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Capítulo 04/06: Dräger X-am 3500 y 8000 – Modo de bomba",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Capítulo 05/06: Dräger X-am 3500 y 8000 – Uso con asistentes",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Chapitre 06/06: Dräger X-am 3500 et X-am 8000 – Configuration des paramètres",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Aplicaciones",
+      "Características técnicas",
+      "Características",
+      "Homologaciones",
+      "Dräger X-am® 3500: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "spc-4700-and-cva-0700",
+  "url": "https://www.draeger.com/es_csa/Products/SPC-4700-and-CVA-0700",
+  "scrapedAt": "2026-05-21T04:31:26.455Z",
+  "overview": {
+    "text": "​Comodidad y movilidad, además de una óptima protección: estas son las ventajas de las que puede disfrutar si combina el traje protector estanco a líquidos Dräger SPC 4700 y el chaleco de ventilación CVA 0700. Este traje con clasificación 3 protege con fiabilidad de productos químicos, mientras que el chaleco proporciona un suministro continuo de aire respirable y un agradable flujo de aire refrescante.\n\n​El nuevo material del traje, fabricado en CLF y CPM, es cómodo, suave y emite poco ruido. Además, ofrece una gran resistencia a las sustancias químicas y está disponible en tres configuraciones distintas. También se han introducido mejoras en los ch … Más información\n\n​Gracias a la combinación de Dräger SPC 4700 y CVA 0700, trabajará con mayor eficiencia, sin la necesidad de llevar un pesado equipo de protección respiratoria. En su lugar, el dispositivo externo de suministro de aire proporciona aire respirable lim … Más información\n\n​Concentre toda su atención en el trabajo. El traje protector SPC 4700 estanco a líquidos se lo pone más fácil que nunca. Proporciona un excepcional nivel de calidad y fiabilidad. La característica de «flujo seguro», con una presión de entrada de tre … Más información\n\n​El chaleco de ventilación CVA 0700 de alta calidad se lleva colocado debajo del traje para evitar así que entre en contacto con sustancias peligrosas. A diferencia del traje con protección antisalpicaduras, puede utilizarse más de una vez. Esto supo … Más información",
+    "htmlSummary": "Características destacadas ​Comodidad y movilidad, además de una óptima protección: estas son las ventajas de las que puede disfrutar si combina el traje protector estanco a líquidos Dräger SPC 4700 y el chaleco de ventilación CVA 0700. Este traje con clasificación 3 protege con fiabilidad de productos químicos, mientras que el chaleco proporciona un suministro continuo de aire respirable y un agradable flujo de aire refrescante. El diseño mejorado del traje CVA 0700, combinado con un novedoso e innovador material ​El nuevo material del traje, fabricado en CLF y CPM, es cómodo, suave y emite poco ruido. Además, ofrece una gran resistencia a las sustancias químicas y está disponible en tres configuraciones distintas. También se han introducido mejoras en los ch … Más información Respire con facilidad y trabaje con más eficiencia ​Gracias a la combinación de Dräger SPC 4700 y CVA 0700, trabajará con mayor eficiencia, sin la necesidad de llevar un pesado equipo de protección respiratoria. En su lugar, el dispositivo externo de suministro de aire proporciona aire respirable lim … Más información Aumente la productividad con una mayor seguridad ​Concentre toda su atención en el trabajo. El traje protector SPC 4700 estanco a líquidos se lo pone más fácil que nunca. Proporciona un excepcional nivel de calidad y fiabilidad. La característica de «flujo seguro», con una presión de entrada de tre … Más información Calidad que puede ver y sentir ​El chaleco de ventilación CVA 0700 de alta calidad se lleva colocado debajo del traje para evitar así que entre en contacto con sustancias peligrosas. A diferencia del traje con protección antisalpicaduras, puede utilizarse más de una vez. Esto supo … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Trajes protectores antisalpicaduras ventilados"
+        },
+        {
+          "key": "Clase de reutilización",
+          "value": ""
+        },
+        {
+          "key": "Clase del tipo de traje",
+          "value": "3 ; 4 ; 5 ; 6"
+        },
+        {
+          "key": "Clase de rendimiento",
+          "value": "+++"
+        },
+        {
+          "key": "Material",
+          "value": "CPM, CLF"
+        },
+        {
+          "key": "Colores disponibles",
+          "value": "Amarillo, naranja, blanco"
+        }
+      ]
+    },
+    {
+      "group": "Opciones de protección respiratoria",
+      "rows": [
+        {
+          "key": "Flujo constante",
+          "value": ""
+        },
+        {
+          "key": "SCBA por dentro",
+          "value": ""
+        },
+        {
+          "key": "SCBA por fuera",
+          "value": ""
+        },
+        {
+          "key": "Respirador purificador de aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia",
+      "rows": [
+        {
+          "key": "Resistencia mecánica",
+          "value": ""
+        },
+        {
+          "key": "Resistencia química",
+          "value": "+"
+        },
+        {
+          "key": "Resistencia a la temperatura",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia frente a",
+      "rows": [
+        {
+          "key": "Partículas",
+          "value": ""
+        },
+        {
+          "key": "Líquidos",
+          "value": ""
+        },
+        {
+          "key": "Gases conocidos",
+          "value": ""
+        },
+        {
+          "key": "Gases desconocidos",
+          "value": ""
+        },
+        {
+          "key": "Tensión mecánica",
+          "value": ""
+        },
+        {
+          "key": "Sustancias muy frías",
+          "value": ""
+        },
+        {
+          "key": "Zonas con riesgo de explosión",
+          "value": ""
+        },
+        {
+          "key": "Incendios con deflagraciones",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 943",
+          "value": ""
+        },
+        {
+          "key": "EN 14605",
+          "value": ""
+        },
+        {
+          "key": "EN ISO 13982-1",
+          "value": ""
+        },
+        {
+          "key": "EN 13034",
+          "value": ""
+        },
+        {
+          "key": "EN 1073-1 / EN 1073-2",
+          "value": ""
+        },
+        {
+          "key": "EN 14126",
+          "value": ""
+        },
+        {
+          "key": "EN 1149",
+          "value": ""
+        },
+        {
+          "key": "EN 14593",
+          "value": ""
+        },
+        {
+          "key": "EN 14594",
+          "value": ""
+        },
+        {
+          "key": "SOLAS",
+          "value": ""
+        },
+        {
+          "key": "ISO 16602",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Best Practice EVONIK: Employee protection during the production of speciality chemicals",
+      "href": "/Content/Documents/Products/Small-Case-Evonik-8821-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger CVA 0700 - 3363566 de-me",
+      "href": "/Content/Documents/Products/cva-ifu-3363566-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SPC 4700 - 9031386 de-me",
+      "href": "/Content/Documents/Products/9031386_01_2021_me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Safety You Can Count On Dräger Chemical Protective Suits (PDF)",
+      "href": "/Content/Documents/Products/cps-family-br-9046873-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Chemical Protection Suits portfolio brochure, es",
+      "href": "/Content/Documents/Products/cps-family-br-dmc-107726-es-es-2311-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Dräger SPC 4700 con CVA 0700 Traje de protección contra salpicaduras y chaleco de ventilación",
+      "href": "/Content/Documents/Products/spc-4700-with-cva-0700-po-a3-9106763-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "El estrés térmico dentro de los trajes de protección",
+      "href": "/Content/Documents/Products/heatstress%20article-9605-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SPC 4700 and CVA 0700 Product Information, es",
+      "href": "/Content/Documents/Products/SPC-4700-with-CVA-0700-pi-102097-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SPC 4700 and CVA 0700 Donning Poster, es",
+      "href": "/Content/Documents/Products/spc-4700-donning-po-9106560-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección fiable para lograr la máxima seguridad en entornos peligrosos.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de protección respiratoria",
+      "Resistencia",
+      "Resistencia frente a",
+      "Homologaciones",
+      "SPC 4700 con CVA 0700: Sustancias peligrosas y trajes de protección de materiales peligrosos correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

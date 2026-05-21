@@ -1,0 +1,71 @@
+{
+  "slug": "draegersensor-ir",
+  "url": "https://www.draeger.com/es_csa/Products/DraegerSensor-IR",
+  "scrapedAt": "2026-05-21T04:27:53.690Z",
+  "overview": null,
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: DrägerSensor IR (PDF)",
+      "href": "/Content/Documents/Products/sensor-ir-pi-9041194-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU DrägerSensor IR 9023984 es-me",
+      "href": "/Content/Documents/Products/sensorir-ifu-9023984-es-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "En el corazón de los sistemas de detección de gases estacionários (PDF)",
+      "href": "/Content/Documents/Products/sensoren-br-9069990-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: DrägerSensor IR (PDF)",
+      "href": "/Content/Documents/Products/sensor-ir-pi-9041194-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Electrolyte_Kit_HF_HCl_AC, en",
+      "href": "/Content/Documents/Products/Elektrolyte_HF_HCl_AC_en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "En el corazón del sistema de detección de gases",
+      "Características destacadas",
+      "Especificaciones",
+      "DrägerSensor IR: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

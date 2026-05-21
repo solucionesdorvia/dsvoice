@@ -1,0 +1,73 @@
+{
+  "slug": "pas-micro",
+  "url": "https://www.draeger.com/es_csa/Products/PAS-Micro",
+  "scrapedAt": "2026-05-21T04:29:24.385Z",
+  "overview": null,
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "PAS Micro Product Information, es",
+      "href": "/Content/Documents/Products/pas-micro-pi-9072781-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS Micro Airline Escape with ASV 3365682 es",
+      "href": "/Content/Documents/Products/pas-micro-airline-escape-with-asv-ifu-3365682-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS Micro Series - Escape repiratory protection equipment - 3365977 es",
+      "href": "/Content/Documents/Products/pas-ifu-3365977-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS Micro Series - Short duration respiratory protection equipment - 3366027 es",
+      "href": "/Content/Documents/Products/pasmicro-ifu-3366027-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS Micro Series A-SD with ASV 3365699 es",
+      "href": "/Content/Documents/Products/pas-micro-series-a-sd-with-asv-ifu-3365699-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS Series - Airline respiratory protection equipment - 3366043 es",
+      "href": "/Content/Documents/Products/passeries-ifu-3366043-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PAS® Micro Series - Airline Escape 3365994 es",
+      "href": "/Content/Documents/Products/pas-ifu-3365994-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PAS Micro Product Information, es",
+      "href": "/Content/Documents/Products/pas-micro-pi-9072781-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección respiratoria y escape integrados en un paquete fiable.",
+      "Características destacadas",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "slug": "cps-6800",
+  "url": "https://www.draeger.com/es_csa/Products/CPS-6800",
+  "scrapedAt": "2026-05-21T04:27:24.228Z",
+  "overview": {
+    "text": "Si busca protección respiratoria frente a sustancias criogénicas peligrosas así como a ácidos y álcalis en bajas concentraciones, el traje de protección química Dräger CPS 6800 es la solución idónea. Su nuevo e innovador diseño es más flexible para facilitar el acceso a espacios reducidos.\n\nGracias a su equipo respiratorio autónomo externo, el traje Dräger CPS 6800, estanco a gases, protege frente a sustancias peligrosas de naturaleza gaseosa, líquida y sólida, así como en forma de aerosol. El material Umex con el que está confeccionado … Más información\n\nEl traje Dräger CPS 6800 está provisto de un bolsillo para radio e incorpora un sistema de cierre de poliuretano (PUR) estanco a los gases. Los guantes y las botas de seguridad van unidas al traje de forma estanca a los gases y pueden cambiarse fácil … Más información\n\nEl traje Dräger CPS 6800 resulta muy cómodo de llevar puesto, incluso durante trabajos pesados en áreas peligrosas. El CPS 6800 ofrece la máxima libertad de movimientos gracias a su innovador diseño ergonómico disponible en cinco tallas. Además, la l … Más información\n\nGracias a un nuevo concepto de mantenimiento, los gastos que conllevan las inspecciones frecuentes se reducen de manera considerable. Por supuesto, Dräger puede hacerse cargo de cualquier labor de mantenimiento o reparación, pero también puede encarg … Más información",
+    "htmlSummary": "Características destacadas Si busca protección respiratoria frente a sustancias criogénicas peligrosas así como a ácidos y álcalis en bajas concentraciones, el traje de protección química Dräger CPS 6800 es la solución idónea. Su nuevo e innovador diseño es más flexible para facilitar el acceso a espacios reducidos. Excelente protección Gracias a su equipo respiratorio autónomo externo, el traje Dräger CPS 6800, estanco a gases, protege frente a sustancias peligrosas de naturaleza gaseosa, líquida y sólida, así como en forma de aerosol. El material Umex con el que está confeccionado … Más información Se adapta perfectamente a sus necesidades El traje Dräger CPS 6800 está provisto de un bolsillo para radio e incorpora un sistema de cierre de poliuretano (PUR) estanco a los gases. Los guantes y las botas de seguridad van unidas al traje de forma estanca a los gases y pueden cambiarse fácil … Más información Ajuste perfecto, flexibilidad y comodidad El traje Dräger CPS 6800 resulta muy cómodo de llevar puesto, incluso durante trabajos pesados en áreas peligrosas. El CPS 6800 ofrece la máxima libertad de movimientos gracias a su innovador diseño ergonómico disponible en cinco tallas. Además, la l … Más información Siempre listo para su uso con un gasto de mantenimiento mínimo Gracias a un nuevo concepto de mantenimiento, los gastos que conllevan las inspecciones frecuentes se reducen de manera considerable. Por supuesto, Dräger puede hacerse cargo de cualquier labor de mantenimiento o reparación, pero también puede encarg … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Traje estanco a gases prueba de gases"
+        },
+        {
+          "key": "Clase de reutilización",
+          "value": "Reutilizable"
+        },
+        {
+          "key": "Clase del tipo de traje",
+          "value": "1"
+        },
+        {
+          "key": "Clase de rendimiento",
+          "value": "+"
+        },
+        {
+          "key": "Vida útil (años)",
+          "value": "10"
+        },
+        {
+          "key": "Material",
+          "value": "Umex"
+        },
+        {
+          "key": "Colores disponibles",
+          "value": "Rojo"
+        }
+      ]
+    },
+    {
+      "group": "Opciones de protección respiratoria",
+      "rows": [
+        {
+          "key": "Flujo constante",
+          "value": ""
+        },
+        {
+          "key": "SCBA por dentro",
+          "value": ""
+        },
+        {
+          "key": "SCBA por fuera",
+          "value": ""
+        },
+        {
+          "key": "Respirador purificador de aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Resistencia",
+      "rows": [
+        {
+          "key": "Resistencia mecánica",
+          "value": "++"
+        },
+        {
+          "key": "Resistencia química",
+          "value": "+"
+        },
+        {
+          "key": "Resistencia a la temperatura",
+          "value": "contra sustancias muy frías"
+        }
+      ]
+    },
+    {
+      "group": "Resistencia frente a",
+      "rows": [
+        {
+          "key": "Partículas",
+          "value": ""
+        },
+        {
+          "key": "Líquidos",
+          "value": ""
+        },
+        {
+          "key": "Gases conocidos",
+          "value": ""
+        },
+        {
+          "key": "Gases desconocidos",
+          "value": ""
+        },
+        {
+          "key": "Tensión mecánica",
+          "value": ""
+        },
+        {
+          "key": "Sustancias muy frías",
+          "value": "en función del ERA"
+        },
+        {
+          "key": "Zonas con riesgo de explosión",
+          "value": ""
+        },
+        {
+          "key": "Incendios con deflagraciones",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 943",
+          "value": ""
+        },
+        {
+          "key": "EN 14605",
+          "value": ""
+        },
+        {
+          "key": "EN ISO 13982-1",
+          "value": ""
+        },
+        {
+          "key": "EN 13034",
+          "value": ""
+        },
+        {
+          "key": "EN 1073-1 / EN 1073-2",
+          "value": ""
+        },
+        {
+          "key": "EN 14126",
+          "value": ""
+        },
+        {
+          "key": "EN 1149",
+          "value": ""
+        },
+        {
+          "key": "EN 14593",
+          "value": ""
+        },
+        {
+          "key": "EN 14594",
+          "value": ""
+        },
+        {
+          "key": "SOLAS",
+          "value": ""
+        },
+        {
+          "key": "ISO 16602",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Información de producto: Dräger CPS 6800 (PDF)",
+      "href": "/Content/Documents/Products/cps-6800-pi-9094664-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger CPS 6800",
+      "href": "/Content/Documents/Products/cps-6800-pi-9094664-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU CPS 6800 9031075 ME",
+      "href": "/Content/Documents/Products/cps-6800-ifu-9031075-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger CPS 6800/7800 Training 9031011 ME",
+      "href": "/Content/Documents/Products/dr-ger-cps-6800-7800-training-ifu-9031011-dade.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Agents and Applications for Cleaning and Drying - 9100081 en-me",
+      "href": "/Content/Documents/Products/cleaning-ifusp-9100081-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Procedure for Donning Gas-tight Chemical Protective Suit Type 1b (PDF)",
+      "href": "/Content/Documents/Products/9041580-cps-7800-po-a2-de-en-07082013-l1-fin.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Health Effects of Hazardous Substances Brochure, en",
+      "href": "/Content/Documents/Products/health-effects-of-gazardous-substances-br-3773-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Brochure: Safety You Can Count On Dräger Chemical Protective Suits (PDF)",
+      "href": "/Content/Documents/Products/cps-family-br-9046873-en-master.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Chemical Protection Suits portfolio brochure, es",
+      "href": "/Content/Documents/Products/cps-family-br-dmc-107726-es-es-2311-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: Dräger Production Site for chemical protective suits",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    },
+    {
+      "label": "Poster de Espacios Confinados, es",
+      "href": "/Content/Documents/Products/confined-space-po-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger CPS 6800 (PDF)",
+      "href": "/Content/Documents/Products/cps-6800-pi-9094664-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Información de producto: Dräger CPS 6800",
+      "href": "/Content/Documents/Products/cps-6800-pi-9094664-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección fiable para lograr la máxima seguridad en entornos peligrosos.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Opciones de protección respiratoria",
+      "Resistencia",
+      "Resistencia frente a",
+      "Homologaciones",
+      "Dräger CPS 6800 : Sustancias peligrosas y trajes de protección de materiales peligrosos correspondientes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

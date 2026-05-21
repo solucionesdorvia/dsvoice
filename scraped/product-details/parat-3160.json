@@ -1,0 +1,186 @@
+{
+  "slug": "parat-3160",
+  "url": "https://www.draeger.com/es_csa/Products/PARAT-3160",
+  "scrapedAt": "2026-05-21T04:28:47.429Z",
+  "overview": null,
+  "specifications": [
+    {
+      "group": "Tipo de producto",
+      "rows": [
+        {
+          "key": "Capucha de evacuación filtrante",
+          "value": ""
+        },
+        {
+          "key": "Dispositivo de evacuación filtrante",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de filtro",
+          "value": "ABEK-15"
+        },
+        {
+          "key": "Tiempo de evacuación",
+          "value": "mín. 15 minutos"
+        },
+        {
+          "key": "Vida útil",
+          "value": "12 años (cambio del conjunto completo, excepto la carcasa, al cabo de 6 años)"
+        },
+        {
+          "key": "Opciones de embalaje",
+          "value": "Carcasa de plástico (la máscara y el filtro están precintados en una bolsa de aluminio, especialmente indicado para zonas de clima tropical)"
+        },
+        {
+          "key": "Peso",
+          "value": "13.58 oz"
+        }
+      ]
+    },
+    {
+      "group": "Protección contra",
+      "rows": [
+        {
+          "key": "Gases industriales",
+          "value": ""
+        },
+        {
+          "key": "Gases originados por el fuego",
+          "value": ""
+        },
+        {
+          "key": "Vapores",
+          "value": ""
+        },
+        {
+          "key": "Partículas",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Protección ocular",
+          "value": ""
+        },
+        {
+          "key": "Fecha de caducidad del filtro",
+          "value": ""
+        },
+        {
+          "key": "Unidad de entrenamiento disponible",
+          "value": "(unidad de entrenamiento PARAT 3100 opcional)"
+        }
+      ]
+    },
+    {
+      "group": "Opciones de transporte",
+      "rows": [
+        {
+          "key": "Montaje en pared",
+          "value": ""
+        },
+        {
+          "key": "Correa para la cadera",
+          "value": ""
+        },
+        {
+          "key": "Correa de hombro",
+          "value": ""
+        },
+        {
+          "key": "Pinza para cinturón",
+          "value": ""
+        },
+        {
+          "key": "Pinza de agarre",
+          "value": ""
+        },
+        {
+          "key": "Anillo en D",
+          "value": ""
+        },
+        {
+          "key": "Funda de transporte",
+          "value": ""
+        },
+        {
+          "key": "Mosquetón antideslizante",
+          "value": ""
+        },
+        {
+          "key": "Correa de mano",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "DIN 58647-7",
+          "value": ""
+        },
+        {
+          "key": "EN 14387:2004 (solo filtro)",
+          "value": ""
+        },
+        {
+          "key": "EN 137:2006 Tipo 2",
+          "value": ""
+        },
+        {
+          "key": "NIOSH 42 CFR Parte 84",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "IfU PARAT 3160 / 3260 9031228 me",
+      "href": "/Content/Documents/Products/IfU_PARAT_3160_PARAT_3160___3260_9031228.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Especificaciones: Dräger Parat 3160",
+      "href": "/Content/Documents/Products/parat-3160-pi-9072441-es-csa.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Video: PARAT® 3000 Carrying Options",
+      "href": "https://www.youtube.com/watch",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Protección rápida y eficaz cuando cada segundo cuenta.",
+      "Características destacadas",
+      "Especificaciones",
+      "Tipo de producto",
+      "Datos generales",
+      "Protección contra",
+      "Características",
+      "Opciones de transporte",
+      "Homologaciones",
+      "Dräger PARAT® 3160: Sustancias peligrosas y selección adecuada de capuchas de escape y respiratorias",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

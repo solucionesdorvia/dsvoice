@@ -1,0 +1,253 @@
+{
+  "slug": "pss-3000",
+  "url": "https://www.draeger.com/es_csa/Products/PSS-3000",
+  "scrapedAt": "2026-05-21T04:30:53.916Z",
+  "overview": {
+    "text": "El Dräger PSS® 3000 es un equipo respiratorio de alto rendimiento para bomberos. Este equipo, que combina comodidad y un rendimiento neumático excepcional, está diseñado para aplicaciones donde la simplicidad y la facilidad de uso son elementos clave. Este avanzado equipo respiratorio resulta ligero a la vez que robusto, así como fácil de colocar, y ofrece una protección respiratoria fiable.\n\nEl Dräger PSS 3000 es uno de los sistemas de transporte de aparatos respiratorios autónomos más ligeros que existen. Hemos aplicado la misma tecnología avanzada y la misma filosofía de diseño derivadas de nuestra gama de aparatos respiratorios profes … Más información\n\nLa versatilidad es la base de la serie de productos Dräger PSS. El equipo respiratorio PSS 3000 permite al usuario beneficiarse de una tecnología de protección respiratoria de vanguardia que incorpora el mismo sistema neumático avanzado que se utiliz … Más información\n\nEl equipo respiratorio PSS 3000, con una puesta a punto rápida y sencilla, incorpora una serie de características de diseño exclusivas para garantizar que el tiempo de inactividad, y por consiguiente los costes, sean mínimos durante los trabajos de m … Más información\n\nMediante el uso de la más moderna tecnología de mapeo de presión, hemos desarrollado un sistema de transporte que se ajusta al contorno natural del cuerpo y, por tanto, proporciona una mayor estabilidad y reduce la tensión, el estrés y la fatiga de l … Más información\n\nTanto las mangueras de suministro de aire de presión intermedia como las mangueras del manómetro están integradas en la estructura de transporte con el fin de reducir el riesgo de enganches y enredos, lo que se traduce en una mayor seguridad al entra … Más información",
+    "htmlSummary": "Características destacadas El Dräger PSS® 3000 es un equipo respiratorio de alto rendimiento para bomberos. Este equipo, que combina comodidad y un rendimiento neumático excepcional, está diseñado para aplicaciones donde la simplicidad y la facilidad de uso son elementos clave. Este avanzado equipo respiratorio resulta ligero a la vez que robusto, así como fácil de colocar, y ofrece una protección respiratoria fiable. Ligero, robusto y fácil de utilizar El Dräger PSS 3000 es uno de los sistemas de transporte de aparatos respiratorios autónomos más ligeros que existen. Hemos aplicado la misma tecnología avanzada y la misma filosofía de diseño derivadas de nuestra gama de aparatos respiratorios profes … Más información Tecnología de suministro de aire demostrada La versatilidad es la base de la serie de productos Dräger PSS. El equipo respiratorio PSS 3000 permite al usuario beneficiarse de una tecnología de protección respiratoria de vanguardia que incorpora el mismo sistema neumático avanzado que se utiliz … Más información Mantenimiento y puesta a punto sencillos El equipo respiratorio PSS 3000, con una puesta a punto rápida y sencilla, incorpora una serie de características de diseño exclusivas para garantizar que el tiempo de inactividad, y por consiguiente los costes, sean mínimos durante los trabajos de m … Más información Sistema de transporte mejorado Mediante el uso de la más moderna tecnología de mapeo de presión, hemos desarrollado un sistema de transporte que se ajusta al contorno natural del cuerpo y, por tanto, proporciona una mayor estabilidad y reduce la tensión, el estrés y la fatiga de l … Más información Mangueras integradas Tanto las mangueras de suministro de aire de presión intermedia como las mangueras del manómetro están integradas en la estructura de transporte con el fin de reducir el riesgo de enganches y enredos, lo que se traduce en una mayor seguridad al entra … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos clave",
+      "rows": [
+        {
+          "key": "Aplicación",
+          "value": "Extinción de incendios"
+        },
+        {
+          "key": "Cinturón pivotante",
+          "value": ""
+        },
+        {
+          "key": "Cinturón deslizante",
+          "value": ""
+        },
+        {
+          "key": "Ajuste de altura",
+          "value": ""
+        },
+        {
+          "key": "Cintas reflectantes",
+          "value": ""
+        },
+        {
+          "key": "Luz de aviso a compañeros (Buddy lights)",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Sistema de monitorización",
+      "rows": [
+        {
+          "key": "Manómetro mecánico",
+          "value": ""
+        },
+        {
+          "key": "Manómetro mecánico con función de transmisión",
+          "value": ""
+        },
+        {
+          "key": "Medidor digital",
+          "value": ""
+        },
+        {
+          "key": "Sistema de seguridad de alerta personal (PASS) automático",
+          "value": ""
+        },
+        {
+          "key": "Visor frontal (HUD)",
+          "value": ""
+        },
+        {
+          "key": "Compatible con Dräger FireGround",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Datos técnicos",
+      "rows": [
+        {
+          "key": "Peso (espaldera y arnés)",
+          "value": "5.95 lb"
+        },
+        {
+          "key": "Presión de entrada",
+          "value": "0 - 300 bar"
+        }
+      ]
+    },
+    {
+      "group": "Pulmo automático",
+      "rows": [
+        {
+          "key": "Pulmo automático",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Botellas de aire comprimido",
+      "rows": [
+        {
+          "key": "Configuración con una botella",
+          "value": ""
+        },
+        {
+          "key": "Configuración con dos botellas",
+          "value": ""
+        },
+        {
+          "key": "Configuración de paquete doble",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Máscaras completas",
+      "rows": [
+        {
+          "key": "FPS 7000",
+          "value": ""
+        },
+        {
+          "key": "Panorama Nova",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Sistemas de comunicación",
+      "rows": [
+        {
+          "key": "FPS-5000-COM",
+          "value": ""
+        },
+        {
+          "key": "FPS-7000-COM",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Productos complementarios",
+      "rows": [
+        {
+          "key": "PSS Safety Belt, arnés",
+          "value": ""
+        },
+        {
+          "key": "QuickConnect, conexión rápida",
+          "value": ""
+        },
+        {
+          "key": "Mangueras adicionales de presión media (rescate)",
+          "value": "opcional"
+        },
+        {
+          "key": "Conexión de carga de aire",
+          "value": "opcional"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "EN 137:2006 (Tipo 2)",
+          "value": ""
+        },
+        {
+          "key": "GOST",
+          "value": ""
+        },
+        {
+          "key": "Aus/NZ",
+          "value": ""
+        },
+        {
+          "key": "NIOSH",
+          "value": ""
+        },
+        {
+          "key": "NFPA",
+          "value": ""
+        },
+        {
+          "key": "EN 14593 Parte 1",
+          "value": ""
+        },
+        {
+          "key": "SOLAS II-2",
+          "value": ""
+        },
+        {
+          "key": "MED",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "PSS 3000 Product Information, es",
+      "href": "/Content/Documents/Products/pss-3000-pi-dmc-2294-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Equipos respiratorios autónomos PSS® Dräger (PDF)",
+      "href": "/Content/Documents/Products/pss-7000-a2-po-9045000-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PSS 3000 Series - 3358965 es",
+      "href": "/Content/Documents/Products/pss-ifu-3358965-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PSS Series - Accessory SMPC - Buddy Breather - 3365068 es",
+      "href": "/Content/Documents/Products/pss-ifu-3365068-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU PSS Series - Accessory SMPC - Waist-Shoulder - 3358979 es",
+      "href": "/Content/Documents/Products/pss-ifu-3358979-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Equipos respiratorios autónomos PSS® Dräger (PDF)",
+      "href": "/Content/Documents/Products/pss-7000-a2-po-9045000-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PSS 3000 Product Information, es",
+      "href": "/Content/Documents/Products/pss-3000-pi-dmc-2294-es-es.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "ERA ligero y robusto que proporciona una protección respiratoria fiable.",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos clave",
+      "Sistema de monitorización",
+      "Datos técnicos",
+      "Pulmo automático",
+      "Botellas de aire comprimido",
+      "Máscaras completas",
+      "Sistemas de comunicación",
+      "Productos complementarios",
+      "Homologaciones",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

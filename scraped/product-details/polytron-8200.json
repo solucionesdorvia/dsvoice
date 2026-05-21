@@ -1,0 +1,238 @@
+{
+  "slug": "polytron-8200",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-8200",
+  "scrapedAt": "2026-05-21T04:30:29.495Z",
+  "overview": {
+    "text": "El Dräger Polytron 8200 CAT es un transmisor de gama alta a prueba de explosiones diseñado para detectar gases y vapores inflamables. Utiliza el DrägerSensor Ex catalítico... DQ. Además del funcionamiento con tres hilos con una salida analógica de 4 a 20 mA, también ofrece HART®, opciones de bus de campo fieldbus y Modbus, lo que le permite integrar el transmisor con la mayoría de los sistemas de control de su sistema de detección de gases.\n\nEl sensor de gas tipo DQ incorporado se basa en el principio probado de perlas catalíticas. Posee una excelente estabilidad a largo plazo y una resistencia al envenenamiento extraordinaria. Ese es el motivo de su durabilidad. Gracias a la novedosa ap … Más información\n\nEl Dräger Polytron 8200 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información\n\nEl Dräger Polytron 8200 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme, con menor entrenamiento y mantenimiento. La amplia pantalla gráfic … Más información\n\nEl Dräger Polytron 8200 se puede suministrar con tres relés integrados. De este modo, se puede usar como un sistema independiente de detección de gases con dos alarmas de concentración ajustables y una alarma de fallo. De este modo, las alarmas sonor … Más información\n\nEl Polytron 8200 es un equipo a prueba de explosiones y cumple con la protección frente a explosiones tipo «d». Si desea una protección tipo «e» con seguridad incrementada, puede optar por una caja de terminales adicional. Esto también facilita el pr … Más información",
+    "htmlSummary": "Características destacadas El Dräger Polytron 8200 CAT es un transmisor de gama alta a prueba de explosiones diseñado para detectar gases y vapores inflamables. Utiliza el DrägerSensor Ex catalítico... DQ. Además del funcionamiento con tres hilos con una salida analógica de 4 a 20 mA, también ofrece HART®, opciones de bus de campo fieldbus y Modbus, lo que le permite integrar el transmisor con la mayoría de los sistemas de control de su sistema de detección de gases. Rápido y estable: DrägerSensor Ex … DQ El sensor de gas tipo DQ incorporado se basa en el principio probado de perlas catalíticas. Posee una excelente estabilidad a largo plazo y una resistencia al envenenamiento extraordinaria. Ese es el motivo de su durabilidad. Gracias a la novedosa ap … Más información Gestión sencilla del dispositivo mediante comunicación digital El Dräger Polytron 8200 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información Mismo diseño, mismo principio de funcionamiento El Dräger Polytron 8200 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme, con menor entrenamiento y mantenimiento. La amplia pantalla gráfic … Más información Tres relés para controlar los equipos externos El Dräger Polytron 8200 se puede suministrar con tres relés integrados. De este modo, se puede usar como un sistema independiente de detección de gases con dos alarmas de concentración ajustables y una alarma de fallo. De este modo, las alarmas sonor … Más información Carcasa segura y robusta para cualquier aplicación El Polytron 8200 es un equipo a prueba de explosiones y cumple con la protección frente a explosiones tipo «d». Si desea una protección tipo «e» con seguridad incrementada, puede optar por una caja de terminales adicional. Esto también facilita el pr … Más información Haga posible lo imposible con el sensor remoto El sensor remoto permite instalar el sensor separado del transmisor. De este modo, solo tendrá que colocar el sensor más cerca de la nube de gas en lugares de difícil acceso. La pantalla permanecerá visible a la altura de los ojos. Registrador de datos El Polytron 8200 cuenta con un registrador de datos que guarda los datos de las mediciones y de los eventos anteriores."
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Sensor de perlas catalíticas"
+        },
+        {
+          "key": "Tiempo de respuesta",
+          "value": ""
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20 or 3/4\" NPT"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-1-3)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "10 a 30 V, 3 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 80°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "28x15x13 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "8.82 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Aluminio sin cobre recubierto de epoxi o acero inoxidable SS 316L"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP65/66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina",
+          "value": ""
+        },
+        {
+          "key": "FM",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Polytron 8200 CAT Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-8200-CAT-pi-101865-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 8000 Series 9033828 ME",
+      "href": "/Content/Documents/Products/polytron-8000-series-ifu-9033828-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0, Polytron 8xx0 - Notes on Approval - 4544300 en-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-4544300-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0/Polytron 8xx0 - Safety instructions - 9301119 de-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-9301119-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Product information: Digital communication in stationary gas measuring technology (PDF)",
+      "href": "/Content/Documents/Products/digitalcommunication-gds-pi-9041506-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Hydrogen Safety Solutions brochure, es",
+      "href": "/Content/Documents/Products/Hydrogen-safety-br-DMC-104068-es-es-2211-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Link to Polytron 5xx0/8xx0 Configurator",
+      "href": "https://polytron.azurewebsites.net/public/de/index.html",
+      "type": null
+    },
+    {
+      "label": "Polytron 8200 CAT Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-8200-CAT-pi-101865-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "Limited Manufacturer Guarantee_Garantiekarte Polytron 8100, 8200, 87x0, 8900 9300655 (ed 02), en, de",
+      "href": "/Content/Documents/Products/Garantiekarte-P8xx0-9300655-de-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Siempre protegido: Medición de gases inflamables con la experiencia de Dräger",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron 8200 CAT: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

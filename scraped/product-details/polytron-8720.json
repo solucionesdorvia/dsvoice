@@ -1,0 +1,220 @@
+{
+  "slug": "polytron-8720",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-8720",
+  "scrapedAt": "2026-05-21T04:30:45.039Z",
+  "overview": {
+    "text": "El Dräger Polytron 8720 IR es un transmisor a prueba de explosiones para la detección de dióxido de carbono en porcentaje en volumen o en ppm. Usa un sensor infrarrojos Dräger PIR 7200 de alto rendimiento que puede sumergirse en el agua sin sufrir daños. Además de una salida analógica de 4 a 20 mA de 3 hilos con relés, también ofrece HART®, Modbus y Fieldbus, lo que lo hace compatible con la mayoría de los sistemas de control.\n\nGracias a su carcasa de acero inoxidable 316L y a su óptica estable, el Dräger PIR 7200 está concebido para los entornos industriales y comerciales exteriores más exigentes. El exclusivo sistema de estabilización de señal de 4 haces aumenta la resist … Más información\n\nEl Dräger Polytron 8720 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información\n\nEl Dräger Polytron 8720 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie presentan el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme con una menor necesidad de formación y mantenimiento. La amplia … Más información\n\nEl Dräger Polytron 8720 se puede suministrar con tres relés integrados. De este modo, se puede usar como un sistema de detección de gas independiente con dos alarmas de concentración ajustables y una alarma de fallo. Las alarmas sonoras, las luces vi … Más información\n\nEl Polytron 8720 cuenta con una carcasa a prueba de explosiones de Clase I, Div. 1 fabricada en aluminio o acero inoxidable que resulta idónea para todo tipo de condiciones ambientales. La versión con tipo de protección «e» incluye una práctica estac … Más información",
+    "htmlSummary": "Características destacadas El Dräger Polytron 8720 IR es un transmisor a prueba de explosiones para la detección de dióxido de carbono en porcentaje en volumen o en ppm. Usa un sensor infrarrojos Dräger PIR 7200 de alto rendimiento que puede sumergirse en el agua sin sufrir daños. Además de una salida analógica de 4 a 20 mA de 3 hilos con relés, también ofrece HART®, Modbus y Fieldbus, lo que lo hace compatible con la mayoría de los sistemas de control. Eficiente, estable y resistente: Dräger PIR 7200 Gracias a su carcasa de acero inoxidable 316L y a su óptica estable, el Dräger PIR 7200 está concebido para los entornos industriales y comerciales exteriores más exigentes. El exclusivo sistema de estabilización de señal de 4 haces aumenta la resist … Más información Gestión sencilla del dispositivo mediante comunicación digital El Dräger Polytron 8720 está provisto de interfaces digitales que permiten realizar una consulta remota del estado del transmisor de forma rápida y fácil. A través de DTM, es posible integrarlo en los sistemas de gestión de activos existentes, como P … Más información Mismo diseño, mismo principio de funcionamiento El Dräger Polytron 8720 pertenece a la serie Polytron 8000. Todos los transmisores de esta serie presentan el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme con una menor necesidad de formación y mantenimiento. La amplia … Más información Tres relés para controlar los equipos externos El Dräger Polytron 8720 se puede suministrar con tres relés integrados. De este modo, se puede usar como un sistema de detección de gas independiente con dos alarmas de concentración ajustables y una alarma de fallo. Las alarmas sonoras, las luces vi … Más información Carcasa segura y resistente para cualquier aplicación El Polytron 8720 cuenta con una carcasa a prueba de explosiones de Clase I, Div. 1 fabricada en aluminio o acero inoxidable que resulta idónea para todo tipo de condiciones ambientales. La versión con tipo de protección «e» incluye una práctica estac … Más información Consiga lo imposible con el sensor remoto La carcasa de conexión del sensor remoto le permite instalar el sensor por separado con respecto al transmisor. De este modo, solo tendrá que colocar el sensor más cerca de la nube de gas en lugares de difícil acceso. La pantalla permanecerá visible … Más información Registrador de datos El Polytron 8720 cuenta con un registrador de datos que guarda los datos de las mediciones y de los eventos anteriores."
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Infrarrojos"
+        },
+        {
+          "key": "Tiempo de respuesta",
+          "value": "<= 8 segundos"
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20 o 3/4\" NPT"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-1-3)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "10 a 30 V CC, 3 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 77°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "28x15x13 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "12.57 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Aluminio sin cobre recubierto de epoxi o acero inoxidable SS316L"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP65/66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Polytron 8720 IR Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-8720-IR-pi-101868-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 8000 Series 9033828 ME",
+      "href": "/Content/Documents/Products/polytron-8000-series-ifu-9033828-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0/Polytron 8xx0 - Safety instructions - 9301119 de-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-9301119-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Product information: Digital communication in stationary gas measuring technology (PDF)",
+      "href": "/Content/Documents/Products/digitalcommunication-gds-pi-9041506-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SIL Brochure, en",
+      "href": "/Content/Documents/Products/functional_safety_sil_br_9046256_en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Link to Polytron 5xx0/8xx0 Configurator",
+      "href": "https://polytron.azurewebsites.net/public/de/index.html",
+      "type": null
+    },
+    {
+      "label": "Polytron 8720 IR Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-8720-IR-pi-101868-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "Limited Manufacturer Guarantee_Garantiekarte Polytron 8100, 8200, 87x0, 8900 9300655 (ed 02), en, de",
+      "href": "/Content/Documents/Products/Garantiekarte-P8xx0-9300655-de-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "La seguridad en primer plano: Detección de dióxido de carbono con precisión",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron 8720 IR: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

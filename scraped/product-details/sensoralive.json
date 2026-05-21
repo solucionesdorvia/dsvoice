@@ -1,0 +1,54 @@
+{
+  "slug": "sensoralive",
+  "url": "https://www.draeger.com/es_csa/Products/SensorAlive",
+  "scrapedAt": "2026-05-21T04:31:17.634Z",
+  "overview": {
+    "text": "El Dräger SensorAlive es un sensor electroquímico con un generador de gas integrado. El generador de gas permite realizar pruebas automáticas del sensor cada día utilizando H2S como gas de prueba. La función de autocomprobación del sensor mejora la seguridad del sistema de detección de gases y minimiza las tareas de mantenimiento.\n\nEn la industria del gas y el petróleo, se utilizan sistemas fijos de detección de gases, equipados con una gran cantidad de sensores, para una monitorización fiable del ácido sulfhídrico. Estos sensores deben comprobarse y ajustarse periódicamente.\n\nLa realización diaria de pruebas de grandes cantidades de sensores puede llevar mucho tiempo y, en ocasiones, no es factible. La función de autocomprobación diaria del Dräger SensorAlive, con el gas de prueba del generador de gas integrado, le ofrece … Más información\n\nTodos los días, el Dräger SensorAlive realiza automáticamente una prueba de funcionamiento con gas de prueba, además de comprobar posibles obstrucciones en la entrada de gas. Como las pruebas ya no hay que hacerlas manualmente, las tareas de mantenim … Más información\n\nJunto con el transmisor Dräger Polytron 8100, tendrá acceso a una tecnología de medición de eficacia probada con el Dräger SensorAlive. Respuesta rápida, alta precisión, alta estabilidad y larga vida útil: El Dräger SensorAlive también le ofrece esta … Más información",
+    "htmlSummary": "Características destacadas El Dräger SensorAlive es un sensor electroquímico con un generador de gas integrado. El generador de gas permite realizar pruebas automáticas del sensor cada día utilizando H2S como gas de prueba. La función de autocomprobación del sensor mejora la seguridad del sistema de detección de gases y minimiza las tareas de mantenimiento. Autocomprobación con gas de prueba En la industria del gas y el petróleo, se utilizan sistemas fijos de detección de gases, equipados con una gran cantidad de sensores, para una monitorización fiable del ácido sulfhídrico. Estos sensores deben comprobarse y ajustarse periódicamente. L … Más información Un plus de seguridad La realización diaria de pruebas de grandes cantidades de sensores puede llevar mucho tiempo y, en ocasiones, no es factible. La función de autocomprobación diaria del Dräger SensorAlive, con el gas de prueba del generador de gas integrado, le ofrece … Más información Menos tareas de mantenimiento Todos los días, el Dräger SensorAlive realiza automáticamente una prueba de funcionamiento con gas de prueba, además de comprobar posibles obstrucciones en la entrada de gas. Como las pruebas ya no hay que hacerlas manualmente, las tareas de mantenim … Más información Tecnología de medición de eficacia probada Junto con el transmisor Dräger Polytron 8100, tendrá acceso a una tecnología de medición de eficacia probada con el Dräger SensorAlive. Respuesta rápida, alta precisión, alta estabilidad y larga vida útil: El Dräger SensorAlive también le ofrece esta … Más información"
+  },
+  "specifications": [],
+  "system": [],
+  "downloads": [
+    {
+      "label": "SensorAlive Product Information, es",
+      "href": "/Content/Documents/Products/SensorAlive-pi-102560-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Dräger SensorAlive H2S - 6814014 - 9300648 de-me",
+      "href": "/Content/Documents/Products/9300648_01_2022_me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Sensor Alive - Technical Manual - 9300649 de-me",
+      "href": "/Content/Documents/Products/9300649_01_2022.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "SensorAlive H2S Sales Presentation, es-es",
+      "href": "/Content/Documents/Products/sensoralive-h2s-sp-es-es.pptx",
+      "type": null
+    },
+    {
+      "label": "SensorAlive Product Information, es",
+      "href": "/Content/Documents/Products/SensorAlive-pi-102560-es-ES.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Autocomprobación diaria automática con gas de prueba para mayor seguridad",
+      "Características destacadas",
+      "Especificaciones",
+      "Dräger SensorAlive H₂S: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

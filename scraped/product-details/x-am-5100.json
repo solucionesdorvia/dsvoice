@@ -1,0 +1,226 @@
+{
+  "slug": "x-am-5100",
+  "url": "https://www.draeger.com/es_csa/Products/X-am-5100",
+  "scrapedAt": "2026-05-21T04:32:01.732Z",
+  "overview": {
+    "text": "​Ya sea en la elaboración de productos petroquímicos, en el embalaje aséptico o en la protección contra la corrosión: con el detector portátil Dräger X-am 5100 no correrá ningún riesgo en el manejo de HF, HCl, H2O2 o Hidracina gracias a la probada técnica de sensores Dräger y al diseño del dispositivo especialmente adaptado a estos gases reactivos.",
+    "htmlSummary": "Características destacadas ​Ya sea en la elaboración de productos petroquímicos, en el embalaje aséptico o en la protección contra la corrosión: con el detector portátil Dräger X-am 5100 no correrá ningún riesgo en el manejo de HF, HCl, H2O2 o Hidracina gracias a la probada técnica de sensores Dräger y al diseño del dispositivo especialmente adaptado a estos gases reactivos. CARACTERÍSTICAS PRINCIPALES Medición fiable, exacta y continua El diseño especial del dispositivo con entrada directa del gas garantiza una rápida respuesta de los sensores y unos datos de medición precisos, gracias a no permitir la adsorción de gas en la carcasa del dispositivo … Más información"
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo de producto",
+          "value": "Detector de un solo gas"
+        },
+        {
+          "key": "Gases medibles",
+          "value": "H2O2, HF / HCL, Hidracina"
+        },
+        {
+          "key": "Número de gases",
+          "value": "1"
+        },
+        {
+          "key": "Vida útil",
+          "value": "sin límite"
+        }
+      ]
+    },
+    {
+      "group": "Aplicación",
+      "rows": [
+        {
+          "key": "Monitorización personal del aire",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Rango de temperaturas (dispositivo)",
+          "value": "-20°C - 50°C"
+        },
+        {
+          "key": "Vida útil de la batería",
+          "value": "recargable"
+        },
+        {
+          "key": "Humedad del aire (humedad relativa)",
+          "value": "10% to 95%"
+        },
+        {
+          "key": "Presión del aire (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP 54"
+        },
+        {
+          "key": "Peso",
+          "value": "7.76 oz"
+        }
+      ]
+    },
+    {
+      "group": "Características",
+      "rows": [
+        {
+          "key": "Filtro recambiable",
+          "value": "sin filtro en uso"
+        },
+        {
+          "key": "D-Luz",
+          "value": ""
+        },
+        {
+          "key": "VLA-ED/VLA-EC",
+          "value": ""
+        },
+        {
+          "key": "Pico",
+          "value": ""
+        },
+        {
+          "key": "Sensor dual",
+          "value": ""
+        },
+        {
+          "key": "Retención de alarma",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": "I M1 Ex ia I Ma II 1G Ex ia IIC T4/T3 Ga (Zona 0)"
+        },
+        {
+          "key": "IECEx",
+          "value": "Ex ia I Ma Ex ia IIC T4/T3 Ga"
+        },
+        {
+          "key": "c CSA us",
+          "value": "Clase I, Div. 1, Grupos A,B,C,D TC T4/T3 Clase I, Zona 0, A/Ex ia IIC T4/T3 /Ga"
+        },
+        {
+          "key": "CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de rendimiento de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación para Marina (MED)",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "X-am 5100 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5100-pi-9041415-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "IFU Rubberball Pump 9023955 de-me",
+      "href": "/Content/Documents/Products/rubber-ifu-9023955-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP X-am 2500/2600/2800/3500/5000/5100/5600/5800/8000 - Limited Manufacturer Guarantee - 9033743 af-me",
+      "href": "/Content/Documents/Products/xam-ifusp-9033743-af-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU X-am 5100 9033279 ME",
+      "href": "/Content/Documents/Products/x-am-5100-ifu-9033279-bgcs.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas detection for incidents involving vehicles with alternative drive systems, es",
+      "href": "/Content/Documents/Products/first-responder-safety-vehicles-with-alternative-drive-systems-illuph-dmc-107526-es-es-2310-1.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Portable Gas Detection Brochure 2025, es",
+      "href": "/Content/Documents/Products/portable-gas-detectors-br-dmc-112978-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "X-am 5100 Product Information, es",
+      "href": "/Content/Documents/Products/x-am-5100-pi-9041415-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "CC-Vision Basic (V8.2.1)",
+      "href": "/Content/Documents/Products/CC-Vision-Basic-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "CC-Vision Software History, en",
+      "href": "/Content/Documents/Products/CC-Vision-History-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Driver for DIRA and MILO Interface",
+      "href": "/Content/Documents/Products/Driver-DIRA-MILO-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision (V8.1.0)",
+      "href": "/Content/Documents/Products/Gas-Vision-Setup.zip",
+      "type": null
+    },
+    {
+      "label": "GasVision Software History, en",
+      "href": "/Content/Documents/Products/GasVision-History-en.pdf",
+      "type": "pdf"
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Refuerzo de la seguridad con nuestros detectores de gas portátiles: Confianza y tecnología unidas",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Aplicación",
+      "Características técnicas",
+      "Características",
+      "Homologaciones",
+      "Dräger X-am® 5100: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}

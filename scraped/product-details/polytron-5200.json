@@ -1,0 +1,218 @@
+{
+  "slug": "polytron-5200",
+  "url": "https://www.draeger.com/es_csa/Products/Polytron-5200",
+  "scrapedAt": "2026-05-21T04:30:06.098Z",
+  "overview": {
+    "text": "El Dräger Polytron 5200 CAT es un transmisor económico a prueba de explosiones diseñado para detectar gases y vapores inflamables. Utiliza el DrägerSensor Ex catalítico... DQ. Gracias al funcionamiento con tres hilos y a la salida analógica de 4 a 20 mA, puede combinar el transmisor con la mayoría de los sistemas de evaluación de su sistema de detección de gases.\n\nEl sensor de gas tipo DQ incorporado se basa en el principio verificado de perlas catalíticas. Posee una excelente estabilidad a largo plazo y una resistencia al envenenamiento extraordinaria. Ese es el motivo de su durabilidad. Gracias a la novedosa … Más información\n\nEl Dräger Polytron 5200 pertenece a la serie Polytron 5000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme, menos entrenamiento y menos mantenimiento. La amplia pantalla gráf … Más información\n\nEl Dräger Polytron 5200 se puede suministrar, bajo pedido, con tres relés integrados. De este modo, se puede usar como un sistema independiente de detección de gases con dos alarmas de concentración ajustables y una alarma de fallo. De este modo, las … Más información\n\nEl Polytron 5200 es un equipo a prueba de explosiones y cumple con la protección frente a explosiones tipo «d». Si desea una protección de tipo «e» con seguridad incrementada, puede optar por una caja de terminales adicional. Esto también facilita el … Más información\n\nEl cabezal sensor remoto permite instalar el sensor separado del transmisor. De este modo, solo tendrá que colocar el sensor más cerca de la nube de gas en lugares de difícil acceso. La pantalla permanecerá visible a la altura de los ojos.",
+    "htmlSummary": "Características destacadas El Dräger Polytron 5200 CAT es un transmisor económico a prueba de explosiones diseñado para detectar gases y vapores inflamables. Utiliza el DrägerSensor Ex catalítico... DQ. Gracias al funcionamiento con tres hilos y a la salida analógica de 4 a 20 mA, puede combinar el transmisor con la mayoría de los sistemas de evaluación de su sistema de detección de gases. Rápido y estable: DrägerSensor Ex … DQ El sensor de gas tipo DQ incorporado se basa en el principio verificado de perlas catalíticas. Posee una excelente estabilidad a largo plazo y una resistencia al envenenamiento extraordinaria. Ese es el motivo de su durabilidad. Gracias a la novedosa … Más información Mismo diseño, mismo principio de funcionamiento El Dräger Polytron 5200 pertenece a la serie Polytron 5000. Todos los transmisores de esta serie tienen el mismo diseño e interfaz de usuario. Esto permite un funcionamiento uniforme, menos entrenamiento y menos mantenimiento. La amplia pantalla gráf … Más información Tres relés para controlar los equipos externos El Dräger Polytron 5200 se puede suministrar, bajo pedido, con tres relés integrados. De este modo, se puede usar como un sistema independiente de detección de gases con dos alarmas de concentración ajustables y una alarma de fallo. De este modo, las … Más información Carcasa segura y robusta para cualquier aplicación El Polytron 5200 es un equipo a prueba de explosiones y cumple con la protección frente a explosiones tipo «d». Si desea una protección de tipo «e» con seguridad incrementada, puede optar por una caja de terminales adicional. Esto también facilita el … Más información Haga posible lo imposible con el sensor remoto El cabezal sensor remoto permite instalar el sensor separado del transmisor. De este modo, solo tendrá que colocar el sensor más cerca de la nube de gas en lugares de difícil acceso. La pantalla permanecerá visible a la altura de los ojos."
+  },
+  "specifications": [
+    {
+      "group": "Datos generales",
+      "rows": [
+        {
+          "key": "Tipo",
+          "value": "Transmisor"
+        },
+        {
+          "key": "Principio de medición",
+          "value": "Sensor de perlas catalíticas"
+        },
+        {
+          "key": "Tiempo de respuesta",
+          "value": ""
+        },
+        {
+          "key": "Entrada de cables",
+          "value": "M20 or 3/4\" NPT"
+        },
+        {
+          "key": "Pantalla",
+          "value": ""
+        },
+        {
+          "key": "Seguridad intrínseca",
+          "value": ""
+        },
+        {
+          "key": "Antideflagrante",
+          "value": ""
+        },
+        {
+          "key": "Seguridad incrementada",
+          "value": ""
+        },
+        {
+          "key": "SIL",
+          "value": "SIL 2 (IEC 61508-2)"
+        },
+        {
+          "key": "4-20 mA",
+          "value": ""
+        },
+        {
+          "key": "Bus",
+          "value": ""
+        },
+        {
+          "key": "HART®",
+          "value": ""
+        },
+        {
+          "key": "Inalámbrico",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "group": "Características técnicas",
+      "rows": [
+        {
+          "key": "Fuente de alimentación",
+          "value": "10 a 30 V, 3 hilos"
+        },
+        {
+          "key": "Temperatura (funcionamiento)",
+          "value": "-40°C - 80°C"
+        },
+        {
+          "key": "Humedad",
+          "value": "0 a 100 % h. r., sin condensación"
+        },
+        {
+          "key": "Presión (hPa)",
+          "value": "700 - 1300"
+        },
+        {
+          "key": "Dimensiones (Al. × An. × Pr.)",
+          "value": "28x15x13 cm"
+        },
+        {
+          "key": "Peso",
+          "value": "8.82 lb"
+        },
+        {
+          "key": "Material de la carcasa",
+          "value": "Aluminio sin cobre recubierto de epoxi o acero inoxidable SS 316L"
+        },
+        {
+          "key": "Grado de protección (clase IP)",
+          "value": "IP65/66/67"
+        }
+      ]
+    },
+    {
+      "group": "Homologaciones",
+      "rows": [
+        {
+          "key": "ATEX",
+          "value": ""
+        },
+        {
+          "key": "IECEx",
+          "value": ""
+        },
+        {
+          "key": "UL",
+          "value": ""
+        },
+        {
+          "key": "CSA",
+          "value": ""
+        },
+        {
+          "key": "Marcado CE",
+          "value": ""
+        },
+        {
+          "key": "GOST (EAC)",
+          "value": ""
+        },
+        {
+          "key": "Certificación de medida",
+          "value": ""
+        },
+        {
+          "key": "Certificación de Marina",
+          "value": ""
+        },
+        {
+          "key": "FM",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "system": [],
+  "downloads": [
+    {
+      "label": "Polytron 5200 CAT Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-5200-CAT-pi-101858-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU Polytron 5000 Series 9033825 ME",
+      "href": "/Content/Documents/Products/polytron-5000-series-ifu-9033825-deen.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0, Polytron 8xx0 - Notes on Approval - 4544300 en-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-4544300-en-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "IFU SP Polytron 5xx0/Polytron 8xx0 - Safety instructions - 9301119 de-me",
+      "href": "/Content/Documents/Products/polytron-ifusp-9301119-de-me.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Explosion Protection Brochure, es",
+      "href": "/Content/Documents/Products/explosion-protection-gas-detection-systems-br-9071006-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Gas Dispersion Brochure, en",
+      "href": "/Content/Documents/Products/sab-gas-dispersion-br-9046434-en-en.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "More than the sum Brochure, es",
+      "href": "/Content/Documents/Products/gas-detection-systems-br-9094078-es-es.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "Link to Polytron 5xx0/8xx0 Configurator",
+      "href": "https://polytron.azurewebsites.net/public/de/index.html",
+      "type": null
+    },
+    {
+      "label": "Polytron 5200 CAT Product Information, es",
+      "href": "/Content/Documents/Products/Polytron-5200-CAT-pi-101858-es-ES.pdf",
+      "type": "pdf"
+    },
+    {
+      "label": "PolySoft (V1.30.4)",
+      "href": "/Content/Documents/Products/PolySoft-Setup.zip",
+      "type": null
+    }
+  ],
+  "similar": [],
+  "raw": {
+    "titlesFound": [
+      "Siempre protegido: Medición de gases inflamables con la experiencia de Dräger",
+      "Características destacadas",
+      "Especificaciones",
+      "Datos generales",
+      "Características técnicas",
+      "Homologaciones",
+      "Dräger Polytron 5200 CAT: Sustancias peligrosas medibles y sensores pertinentes",
+      "Dräger VOICESu herramienta de búsqueda de productos de seguridad para materiales peligrosos",
+      "Ver todo el sistema de productos.",
+      "Productos de conexión",
+      "Accesorios",
+      "Descargas",
+      "Productos similares",
+      "Ponerse en contacto con Dräger"
+    ]
+  }
+}
