@@ -68,6 +68,8 @@ export async function GET(request: Request) {
         imageSrc: true,
         href: true,
       },
+      // Nota: features + tagline vienen de Product, no de SafetyCatalogItem.
+      // Los traemos aparte para no romper el shape del listado.
     });
     return NextResponse.json(await Promise.all(items.map(absolutize)));
   }
