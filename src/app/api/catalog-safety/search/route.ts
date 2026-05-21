@@ -96,5 +96,5 @@ export async function GET(request: Request) {
     },
   });
 
-  return NextResponse.json(items.map(absolutize));
+  return NextResponse.json(await Promise.all(items.map(absolutize)));
 }
