@@ -151,7 +151,7 @@ export async function GET(request: Request) {
     href: string | null;
     searchText: string | null;
   };
-  let productsRanked: Array<{
+  const productsRanked: Array<{
     kind: "product";
     id: number;
     slug: string;
@@ -256,6 +256,9 @@ export async function GET(request: Request) {
       products: productsRanked.length,
     },
     categories,
-    results: merged.map(({ score: _s, ...rest }) => rest),
+    results: merged.map(({ score: _, ...rest }) => {
+      void _;
+      return rest;
+    }),
   });
 }
