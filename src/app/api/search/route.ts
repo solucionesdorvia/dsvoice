@@ -228,17 +228,31 @@ export async function GET(request: Request) {
     }
   }
 
-  // ---------- Mezclar y ordenar por score (lo más relevante arriba) ----------
+  // ---------- Mezclar y ordenar ----------
+  // Sin query (preview inicial): priorizar productos (tienen foto, son más
+  // visuales) y agregar algunas sustancias destacadas al final.
+  // Con query: ordenar por score de relevancia.
   type Result =
     | (typeof substancesRanked[number] & { kind: "substance" })
     | (typeof productsRanked[number] & { kind: "product" });
-  const merged: Result[] = [
-    ...substancesRanked,
-    ...productsRanked,
-  ].sort((a, b) => {
-    if (a.score !== b.score) return a.score - b.score;
-    return a.name.localeCompare(b.name);
-  }).slice(0, limit);
+  let merged: Result[];
+  if (!q) {
+    // Productos primero (todos), después sustancias.
+    const productsFirst = productsRanked
+      .slice()
+      .sort((a, b) => a.name.localeCompare(b.name));
+    const substancesAfter = substancesRanked
+      .slice()
+      .sort((a, b) => a.name.localeCompare(b.name));
+    merged = [...productsFirst, ...substancesAfter].slice(0, limit);
+  } else {
+    merged = [...substancesRanked, ...productsRanked]
+      .sort((a, b) => {
+        if (a.score !== b.score) return a.score - b.score;
+        return a.name.localeCompare(b.name);
+      })
+      .slice(0, limit);
+  }
 
   // Extras útiles para el frontend: lista de categorías de productos en los
   // resultados (para mostrar como filtros secundarios).
