@@ -1,7 +1,31 @@
 import { Prisma } from "@prisma/client";
+import { promises as fs } from "node:fs";
+import path from "node:path";
 
 import { prisma } from "./prisma";
 import { resolveStatement, H_STATEMENTS, P_STATEMENTS } from "./statements";
+
+// Index local de imágenes de productos pre-bajadas (public/products/<slug>.ext)
+// para sortear el anti-hotlinking de draeger.com.
+const PRODUCTS_DIR = path.join(process.cwd(), "public", "products");
+let LOCAL_PRODUCT_IMAGES: Record<string, string> | null = null;
+async function getLocalProductImage(slug: string): Promise<string | null> {
+  if (!slug) return null;
+  if (!LOCAL_PRODUCT_IMAGES) {
+    try {
+      const files = await fs.readdir(PRODUCTS_DIR);
+      LOCAL_PRODUCT_IMAGES = {};
+      for (const f of files) {
+        const ext = path.extname(f);
+        const base = f.slice(0, -ext.length);
+        LOCAL_PRODUCT_IMAGES[base] = "/products/" + f;
+      }
+    } catch {
+      LOCAL_PRODUCT_IMAGES = {};
+    }
+  }
+  return LOCAL_PRODUCT_IMAGES[slug] ?? null;
+}
 
 // The canonical "full substance" include shape — used by both the [id] and
 // [cas] detail routes as well as the detail page itself.
@@ -29,7 +53,7 @@ export async function getSubstanceById(id: number) {
     where: { id },
     include: substanceInclude,
   });
-  return s ? serializeSubstance(s) : null;
+  return s ? await serializeSubstance(s) : null;
 }
 
 export async function getSubstanceByCas(cas: string) {
@@ -37,12 +61,12 @@ export async function getSubstanceByCas(cas: string) {
     where: { casNumber: cas },
     include: substanceInclude,
   });
-  return s ? serializeSubstance(s) : null;
+  return s ? await serializeSubstance(s) : null;
 }
 
 // Shape the raw Prisma object into a UI-friendly structure with resolved
 // H/P statement text and a stable pictogram list.
-function serializeSubstance(s: SubstanceWithRelations) {
+async function serializeSubstance(s: SubstanceWithRelations) {
   return {
     id: s.id,
     name: s.name,
@@ -94,16 +118,19 @@ function serializeSubstance(s: SubstanceWithRelations) {
         }
       : null,
     synonyms: s.synonyms.map((sn) => sn.synonym),
-    products: s.products.map((rec) => ({
-      slug: rec.product.slug,
-      name: rec.product.name,
-      tagline: rec.product.tagline,
-      features: rec.product.features,
-      imageLocal: rec.product.imageLocal,
-      imageSrc: rec.product.imageSrc,
-      href: rec.product.href,
-      categoryGroup: rec.categoryGroup,
-      category: rec.category,
-    })),
+    products: await Promise.all(
+      s.products.map(async (rec) => ({
+        slug: rec.product.slug,
+        name: rec.product.name,
+        tagline: rec.product.tagline,
+        features: rec.product.features,
+        imageLocal: rec.product.imageLocal,
+        imageSrc:
+          (await getLocalProductImage(rec.product.slug)) ?? rec.product.imageSrc,
+        href: rec.product.href,
+        categoryGroup: rec.categoryGroup,
+        category: rec.category,
+      })),
+    ),
   };
 }

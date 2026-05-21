@@ -6,15 +6,42 @@ export const dynamic = "force-dynamic";
 
 const MAX = 200;
 
-// Las imágenes y URLs de productos vienen como paths relativos al sitio de
-// Dräger (ej: "/Media/Content/Products/..."). Las prefijamos para que
-// carguen desde el CDN cuando el frontend está embebido en otro dominio.
+// Drager.com bloquea hotlinking de sus imágenes (TLS fingerprinting agresivo).
+// Las pre-bajamos a public/products/<slug>.jpg con Playwright y las servimos
+// localmente. Si por algún motivo el slug no tiene asset local, devolvemos
+// null para que el frontend muestre placeholder (en vez de imagen rota).
+import { promises as fs } from "node:fs";
+import path from "node:path";
+
+const PRODUCTS_DIR = path.join(process.cwd(), "public", "products");
+let LOCAL_IMAGE_INDEX: Record<string, string> | null = null;
+
+async function getLocalImage(slug: string): Promise<string | null> {
+  if (!slug) return null;
+  if (!LOCAL_IMAGE_INDEX) {
+    try {
+      const files = await fs.readdir(PRODUCTS_DIR);
+      LOCAL_IMAGE_INDEX = {};
+      for (const f of files) {
+        const ext = path.extname(f);
+        const base = f.slice(0, -ext.length);
+        LOCAL_IMAGE_INDEX[base] = "/products/" + f;
+      }
+    } catch {
+      LOCAL_IMAGE_INDEX = {};
+    }
+  }
+  return LOCAL_IMAGE_INDEX[slug] ?? null;
+}
+
 const DRAEGER_CDN = "https://www.draeger.com";
 
-function absolutize<T extends { imageSrc: string | null; href: string | null }>(item: T): T {
+async function absolutize<T extends { slug: string; imageSrc: string | null; href: string | null }>(item: T): Promise<T> {
+  const local = await getLocalImage(item.slug);
   return {
     ...item,
-    imageSrc: item.imageSrc && item.imageSrc.startsWith("/") ? DRAEGER_CDN + item.imageSrc : item.imageSrc,
+    imageSrc: local
+      ?? (item.imageSrc && item.imageSrc.startsWith("/") ? DRAEGER_CDN + item.imageSrc : item.imageSrc),
     href: item.href && item.href.startsWith("/") ? DRAEGER_CDN + item.href : item.href,
   };
 }
@@ -42,7 +69,7 @@ export async function GET(request: Request) {
         href: true,
       },
     });
-    return NextResponse.json(items.map(absolutize));
+    return NextResponse.json(await Promise.all(items.map(absolutize)));
   }
 
   const terms = q.split(/\s+/).filter((t) => t.length > 0);
