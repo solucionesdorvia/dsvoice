@@ -263,6 +263,8 @@ export async function GET(request: Request) {
       }
     } else {
       // type=products: buscamos la sustancia top aparte para el cross-link.
+      // Traemos varias y rankeamos para priorizar match exacto (ej "cloro"
+      // → Cloro, no "3-clorotolueno" que alfabéticamente viene primero).
       const terms = searchTerms(q);
       const subs = await prisma.substance.findMany({
         where: {
@@ -271,10 +273,30 @@ export async function GET(request: Request) {
             { synonyms: { some: { synonym: { contains: t, mode: "insensitive" as const } } } },
           ]),
         },
-        select: { id: true, name: true },
-        take: 2,
+        select: { id: true, name: true, synonyms: { select: { synonym: true } } },
+        take: 30,
       });
-      topSubs = subs.map((s) => ({ id: s.id, name: translateSubstanceName(s.name) }));
+      const qLow = q.toLowerCase();
+      const ranked = subs
+        .map((s) => {
+          const nLow = (s.name || "").toLowerCase();
+          const nTr = translateSubstanceName(s.name).toLowerCase();
+          const synLow = s.synonyms.map((x) => (x.synonym || "").toLowerCase());
+          let score = 100;
+          if (nLow === qLow || nTr === qLow) score = 0;
+          else if (synLow.some((x) => x === qLow)) score = 5;
+          else if (nLow.startsWith(qLow) || nTr.startsWith(qLow)) score = 10;
+          else if (synLow.some((x) => x.startsWith(qLow))) score = 20;
+          else if (nLow.includes(qLow) || nTr.includes(qLow)) score = 60;
+          return { id: s.id, name: translateSubstanceName(s.name), score };
+        })
+        .sort((a, b) => a.score - b.score);
+      const best = ranked[0];
+      if (best && best.score === 0) {
+        topSubs = [{ id: best.id, name: best.name }];
+      } else {
+        topSubs = ranked.slice(0, 2).map((s) => ({ id: s.id, name: s.name }));
+      }
     }
 
     if (topSubs.length) {
