@@ -52,7 +52,9 @@ export async function GET(request: Request) {
   const q = (searchParams.get("q") ?? "").trim();
   const type = (searchParams.get("type") ?? "all").toLowerCase();
   const category = (searchParams.get("category") ?? "").trim();
-  const limit = Math.min(Number(searchParams.get("limit") ?? 40), 500);
+  // Cap alto: total = 2.109 sustancias + 81 productos. Con 5000 cubrimos
+  // sobradamente para que la búsqueda NUNCA se corte por límite.
+  const limit = Math.min(Number(searchParams.get("limit") ?? 40), 5000);
   // Preview inicial (sin query): mostramos pocos items para no abrumar el home.
   // Al buscar, se usa el `limit` completo.
   const PREVIEW_LIMIT = Math.min(limit, 24);
@@ -101,7 +103,9 @@ export async function GET(request: Request) {
           id: true, name: true, formula: true, casNumber: true,
           synonyms: { select: { synonym: true } },
         },
-        take: Math.max(limit * 4, 60),
+        // Traemos hasta TODO el catálogo de sustancias para rankear; cap de
+        // seguridad en 2500 (suficiente para las 2.109 indexadas).
+        take: Math.min(Math.max(limit * 4, 60), 2500),
       })) as SubRow[];
     } else {
       // Filtro "Sustancias" sin query: preview alfabético acotado.
@@ -188,7 +192,8 @@ export async function GET(request: Request) {
           id: true, slug: true, name: true, category: true,
           description: true, imageSrc: true, href: true, searchText: true,
         },
-        take: Math.max(limit * 2, 60),
+        // Productos: cap de seguridad en 200 (total real = 81).
+        take: Math.min(Math.max(limit * 2, 60), 200),
       })) as ProductRow[];
     } else {
       rows = (await prisma.safetyCatalogItem.findMany({
