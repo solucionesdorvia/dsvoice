@@ -52,7 +52,10 @@ export async function GET(request: Request) {
   const q = (searchParams.get("q") ?? "").trim();
   const type = (searchParams.get("type") ?? "all").toLowerCase();
   const category = (searchParams.get("category") ?? "").trim();
-  const limit = Math.min(Number(searchParams.get("limit") ?? 40), 100);
+  const limit = Math.min(Number(searchParams.get("limit") ?? 40), 500);
+  // Preview inicial (sin query): mostramos pocos items para no abrumar el home.
+  // Al buscar, se usa el `limit` completo.
+  const PREVIEW_LIMIT = Math.min(limit, 24);
 
   const wantSubstances = type === "all" || type === "substances";
   const wantProducts   = type === "all" || type === "products";
@@ -74,7 +77,11 @@ export async function GET(request: Request) {
     score: number;
   }> = [];
 
-  if (wantSubstances) {
+  // Sin query y vista "Todos": el preview muestra solo productos (vitrina
+  // visual). Las sustancias aparecen al buscar o al filtrar por "Sustancias".
+  const showSubstancesNow = wantSubstances && (q !== "" || type === "substances");
+
+  if (showSubstancesNow) {
     const queryLower = q.toLowerCase();
     const queryDigits = q.replace(/[^0-9-]/g, "");
     let rows: SubRow[] = [];
@@ -97,14 +104,14 @@ export async function GET(request: Request) {
         take: Math.max(limit * 4, 60),
       })) as SubRow[];
     } else {
-      // Sin query: mostrar las primeras (alfabético) para landing.
+      // Filtro "Sustancias" sin query: preview alfabético acotado.
       rows = (await prisma.substance.findMany({
         select: {
           id: true, name: true, formula: true, casNumber: true,
           synonyms: { select: { synonym: true } },
         },
         orderBy: { name: "asc" },
-        take: limit,
+        take: PREVIEW_LIMIT,
       })) as SubRow[];
     }
 
@@ -161,6 +168,7 @@ export async function GET(request: Request) {
     imageSrc: string | null;
     href: string | null;
     score: number;
+    relatedTo?: string | null;
   }> = [];
 
   if (wantProducts) {
@@ -192,7 +200,7 @@ export async function GET(request: Request) {
           description: true, imageSrc: true, href: true, searchText: true,
         },
         orderBy: [{ category: "asc" }, { name: "asc" }],
-        take: limit,
+        take: PREVIEW_LIMIT,
       })) as ProductRow[];
     }
 
@@ -225,6 +233,94 @@ export async function GET(request: Request) {
         href: absUrl(r.href),
         score,
       });
+    }
+  }
+
+  // ---------- Cross-link: productos recomendados para la sustancia buscada ----------
+  // Si el usuario busca una sustancia (ej "cloro"), traemos los equipos Dräger
+  // recomendados PARA esa sustancia vía ProductRecommendation, aunque el texto
+  // del producto no contenga la palabra buscada. Así "cloro" muestra sus
+  // detectores correspondientes.
+  if (q && wantProducts) {
+    // Identificar la(s) sustancia(s) más relevantes para la query.
+    let topSubs: Array<{ id: number; name: string }> = [];
+    if (substancesRanked.length) {
+      const ranked = substancesRanked
+        .filter((s) => s.score <= 20) // exact / starts-with / CAS exacto
+        .sort((a, b) => a.score - b.score);
+      // Si hay una coincidencia muy fuerte (exacta o CAS exacto), usamos solo
+      // esa para que los productos recomendados sean precisos. Si no, top 2.
+      const best = ranked[0];
+      if (best && best.score === 0) {
+        topSubs = [{ id: best.id, name: best.name }];
+      } else {
+        topSubs = ranked.slice(0, 2).map((s) => ({ id: s.id, name: s.name }));
+      }
+    } else {
+      // type=products: buscamos la sustancia top aparte para el cross-link.
+      const terms = searchTerms(q);
+      const subs = await prisma.substance.findMany({
+        where: {
+          OR: terms.flatMap((t) => [
+            { name: { contains: t, mode: "insensitive" as const } },
+            { synonyms: { some: { synonym: { contains: t, mode: "insensitive" as const } } } },
+          ]),
+        },
+        select: { id: true, name: true },
+        take: 2,
+      });
+      topSubs = subs.map((s) => ({ id: s.id, name: translateSubstanceName(s.name) }));
+    }
+
+    if (topSubs.length) {
+      const subNameById = new Map(topSubs.map((s) => [s.id, s.name]));
+      const recs = await prisma.productRecommendation.findMany({
+        where: { substanceId: { in: topSubs.map((s) => s.id) } },
+        select: { productId: true, substanceId: true, position: true },
+        orderBy: { position: "asc" },
+        take: 80,
+      });
+      // productId -> nombre de la sustancia que lo recomienda (la primera).
+      const relatedByProduct = new Map<number, string>();
+      for (const r of recs) {
+        if (!relatedByProduct.has(r.productId)) {
+          relatedByProduct.set(r.productId, subNameById.get(r.substanceId) ?? "");
+        }
+      }
+      const recProductIds = Array.from(relatedByProduct.keys());
+      if (recProductIds.length) {
+        const existingSlugs = new Set(productsRanked.map((p) => p.slug));
+        const recItems = (await prisma.safetyCatalogItem.findMany({
+          where: {
+            productId: { in: recProductIds },
+            ...(category ? { category: { equals: category, mode: "insensitive" as const } } : {}),
+          },
+          select: {
+            id: true, slug: true, name: true, category: true,
+            description: true, imageSrc: true, href: true, productId: true,
+          },
+        })) as Array<ProductRow & { productId: number | null }>;
+
+        for (const r of recItems) {
+          if (existingSlugs.has(r.slug)) continue;
+          existingSlugs.add(r.slug);
+          const localImg = await getLocalImage(r.slug);
+          productsRanked.push({
+            kind: "product" as const,
+            id: r.id,
+            slug: r.slug,
+            name: r.name,
+            category: r.category,
+            description: r.description,
+            imageSrc: localImg ?? absUrl(r.imageSrc),
+            href: absUrl(r.href),
+            // Score 5: aparecen justo después de la sustancia exacta (score 0),
+            // antes de coincidencias débiles. Son altamente relevantes.
+            score: 5,
+            relatedTo: r.productId != null ? (relatedByProduct.get(r.productId) || null) : null,
+          });
+        }
+      }
     }
   }
 
