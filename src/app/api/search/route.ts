@@ -22,6 +22,37 @@ const DRAEGER_CDN = "https://www.draeger.com";
 const PRODUCTS_DIR = path.join(process.cwd(), "public", "products");
 let LOCAL_IMAGE_INDEX: Record<string, string> | null = null;
 
+/**
+ * Limpia nombres mal formateados que vienen del scrape original:
+ * - Comillas envolventes ("cesio" → cesio)
+ * - Comillas escapadas dobladas tipo CSV (""isodecilo"" → isodecilo)
+ * - Saltos de línea/tabs internos colapsados a espacio
+ * - Múltiples espacios → 1
+ * - Caracteres "?" en patrones tipo "?,?'-" se convierten en "α,α'-" (alfa)
+ *   porque ese es el caso común en química (compuestos diamino-aromáticos).
+ * - Trim de espacios y puntuación residual.
+ * - Capitaliza primera letra si está toda en minúscula.
+ */
+function cleanName(name: string | null | undefined): string {
+  if (!name) return "";
+  let s = String(name);
+  // Colapsar whitespace (incluye \n, \t)
+  s = s.replace(/\s+/g, " ");
+  // Comillas dobles escapadas CSV: "" -> "
+  s = s.replace(/""/g, '"');
+  // Si está envuelto en comillas externas, sacarlas
+  s = s.replace(/^["'\s]+/, "").replace(/["'\s]+$/, "");
+  // Patrón "?,?'-" típico de pérdida de Unicode alpha → restaurar α
+  s = s.replace(/\?,\?'/g, "α,α'");
+  // Trim final
+  s = s.trim();
+  // Si todo el string es minúsculas y empieza con letra, capitalizar primera
+  if (s && /^[a-záéíóúñ]/.test(s) && s === s.toLowerCase()) {
+    s = s.charAt(0).toUpperCase() + s.slice(1);
+  }
+  return s;
+}
+
 async function getLocalImage(slug: string): Promise<string | null> {
   if (!slug) return null;
   if (!LOCAL_IMAGE_INDEX) {
@@ -122,8 +153,10 @@ export async function GET(request: Request) {
     // Versión sin acentos del query para matching tolerante a tildes.
     const qNa = stripAccents(queryLower);
     substancesRanked = rows.map((r) => {
-      const nameLower = (r.name || "").toLowerCase();
-      const nameTr = translateSubstanceName(r.name).toLowerCase();
+      // Normalizamos el nombre crudo antes de cualquier comparación.
+      const cleanedName = cleanName(r.name);
+      const nameLower = cleanedName.toLowerCase();
+      const nameTr = translateSubstanceName(cleanedName).toLowerCase();
       const nameNa = stripAccents(nameLower);
       const nameTrNa = stripAccents(nameTr);
       const formula = (r.formula || "");
@@ -148,7 +181,7 @@ export async function GET(request: Request) {
       return {
         kind: "substance" as const,
         id: r.id,
-        name: translateSubstanceName(r.name),
+        name: translateSubstanceName(cleanedName),
         casNumber: r.casNumber,
         formula: r.formula,
         score,
@@ -284,8 +317,9 @@ export async function GET(request: Request) {
       const qLow = q.toLowerCase();
       const ranked = subs
         .map((s) => {
-          const nLow = (s.name || "").toLowerCase();
-          const nTr = translateSubstanceName(s.name).toLowerCase();
+          const cleaned = cleanName(s.name);
+          const nLow = cleaned.toLowerCase();
+          const nTr = translateSubstanceName(cleaned).toLowerCase();
           const synLow = s.synonyms.map((x) => (x.synonym || "").toLowerCase());
           let score = 100;
           if (nLow === qLow || nTr === qLow) score = 0;
@@ -293,7 +327,7 @@ export async function GET(request: Request) {
           else if (nLow.startsWith(qLow) || nTr.startsWith(qLow)) score = 10;
           else if (synLow.some((x) => x.startsWith(qLow))) score = 20;
           else if (nLow.includes(qLow) || nTr.includes(qLow)) score = 60;
-          return { id: s.id, name: translateSubstanceName(s.name), score };
+          return { id: s.id, name: translateSubstanceName(cleaned), score };
         })
         .sort((a, b) => a.score - b.score);
       const best = ranked[0];
