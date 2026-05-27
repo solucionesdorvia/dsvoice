@@ -86,9 +86,6 @@ export async function GET(request: Request) {
   // Cap alto: total = 2.109 sustancias + 81 productos. Con 5000 cubrimos
   // sobradamente para que la búsqueda NUNCA se corte por límite.
   const limit = Math.min(Number(searchParams.get("limit") ?? 40), 5000);
-  // Preview inicial (sin query): mostramos pocos items para no abrumar el home.
-  // Al buscar, se usa el `limit` completo.
-  const PREVIEW_LIMIT = Math.min(limit, 24);
 
   const wantSubstances = type === "all" || type === "substances";
   const wantProducts   = type === "all" || type === "products";
@@ -110,11 +107,7 @@ export async function GET(request: Request) {
     score: number;
   }> = [];
 
-  // Sin query y vista "Todos": el preview muestra solo productos (vitrina
-  // visual). Las sustancias aparecen al buscar o al filtrar por "Sustancias".
-  const showSubstancesNow = wantSubstances && (q !== "" || type === "substances");
-
-  if (showSubstancesNow) {
+  if (wantSubstances) {
     const queryLower = q.toLowerCase();
     const queryDigits = q.replace(/[^0-9-]/g, "");
     let rows: SubRow[] = [];
@@ -139,14 +132,14 @@ export async function GET(request: Request) {
         take: Math.min(Math.max(limit * 4, 60), 2500),
       })) as SubRow[];
     } else {
-      // Filtro "Sustancias" sin query: preview alfabético acotado.
+      // Sin query: traer TODO el catálogo de sustancias, ordenado alfabético.
       rows = (await prisma.substance.findMany({
         select: {
           id: true, name: true, formula: true, casNumber: true,
           synonyms: { select: { synonym: true } },
         },
         orderBy: { name: "asc" },
-        take: PREVIEW_LIMIT,
+        take: Math.min(limit, 2500),
       })) as SubRow[];
     }
 
@@ -243,7 +236,7 @@ export async function GET(request: Request) {
           description: true, imageSrc: true, href: true, searchText: true,
         },
         orderBy: [{ category: "asc" }, { name: "asc" }],
-        take: PREVIEW_LIMIT,
+        take: Math.min(limit, 200),
       })) as ProductRow[];
     }
 
