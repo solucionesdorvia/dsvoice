@@ -107,7 +107,11 @@ export async function GET(request: Request) {
     score: number;
   }> = [];
 
-  if (wantSubstances) {
+  // Sin query y vista "Todos": solo productos como vitrina visual.
+  // Las sustancias aparecen al buscar o al filtrar por "Sustancias".
+  const showSubstancesNow = wantSubstances && (q !== "" || type === "substances");
+
+  if (showSubstancesNow) {
     const queryLower = q.toLowerCase();
     const queryDigits = q.replace(/[^0-9-]/g, "");
     let rows: SubRow[] = [];
@@ -132,14 +136,15 @@ export async function GET(request: Request) {
         take: Math.min(Math.max(limit * 4, 60), 2500),
       })) as SubRow[];
     } else {
-      // Sin query: traer TODO el catálogo de sustancias, ordenado alfabético.
+      // Filtro "Sustancias" sin query: muestra un set destacado (50 primeras
+      // alfabéticamente) en vez de las 2.109 — más manejable visualmente.
       rows = (await prisma.substance.findMany({
         select: {
           id: true, name: true, formula: true, casNumber: true,
           synonyms: { select: { synonym: true } },
         },
         orderBy: { name: "asc" },
-        take: Math.min(limit, 2500),
+        take: Math.min(limit, 50),
       })) as SubRow[];
     }
 
