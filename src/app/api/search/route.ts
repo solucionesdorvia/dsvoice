@@ -14,7 +14,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 
 import { prisma } from "@/lib/prisma";
-import { searchTerms, translateSubstanceName } from "@/lib/translations";
+import { searchTerms, translateSubstanceName, stripAccents } from "@/lib/translations";
 
 export const dynamic = "force-dynamic";
 
@@ -119,25 +119,30 @@ export async function GET(request: Request) {
       })) as SubRow[];
     }
 
+    // Versión sin acentos del query para matching tolerante a tildes.
+    const qNa = stripAccents(queryLower);
     substancesRanked = rows.map((r) => {
       const nameLower = (r.name || "").toLowerCase();
       const nameTr = translateSubstanceName(r.name).toLowerCase();
+      const nameNa = stripAccents(nameLower);
+      const nameTrNa = stripAccents(nameTr);
       const formula = (r.formula || "");
       const cas = (r.casNumber || "");
       const synLowers = r.synonyms.map((s) => (s.synonym || "").toLowerCase());
+      const synNa = synLowers.map((s) => stripAccents(s));
 
       let score = 100;
       if (!q) {
         score = 50;
-      } else if (nameLower === queryLower || nameTr === queryLower) score = 0;
-      else if (nameLower.startsWith(queryLower) || nameTr.startsWith(queryLower)) score = 10;
+      } else if (nameNa === qNa || nameTrNa === qNa) score = 0;
+      else if (nameNa.startsWith(qNa) || nameTrNa.startsWith(qNa)) score = 10;
       else if (queryDigits && cas === queryDigits) score = 20;
       else if (formula.toLowerCase() === queryLower) score = 30;
-      else if (synLowers.some((s) => s === queryLower)) score = 40;
-      else if (synLowers.some((s) => s.startsWith(queryLower))) score = 50;
-      else if (nameLower.includes(queryLower) || nameTr.includes(queryLower)) score = 60;
+      else if (synNa.some((s) => s === qNa)) score = 40;
+      else if (synNa.some((s) => s.startsWith(qNa))) score = 50;
+      else if (nameNa.includes(qNa) || nameTrNa.includes(qNa)) score = 60;
       else if (queryDigits && cas.includes(queryDigits)) score = 70;
-      else if (synLowers.some((s) => s.includes(queryLower))) score = 80;
+      else if (synNa.some((s) => s.includes(qNa))) score = 80;
       else if (formula.toLowerCase().includes(queryLower)) score = 90;
 
       return {

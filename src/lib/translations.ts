@@ -154,5 +154,53 @@ export function searchTerms(query: string): string[] {
     terms.add(q.slice(0, -1));
   }
 
+  // Variantes acentuales: si el término no tiene acentos, generar todas las
+  // combinaciones posibles con/sin acento por vocal. Así "amoniaco" encuentra
+  // "Amoníaco", "cloruro hidrogeno" encuentra "Cloruro de hidrógeno", etc.
+  for (const t of Array.from(terms)) {
+    for (const variant of expandAccentVariants(t)) {
+      terms.add(variant);
+    }
+  }
+
   return Array.from(terms);
+}
+
+/**
+ * Genera variantes acentuales de un término. Si "amoniaco" se pasa, genera
+ * "amoniaco", "amoníaco", "ámoniaco", etc. Cap a 64 variantes para no
+ * explotar la query con OR. Si el término ya tiene acentos o es muy largo,
+ * devuelve solo el original.
+ */
+export function expandAccentVariants(s: string): string[] {
+  // Si ya tiene acentos hispanos, no expandir (asumimos que ya es la versión
+  // canónica). Igual agregamos versión sin acentos para captar variantes en BD.
+  if (/[áéíóúñÁÉÍÓÚÑ]/.test(s)) {
+    return [s, stripAccents(s)];
+  }
+  if (s.length > 20) return [s];
+
+  const accentMap: Record<string, string> = {
+    a: "á", e: "é", i: "í", o: "ó", u: "ú",
+    A: "Á", E: "É", I: "Í", O: "Ó", U: "Ú",
+  };
+  const out = new Set<string>([s]);
+  function rec(i: number, acc: string) {
+    if (out.size > 64) return;
+    if (i === s.length) { out.add(acc); return; }
+    const c = s[i];
+    rec(i + 1, acc + c);
+    if (out.size > 64) return;
+    if (accentMap[c]) rec(i + 1, acc + accentMap[c]);
+  }
+  rec(0, "");
+  return Array.from(out);
+}
+
+/**
+ * Quita acentos hispanos de un string. Usado en el ranking JS para comparar
+ * strings sin importar acentos (ej: "amoniaco" matchea "Amoníaco").
+ */
+export function stripAccents(s: string): string {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
