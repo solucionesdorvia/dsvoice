@@ -12,16 +12,8 @@ import { prisma } from "@/lib/prisma";
 
 export const dynamic = "force-dynamic";
 
-function corsHeaders(): Record<string, string> {
-  return {
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-  };
-}
-
 export async function OPTIONS() {
-  return new NextResponse(null, { status: 204, headers: corsHeaders() });
+  return new NextResponse(null, { status: 204 });
 }
 
 function rangeToDate(range: string): Date {
@@ -58,7 +50,7 @@ export async function GET(request: Request) {
         isReturning: e.isReturning,
         createdAt: e.createdAt.toISOString(),
       })),
-    }, { headers: corsHeaders() });
+    });
   }
 
   // Lista de sesiones recientes
@@ -94,5 +86,5 @@ export async function GET(request: Request) {
       lastSeen: s.lastSeen.toISOString(),
       isReturning: s.isReturning,
     })),
-  }, { headers: corsHeaders() });
+  });
 }

@@ -25,16 +25,8 @@ import { prisma } from "@/lib/prisma";
 
 export const dynamic = "force-dynamic";
 
-function corsHeaders(): Record<string, string> {
-  return {
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-  };
-}
-
 export async function OPTIONS() {
-  return new NextResponse(null, { status: 204, headers: corsHeaders() });
+  return new NextResponse(null, { status: 204 });
 }
 
 function rangeToDate(range: string): Date | null {
@@ -203,5 +195,5 @@ export async function GET(request: Request) {
       date: r.day.toISOString().slice(0, 10),
       count: Number(r.count),
     })),
-  }, { headers: corsHeaders() });
+  });
 }

@@ -38,16 +38,8 @@ function clamp(s: unknown, max: number): string | null {
   return t.length > max ? t.slice(0, max) : t;
 }
 
-function corsHeaders(): Record<string, string> {
-  return {
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-  };
-}
-
 export async function OPTIONS() {
-  return new NextResponse(null, { status: 204, headers: corsHeaders() });
+  return new NextResponse(null, { status: 204 });
 }
 
 export async function POST(request: Request) {
@@ -57,7 +49,7 @@ export async function POST(request: Request) {
     const sessionId = clamp(body.sessionId, 64);
     const eventType = clamp(body.eventType, 20);
     if (!sessionId || !eventType || !ALLOWED_EVENTS.has(eventType)) {
-      return new NextResponse(null, { status: 204, headers: corsHeaders() });
+      return new NextResponse(null, { status: 204 });
     }
 
     const filter = clamp(body.filter, 20);
@@ -83,5 +75,5 @@ export async function POST(request: Request) {
     // Silenciamos: el tracking no debe romper la UX.
   }
 
-  return new NextResponse(null, { status: 204, headers: corsHeaders() });
+  return new NextResponse(null, { status: 204 });
 }
