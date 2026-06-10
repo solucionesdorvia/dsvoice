@@ -15,4 +15,11 @@ if ! output=$(npx prisma migrate deploy 2>&1); then
 else
   printf '%s\n' "$output"
 fi
+
+# Sincronizar el schema con la DB de Railway: aplica los modelos que no
+# están en migraciones (ej: SearchEvent agregado vía db push en local).
+# Es idempotente; si ya están sincronizados no hace nada.
+echo "Syncing schema with prisma db push..."
+npx prisma db push --skip-generate --accept-data-loss || echo "Warning: db push falló, continuando con la app de todos modos"
+
 exec npm start
