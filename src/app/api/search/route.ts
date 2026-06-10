@@ -240,8 +240,12 @@ export async function GET(request: Request) {
           id: true, slug: true, name: true, category: true,
           description: true, imageSrc: true, href: true, searchText: true,
         },
-        orderBy: [{ category: "asc" }, { name: "asc" }],
-        take: Math.min(limit, 200),
+        // Pedimos hasta 200 (cubre los 81 reales) y ordenamos en JS por
+        // prioridad comercial de categoría más abajo. Si la base
+        // devolviera solo "limit" registros alfabéticos, perderíamos los
+        // tubos colorimétricos en los primeros resultados sin query.
+        orderBy: [{ name: "asc" }],
+        take: 200,
       })) as ProductRow[];
     }
 
@@ -392,23 +396,53 @@ export async function GET(request: Request) {
   // Sin query (preview inicial): priorizar productos (tienen foto, son más
   // visuales) y agregar algunas sustancias destacadas al final.
   // Con query: ordenar por score de relevancia.
+  // ---------- Orden comercial de categorías ----------
+  // Definido junto al cliente: primero tubos colorimétricos, después
+  // detectores electrónicos portátiles y luego estacionarios. El resto
+  // (evacuación, respiración autónoma, máscaras, trajes) va después.
+  // Las categorías no listadas reciben prioridad 999 y caen al final.
+  const CATEGORY_ORDER: Record<string, number> = {
+    "Tubos colorimétricos": 1,
+    "Detectores portátiles de gas y sensores": 2,
+    "Detectores fijos de gases y sensores": 3,
+    "Equipos de evacuación con filtro": 4,
+    "Independiente del aire ambiente": 5,
+    "Máscaras & Filtros": 6,
+    "Trajes": 7,
+  };
+  function categoryPriority(cat: string | null | undefined): number {
+    if (!cat) return 999;
+    return CATEGORY_ORDER[cat] ?? 999;
+  }
+
   type Result =
     | (typeof substancesRanked[number] & { kind: "substance" })
     | (typeof productsRanked[number] & { kind: "product" });
   let merged: Result[];
   if (!q) {
-    // Productos primero (todos), después sustancias.
+    // Sin query: productos primero ordenados por prioridad de categoría,
+    // después sustancias alfabéticas.
     const productsFirst = productsRanked
       .slice()
-      .sort((a, b) => a.name.localeCompare(b.name));
+      .sort((a, b) => {
+        const pa = categoryPriority(a.category);
+        const pb = categoryPriority(b.category);
+        if (pa !== pb) return pa - pb;
+        return a.name.localeCompare(b.name);
+      });
     const substancesAfter = substancesRanked
       .slice()
       .sort((a, b) => a.name.localeCompare(b.name));
     merged = [...productsFirst, ...substancesAfter].slice(0, limit);
   } else {
+    // Con query: ordenar por relevancia (score). A igual score, los productos
+    // siguen el orden comercial de categorías. Sustancias alfabético.
     merged = [...substancesRanked, ...productsRanked]
       .sort((a, b) => {
         if (a.score !== b.score) return a.score - b.score;
+        const aCat = a.kind === "product" ? categoryPriority(a.category) : 0;
+        const bCat = b.kind === "product" ? categoryPriority(b.category) : 0;
+        if (aCat !== bCat) return aCat - bCat;
         return a.name.localeCompare(b.name);
       })
       .slice(0, limit);

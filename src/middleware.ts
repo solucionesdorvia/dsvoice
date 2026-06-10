@@ -51,7 +51,7 @@ export function middleware(request: NextRequest) {
 function applyCors(res: NextResponse, origin: string) {
   res.headers.set("Access-Control-Allow-Origin", origin);
   res.headers.append("Vary", "Origin");
-  res.headers.set("Access-Control-Allow-Methods", "GET, OPTIONS");
+  res.headers.set("Access-Control-Allow-Methods", "GET, POST, OPTIONS");
   res.headers.set("Access-Control-Allow-Headers", "Content-Type, Accept");
   res.headers.set("Access-Control-Max-Age", "86400");
 }

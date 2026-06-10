@@ -175,3 +175,25 @@ model SubstanceSynonym {
   @@index([synonym])
   @@index([substanceId])
 }
+
+/// Eventos del buscador para métricas y analytics anónimos.
+/// Registra cada búsqueda, click en card y submit de form,
+/// agrupados por sessionId (anónimo, generado en el cliente).
+model SearchEvent {
+  id           Int      @id @default(autoincrement())
+  sessionId    String   @db.VarChar(64)
+  eventType    String   @db.VarChar(20)
+  query        String?  @db.VarChar(200)
+  filter       String?  @db.VarChar(20)
+  resultsCount Int?
+  itemKind     String?  @db.VarChar(20)
+  itemId       Int?
+  itemName     String?  @db.VarChar(200)
+  userAgent    String?  @db.VarChar(200)
+  isReturning  Boolean  @default(false)
+  createdAt    DateTime @default(now())
+
+  @@index([eventType, createdAt])
+  @@index([sessionId, createdAt])
+  @@index([query])
+}
